@@ -1,0 +1,1976 @@
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:61:10: warning: '&' within '|' [-Wbitwise-op-parentheses]
+        return x&y | ~x&z;
+               ~^~ ~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:61:10: note: place parentheses around the '&' expression to silence this warning
+        return x&y | ~x&z;
+                ^
+               (  )
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:61:17: warning: '&' within '|' [-Wbitwise-op-parentheses]
+        return x&y | ~x&z;
+                   ~ ~~^~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:61:17: note: place parentheses around the '&' expression to silence this warning
+        return x&y | ~x&z;
+                       ^
+                     (   )
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:65:10: warning: '&' within '|' [-Wbitwise-op-parentheses]
+        return x&z | y&~z;
+               ~^~ ~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:65:10: note: place parentheses around the '&' expression to silence this warning
+        return x&z | y&~z;
+                ^
+               (  )
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:65:16: warning: '&' within '|' [-Wbitwise-op-parentheses]
+        return x&z | y&~z;
+                   ~ ~^~~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ry_MD5.cpp:65:16: note: place parentheses around the '&' expression to silence this warning
+        return x&z | y&~z;
+                      ^
+                     (   )
+4 warnings generated.
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:52:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert\ClientSocket.h:5:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:621:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:617:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:682:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:678:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/ClientKernel.cpp:3:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert\CMD_Data.h:621:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert\CMD_Data.h:617:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert\CMD_Data.h:682:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert\CMD_Data.h:678:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.cpp:1:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:621:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:617:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:682:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:678:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/AudioRecorder/AudioRecorderManager.cpp:11:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/AudioRecorder/../CMD_Data.h:621:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/AudioRecorder/../CMD_Data.h:617:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/AudioRecorder/../CMD_Data.h:682:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/AudioRecorder/../CMD_Data.h:678:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/AudioRecorder/AudioRecorderManager.cpp:255:47: warning: 'getFileData' is deprecated [-Wdeprecated-declarations]
+            pData = FileUtils::getInstance()->getFileData(fileFullPath,"rb",&size);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCFileUtils.h:286:5: note: 'getFileData' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual unsigned char* getFileData(const std::string& filename, const char* mode, ssize_t *size) const;
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ClientSocket.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/ClientSocket.h:5:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:621:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:617:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:682:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pszDstData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/CMD_Data.h:678:23: note: allocated with 'new[]' here
+                        char* pszDstData = new char[4096];
+                                           ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:21:19: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+Cv2 ccpTov2(const CCPoint&point);
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:22:1: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+CCPoint v2Toccp(const Cv2&v);
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:20:25: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CindexVBO :public CCObject
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:45:47: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Position);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:46:41: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Position);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:49:47: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:50:41: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:54:47: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Color);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:55:41: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Color);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:61:29: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Position,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:66:29: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_TexCoords,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:71:29: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Color,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:120:25: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Position, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:126:25: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_TexCoords, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:132:25: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Color, 4, GL_FLOAT, GL_FALSE, 4*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensGLProgramWithUnifos.h:21:35: warning: 'CCGLProgram' is deprecated [-Wdeprecated-declarations]
+class CGLProgramWithUnifos:public CCGLProgram
+                                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:623:1: note: 'CCGLProgram' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef GLProgram CCGLProgram;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:19:20: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class Cmesh:public CCObject
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:34:24: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshWire:public CCObject
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:49:27: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshGeneral:public CCObject
+                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:12:33: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+    class CrippleBuffer :public CCObject
+                                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:19:30: warning: 'CCSprite' is deprecated [-Wdeprecated-declarations]
+class CrippleSprite : public CCSprite{
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:739:1: note: 'CCSprite' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Sprite CCSprite;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:59:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:45:24: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    void doTouch(const CCPoint&touchPoint,float depth,float r);
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:213:4: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                        CC_SAFE_DELETE(pData);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:204:18: note: allocated with 'new[]' here
+                        char *pData = new char[len+4];
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:261:5: warning: 'delete' applied to a pointer that was allocated with 'new[]'; did you mean 'delete[]'? [-Wmismatched-new-delete]
+                                CC_SAFE_DELETE(pData);
+                                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:203:42: note: expanded from macro 'CC_SAFE_DELETE'
+#define CC_SAFE_DELETE(p)           do { delete (p); (p) = nullptr; } while(0)
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:253:19: note: allocated with 'new[]' here
+                                BYTE *pData = new BYTE[len+1];
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:313:16: warning: comparison between NULL and non-pointer ('int' and NULL) [-Wnull-arithmetic]
+                        if (handler == NULL)
+                            ~~~~~~~ ^  ~~~~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1687:18: warning: 'CCUserDefault' is deprecated [-Wdeprecated-declarations]
+    CCUserDefault::getInstance()->setIntegerForKey("CurApkVersion", 1);
+                 ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:617:1: note: 'CCUserDefault' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef UserDefault CCUserDefault;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1688:13: warning: 'CCFileUtils' is deprecated [-Wdeprecated-declarations]
+        CCFileUtils::getInstance()->addSearchPath("base/src/");
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:813:1: note: 'CCFileUtils' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef FileUtils CCFileUtils;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1709:2: warning: 'CCDirector' is deprecated [-Wdeprecated-declarations]
+        SCHEDULE->scheduleSelector(schedule_selector(AppDelegate::GlobalUpdate), this, 0, kRepeatForever, 0,false);
+        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:68:28: note: expanded from macro 'SCHEDULE'
+#define SCHEDULE CCDirector::sharedDirector()->getScheduler()
+                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:735:1: note: 'CCDirector' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Director CCDirector;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1709:2: warning: 'sharedDirector' is deprecated [-Wdeprecated-declarations]
+        SCHEDULE->scheduleSelector(schedule_selector(AppDelegate::GlobalUpdate), this, 0, kRepeatForever, 0,false);
+        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:68:30: note: expanded from macro 'SCHEDULE'
+#define SCHEDULE CCDirector::sharedDirector()->getScheduler()
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../base/CCDirector.h:149:5: note: 'sharedDirector' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE static Director* sharedDirector() { return Director::getInstance(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1709:12: warning: 'scheduleSelector' is deprecated [-Wdeprecated-declarations]
+        SCHEDULE->scheduleSelector(schedule_selector(AppDelegate::GlobalUpdate), this, 0, kRepeatForever, 0,false);
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../base/CCScheduler.h:455:5: note: 'scheduleSelector' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE void scheduleSelector(SEL_SCHEDULE selector, Ref *target, float interval, unsigned int repeat, float delay, bool paused)
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1737:94: warning: inequality comparison result unused [-Wunused-comparison]
+                        LuaEngine::getInstance()->getLuaStack()->executeFunctionByHandler(m_BackgroundCallBack, 1)!=0;
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/AppDelegate.cpp:1789:94: warning: inequality comparison result unused [-Wunused-comparison]
+                        LuaEngine::getInstance()->getLuaStack()->executeFunctionByHandler(m_BackgroundCallBack, 1)!=0;
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/LuaDrawNode3D.cpp:714:37: warning: 'lua_cocos2dx_DrawNode3D_setBlendFunc01' is deprecated [-Wdeprecated-declarations]
+    tolua_function(L,"setBlendFunc",lua_cocos2dx_DrawNode3D_setBlendFunc01);
+                                    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/LuaDrawNode3D.cpp:456:1: note: 'lua_cocos2dx_DrawNode3D_setBlendFunc01' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE int lua_cocos2dx_DrawNode3D_setBlendFunc01(lua_State* L)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+2 warnings generated.
+2 warnings generated.
+2 warnings generated.
+3 warnings generated.
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/UnZipAsset.cpp:31:42: warning: 'CCFileUtils' is deprecated [-Wdeprecated-declarations]
+        unsigned char *data = CCFileUtils::getInstance()->getFileData(zipPath, "rb", &len);
+                                         ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:813:1: note: 'CCFileUtils' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef FileUtils CCFileUtils;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/LuaAssert/UnZipAsset.cpp:31:59: warning: 'getFileData' is deprecated [-Wdeprecated-declarations]
+        unsigned char *data = CCFileUtils::getInstance()->getFileData(zipPath, "rb", &len);
+                                                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCFileUtils.h:286:5: note: 'getFileData' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual unsigned char* getFileData(const std::string& filename, const char* mode, ssize_t *size) const;
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+1 warning generated.
+2 warnings generated.
+35 warnings generated.
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.cpp:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:21:19: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+Cv2 ccpTov2(const CCPoint&point);
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:22:1: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+CCPoint v2Toccp(const Cv2&v);
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.cpp:46:19: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+Cv2 ccpTov2(const CCPoint&point){
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.cpp:50:1: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+CCPoint v2Toccp(const Cv2&v){
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.cpp:51:5: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    CCPoint point(v.x(),v.y());
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:20:25: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CindexVBO :public CCObject
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:45:47: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Position);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:46:41: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Position);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:49:47: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:50:41: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:54:47: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Color);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:55:41: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Color);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:61:29: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Position,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:66:29: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_TexCoords,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:71:29: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Color,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:120:25: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Position, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:126:25: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_TexCoords, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:132:25: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Color, 4, GL_FLOAT, GL_FALSE, 4*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensGLProgramWithUnifos.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensGLProgramWithUnifos.h:21:35: warning: 'CCGLProgram' is deprecated [-Wdeprecated-declarations]
+class CGLProgramWithUnifos:public CCGLProgram
+                                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:623:1: note: 'CCGLProgram' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef GLProgram CCGLProgram;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:21:19: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+Cv2 ccpTov2(const CCPoint&point);
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:22:1: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+CCPoint v2Toccp(const Cv2&v);
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:20:25: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CindexVBO :public CCObject
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.cpp:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:19:20: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class Cmesh:public CCObject
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:45:47: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Position);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:46:41: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Position);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:49:47: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:50:41: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:54:47: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Color);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:55:41: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Color);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:61:29: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Position,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:66:29: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_TexCoords,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:71:29: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Color,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:34:24: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshWire:public CCObject
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:49:27: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshGeneral:public CCObject
+                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:120:25: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Position, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:126:25: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_TexCoords, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:132:25: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Color, 4, GL_FLOAT, GL_FALSE, 4*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensGLProgramWithUnifos.h:21:35: warning: 'CCGLProgram' is deprecated [-Wdeprecated-declarations]
+class CGLProgramWithUnifos:public CCGLProgram
+                                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:623:1: note: 'CCGLProgram' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef GLProgram CCGLProgram;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:74:16: warning: 'ccpDot' is deprecated [-Wdeprecated-declarations]
+    float cosA=ccpDot(vec1, vec2)/(ccpLength(vec1)*ccpLength(vec2));
+               ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:172:1: note: 'ccpDot' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:74:36: warning: 'ccpLength' is deprecated [-Wdeprecated-declarations]
+    float cosA=ccpDot(vec1, vec2)/(ccpLength(vec1)*ccpLength(vec2));
+                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:264:1: note: 'ccpLength' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpLength(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:74:52: warning: 'ccpLength' is deprecated [-Wdeprecated-declarations]
+    float cosA=ccpDot(vec1, vec2)/(ccpLength(vec1)*ccpLength(vec2));
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:264:1: note: 'ccpLength' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpLength(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:136:15: warning: 'ccpNormalize' is deprecated [-Wdeprecated-declarations]
+    Vec2 se_e=ccpNormalize(se);
+              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:282:1: note: 'ccpNormalize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2 ccpNormalize(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:137:17: warning: 'ccpCross' is deprecated [-Wdeprecated-declarations]
+    float PNDis=ccpCross(sp, se_e);
+                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:182:1: note: 'ccpCross' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:164:20: warning: 'ccpDistance' is deprecated [-Wdeprecated-declarations]
+    float Len_v0v1=ccpDistance(v0, v1);
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:273:1: note: 'ccpDistance' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpDistance(const Vec2& v1, const Vec2& v2)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:165:20: warning: 'ccpDistance' is deprecated [-Wdeprecated-declarations]
+    float Len_v1v2=ccpDistance(v1, v2);
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:273:1: note: 'ccpDistance' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpDistance(const Vec2& v1, const Vec2& v2)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:166:20: warning: 'ccpDistance' is deprecated [-Wdeprecated-declarations]
+    float Len_v2v0=ccpDistance(v2, v0);
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:273:1: note: 'ccpDistance' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpDistance(const Vec2& v1, const Vec2& v2)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:197:22: warning: 'ccpNormalize' is deprecated [-Wdeprecated-declarations]
+        Vec2 dir_vvn=ccpNormalize(vn-v);
+                     ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:282:1: note: 'ccpNormalize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2 ccpNormalize(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:198:22: warning: 'ccpNormalize' is deprecated [-Wdeprecated-declarations]
+        Vec2 dir_vvf=ccpNormalize(vf-v);
+                     ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:282:1: note: 'ccpNormalize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2 ccpNormalize(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:199:21: warning: 'ccpNormalize' is deprecated [-Wdeprecated-declarations]
+        Vec2 dir_vp=ccpNormalize(dir_vvn+dir_vvf);//direction of vp
+                    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:282:1: note: 'ccpNormalize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2 ccpNormalize(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:200:25: warning: 'ccpDot' is deprecated [-Wdeprecated-declarations]
+        float cos_vnvvf=ccpDot(dir_vvn, dir_vvf);
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:172:1: note: 'ccpDot' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:203:17: warning: 'ccpMult' is deprecated [-Wdeprecated-declarations]
+        Vec2 vp=ccpMult(dir_vp, len_vp);
+                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:151:1: note: 'ccpMult' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:19:20: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class Cmesh:public CCObject
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:241:17: warning: 'ccpLength' is deprecated [-Wdeprecated-declarations]
+    float disPC=ccpLength(PC);
+                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:264:1: note: 'ccpLength' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpLength(const Vec2& v)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:269:28: warning: 'ccpMult' is deprecated [-Wdeprecated-declarations]
+    tangentPointLeft=point+ccpMult(dirPTLeft, disPT);
+                           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:151:1: note: 'ccpMult' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMath.cpp:271:29: warning: 'ccpMult' is deprecated [-Wdeprecated-declarations]
+    tangentPointRight=point+ccpMult(dirPTRight, disPT);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:151:1: note: 'ccpMult' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:34:24: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshWire:public CCObject
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:49:27: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshGeneral:public CCObject
+                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:12:33: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+    class CrippleBuffer :public CCObject
+                                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:19:30: warning: 'CCSprite' is deprecated [-Wdeprecated-declarations]
+class CrippleSprite : public CCSprite{
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:739:1: note: 'CCSprite' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Sprite CCSprite;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:3:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:45:24: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    void doTouch(const CCPoint&touchPoint,float depth,float r);
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:10:19: warning: 'CCSprite' is deprecated [-Wdeprecated-declarations]
+    this->CCSprite::initWithFile(texFileName.c_str());
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:739:1: note: 'CCSprite' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Sprite CCSprite;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:12:5: warning: 'CCSize' is deprecated [-Wdeprecated-declarations]
+    CCSize contentSize=this->getContentSize();
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:835:1: note: 'CCSize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Size CCSize;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:135:5: warning: 'CCAffineTransform' is deprecated [-Wdeprecated-declarations]
+    CCAffineTransform parentToNodeTransform=this->parentToNodeTransform();
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:833:1: note: 'CCAffineTransform' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef AffineTransform CCAffineTransform;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:135:51: warning: 'parentToNodeTransform' is deprecated [-Wdeprecated-declarations]
+    CCAffineTransform parentToNodeTransform=this->parentToNodeTransform();
+                                                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../2d/CCNode.h:1595:5: note: 'parentToNodeTransform' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual AffineTransform parentToNodeTransform() const { return getParentToNodeAffineTransform(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:136:32: warning: 'CCPointApplyAffineTransform' is deprecated [-Wdeprecated-declarations]
+    Vec2 touchPoint_localSpace=CCPointApplyAffineTransform(touchPoint,parentToNodeTransform);
+                               ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:541:1: note: 'CCPointApplyAffineTransform' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Vec2 CCPointApplyAffineTransform(const Vec2& point, const AffineTransform& t)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:138:5: warning: 'CCSize' is deprecated [-Wdeprecated-declarations]
+    CCSize contentSize=this->getContentSize();
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:835:1: note: 'CCSize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Size CCSize;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:165:23: warning: 'ccpDistance' is deprecated [-Wdeprecated-declarations]
+            float dis=ccpDistance(Vec2(x_OLU,y_OLU), Vec2(v_OLU.x(),v_OLU.y()));
+                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:273:1: note: 'ccpDistance' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline float ccpDistance(const Vec2& v1, const Vec2& v2)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:200:5: warning: 'CCSize' is deprecated [-Wdeprecated-declarations]
+    CCSize contentSize=this->getContentSize();
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:835:1: note: 'CCSize' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Size CCSize;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:201:5: warning: 'CCRect' is deprecated [-Wdeprecated-declarations]
+    CCRect rect_local=CCRect(0,0,contentSize.width,contentSize.height);
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:836:1: note: 'CCRect' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Rect CCRect;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:201:23: warning: 'CCRect' is deprecated [-Wdeprecated-declarations]
+    CCRect rect_local=CCRect(0,0,contentSize.width,contentSize.height);
+                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:836:1: note: 'CCRect' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Rect CCRect;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:202:2: warning: 'CCRect' is deprecated [-Wdeprecated-declarations]
+        CCRect rect_world=CCRectApplyAffineTransform(rect_local, this->nodeToWorldTransform());
+        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:836:1: note: 'CCRect' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Rect CCRect;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:202:65: warning: 'nodeToWorldTransform' is deprecated [-Wdeprecated-declarations]
+        CCRect rect_world=CCRectApplyAffineTransform(rect_local, this->nodeToWorldTransform());
+                                                                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../2d/CCNode.h:1606:5: note: 'nodeToWorldTransform' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual AffineTransform nodeToWorldTransform() const { return getNodeToWorldAffineTransform(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:202:20: warning: 'CCRectApplyAffineTransform' is deprecated [-Wdeprecated-declarations]
+        CCRect rect_world=CCRectApplyAffineTransform(rect_local, this->nodeToWorldTransform());
+                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:556:1: note: 'CCRectApplyAffineTransform' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static inline Rect CCRectApplyAffineTransform(const Rect& rect, const AffineTransform& anAffineTransform)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:207:5: warning: 'ccGLBlendFunc' is deprecated [-Wdeprecated-declarations]
+    ccGLBlendFunc( _blendFunc.src, _blendFunc.dst );
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:1077:1: note: 'ccGLBlendFunc' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE inline void CC_DLL ccGLBlendFunc(GLenum sfactor, GLenum dfactor) { GL::blendFunc(sfactor, dfactor); }
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:209:63: warning: 'getShaderProgram' is deprecated [-Wdeprecated-declarations]
+    CGLProgramWithUnifos*program=(CGLProgramWithUnifos*)this->getShaderProgram();
+                                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../2d/CCNode.h:1061:5: note: 'getShaderProgram' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE GLProgram* getShaderProgram() const { return getGLProgram(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:222:5: warning: 'ccGLBindTexture2D' is deprecated [-Wdeprecated-declarations]
+    ccGLBindTexture2D( this->getTexture()->getName());
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:1081:1: note: 'ccGLBindTexture2D' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE inline void CC_DLL ccGLBindTexture2D(GLuint textureId) { GL::bindTexture2D(textureId); }
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:227:5: warning: 'ccGLBindTexture2D' is deprecated [-Wdeprecated-declarations]
+    ccGLBindTexture2D(0);
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:1081:1: note: 'ccGLBindTexture2D' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE inline void CC_DLL ccGLBindTexture2D(GLuint textureId) { GL::bindTexture2D(textureId); }
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.cpp:246:9: warning: 'ccDrawPoly' is deprecated [-Wdeprecated-declarations]
+        ccDrawPoly(vertices, 3, true);
+        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:1059:1: note: 'ccDrawPoly' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE void CC_DLL ccDrawPoly( const Vec2 *vertices, unsigned int numOfVertices, bool closePolygon );
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.cpp:9:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+6 warnings generated.
+14 warnings generated.
+4 warnings generated.
+1 warning generated.
+17 warnings generated.
+1 warning generated.
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensSimpleClasses.h:167:12: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    vector<CCPoint> m_pointList;
+           ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:21:19: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+Cv2 ccpTov2(const CCPoint&point);
+                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:13:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensFunc.h:22:1: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+CCPoint v2Toccp(const Cv2&v);
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:20:25: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CindexVBO :public CCObject
+                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:45:47: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Position);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:46:41: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Position);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:49:47: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:50:41: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_TexCoords);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:54:47: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        if(isEnable)glEnableVertexAttribArray(kCCVertexAttrib_Color);
+                                              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:55:41: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        else glDisableVertexAttribArray(kCCVertexAttrib_Color);
+                                        ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:61:29: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Position,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:66:29: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_TexCoords,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:71:29: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+        glGetVertexAttribiv(kCCVertexAttrib_Color,GL_VERTEX_ATTRIB_ARRAY_ENABLED,&isEnabled);
+                            ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:120:25: warning: 'kCCVertexAttrib_Position' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Position, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:868:1: note: 'kCCVertexAttrib_Position' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Position = GLProgram::VERTEX_ATTRIB_POSITION;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:126:25: warning: 'kCCVertexAttrib_TexCoords' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_TexCoords, 2, GL_FLOAT, GL_FALSE, 2*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:870:1: note: 'kCCVertexAttrib_TexCoords' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_TexCoords = GLProgram::VERTEX_ATTRIB_TEX_COORD;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:16:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensIndexVBO.h:132:25: warning: 'kCCVertexAttrib_Color' is deprecated [-Wdeprecated-declarations]
+                glVertexAttribPointer(kCCVertexAttrib_Color, 4, GL_FLOAT, GL_FALSE, 4*sizeof(float), 0);
+                                      ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:869:1: note: 'kCCVertexAttrib_Color' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE const int kCCVertexAttrib_Color = GLProgram::VERTEX_ATTRIB_COLOR;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:17:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensGLProgramWithUnifos.h:21:35: warning: 'CCGLProgram' is deprecated [-Wdeprecated-declarations]
+class CGLProgramWithUnifos:public CCGLProgram
+                                  ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:623:1: note: 'CCGLProgram' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef GLProgram CCGLProgram;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:19:20: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class Cmesh:public CCObject
+                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:34:24: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshWire:public CCObject
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:9:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensCommon.h:18:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensMesh.h:49:27: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+class CmeshGeneral:public CCObject
+                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:12:33: warning: 'CCObject' is deprecated [-Wdeprecated-declarations]
+    class CrippleBuffer :public CCObject
+                                ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:597:1: note: 'CCObject' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Ref CCObject;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:19:30: warning: 'CCSprite' is deprecated [-Wdeprecated-declarations]
+class CrippleSprite : public CCSprite{
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:739:1: note: 'CCSprite' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Sprite CCSprite;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:1:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.h:12:
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/ensRippleNode.h:45:24: warning: 'CCPoint' is deprecated [-Wdeprecated-declarations]
+    void doTouch(const CCPoint&touchPoint,float depth,float r);
+                       ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:834:1: note: 'CCPoint' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Vec2 CCPoint;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:5:8: warning: 'setTouchEnabled' is deprecated [-Wdeprecated-declarations]
+        this->setTouchEnabled(true);
+              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/..\2d/CCLayer.h:180:5: note: 'setTouchEnabled' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE void setTouchEnabled(bool value);
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:6:8: warning: 'setSwallowsTouches' is deprecated [-Wdeprecated-declarations]
+        this->setSwallowsTouches(true);
+              ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/..\2d/CCLayer.h:189:5: note: 'setSwallowsTouches' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual void setSwallowsTouches(bool swallowsTouches);
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:11:30: warning: 'ccp' is deprecated [-Wdeprecated-declarations]
+        m_rippleSprite->setPosition(ccp(winSize.width/2, winSize.height/2));
+                                    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:108:1: note: 'ccp' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE inline Vec2 ccp(float x, float y)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:23:5: warning: 'CCTouch' is deprecated [-Wdeprecated-declarations]
+    CCTouch* touch;
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:624:1: note: 'CCTouch' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Touch CCTouch;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:27:18: warning: 'CCTouch' is deprecated [-Wdeprecated-declarations]
+        touch = (CCTouch*)(*it);
+                 ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:624:1: note: 'CCTouch' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Touch CCTouch;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:34:30: warning: 'CCDirector' is deprecated [-Wdeprecated-declarations]
+        location = CCDirector::sharedDirector()->convertToGL(location);
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:735:1: note: 'CCDirector' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Director CCDirector;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:34:32: warning: 'sharedDirector' is deprecated [-Wdeprecated-declarations]
+        location = CCDirector::sharedDirector()->convertToGL(location);
+                               ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../base/CCDirector.h:149:5: note: 'sharedDirector' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE static Director* sharedDirector() { return Director::getInstance(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:42:5: warning: 'CCTouch' is deprecated [-Wdeprecated-declarations]
+    CCTouch* touch;
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:624:1: note: 'CCTouch' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Touch CCTouch;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:45:18: warning: 'CCTouch' is deprecated [-Wdeprecated-declarations]
+        touch = (CCTouch*)(*it);
+                 ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:624:1: note: 'CCTouch' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Touch CCTouch;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:50:30: warning: 'CCDirector' is deprecated [-Wdeprecated-declarations]
+        location = CCDirector::sharedDirector()->convertToGL(location);
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:735:1: note: 'CCDirector' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Director CCDirector;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:50:32: warning: 'sharedDirector' is deprecated [-Wdeprecated-declarations]
+        location = CCDirector::sharedDirector()->convertToGL(location);
+                               ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../base/CCDirector.h:149:5: note: 'sharedDirector' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE static Director* sharedDirector() { return Director::getInstance(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:59:5: warning: 'CCTouch' is deprecated [-Wdeprecated-declarations]
+    CCTouch* touch;
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:624:1: note: 'CCTouch' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Touch CCTouch;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:62:18: warning: 'CCTouch' is deprecated [-Wdeprecated-declarations]
+        touch = (CCTouch*)(*it);
+                 ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:624:1: note: 'CCTouch' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Touch CCTouch;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:68:30: warning: 'CCDirector' is deprecated [-Wdeprecated-declarations]
+        location = CCDirector::sharedDirector()->convertToGL(location);
+                             ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../deprecated/CCDeprecated.h:735:1: note: 'CCDirector' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE typedef Director CCDirector;
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/runtime-src/proj.Component/app/jni/../../../Classes/utlis/rippleObject.cpp:68:32: warning: 'sharedDirector' is deprecated [-Wdeprecated-declarations]
+        location = CCDirector::sharedDirector()->convertToGL(location);
+                               ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../base/CCDirector.h:149:5: note: 'sharedDirector' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE static Director* sharedDirector() { return Director::getInstance(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+41 warnings generated.
+38 warnings generated.
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/cocostudio/lua_cocos2dx_coco_studio_manual.cpp:387:36: warning: 'getIgnoreMovementBoneData' is deprecated [-Wdeprecated-declarations]
+        tolua_pushboolean(L, self->getIgnoreMovementBoneData());
+                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/..\editor-support/cocostudio/CCBone.h:195:5: note: 'getIgnoreMovementBoneData' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE virtual bool getIgnoreMovementBoneData() const { return isIgnoreMovementBoneData(); }
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/..\platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/spine/lua_cocos2dx_spine_manual.cpp:514:43: warning: 'tolua_spine_SkeletoneAnimation_setBlendFunc' is deprecated [-Wdeprecated-declarations]
+        tolua_function(L, "setBlendFunc", tolua_spine_SkeletoneAnimation_setBlendFunc);
+                                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.android/../manual/spine/lua_cocos2dx_spine_manual.cpp:361:1: note: 'tolua_spine_SkeletoneAnimation_setBlendFunc' has been explicitly marked deprecated here
+CC_DEPRECATED_ATTRIBUTE static int tolua_spine_SkeletoneAnimation_setBlendFunc(lua_State* tolua_S)
+^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/3d/../platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+1 warning generated.
+1 warning generated.
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/tools/simulator/libsimulator/proj.android/../lib/runtime/ConsoleCommand.cpp:287:44: warning: format specifies type 'long' but the argument has type 'std::__ndk1::basic_string<char, std::__ndk1::char_traits<char>, std::__ndk1::allocator<char> >::size_type' (aka 'unsigned int') [-Wformat]
+            sprintf(msgLength + 1, "%ld:", msgContent.size());
+                                    ~~~    ^~~~~~~~~~~~~~~~~
+                                    %u
+1 warning generated.
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:209:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/jisx0208.h:2381:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0100)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:210:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/jisx0212.h:2161:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0460)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:213:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/gb2312.h:2539:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0460)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:214:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/isoir165.h:81:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/isoir165ext.h:760:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0200)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:217:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/cns11643.h:38:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/cns11643_inv.h:15373:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0100)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:218:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/big5.h:4124:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0100)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:220:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/ksc5601.h:2988:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x0460)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:235:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/gb18030.h:186:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/gb18030uni.h:185:23: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+                if (i >= 0 && i <= 39419) {
+                    ~ ^  ~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:235:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/gb18030.h:249:25: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+                  if (i >= 0 && i < 0x100000) {
+                      ~ ^  ~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:241:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/cp950.h:130:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/cp950ext.h:39:11: warning: equality comparison with extraneous parentheses [-Wparentheses-equality]
+  if ((c1 == 0xf9)) {
+       ~~~^~~~~~~
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/cp950ext.h:39:11: note: remove extraneous parentheses around the comparison to silence this warning
+  if ((c1 == 0xf9)) {
+      ~   ^      ~
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/cp950ext.h:39:11: note: use '=' to turn this equality comparison into an assignment
+  if ((c1 == 0xf9)) {
+          ^~
+          =
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:242:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/big5hkscs1999.h:46:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/hkscs1999.h:2957:12: warning: comparison of unsigned expression >= 0 is always true [-Wtautological-compare]
+    if (wc >= 0x0000 && wc < 0x02d0)
+        ~~ ^  ~~~~~~
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:67:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/converters.h:243:
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/big5hkscs2001.h:48:
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/hkscs2001.h:63:11: warning: equality comparison with extraneous parentheses [-Wparentheses-equality]
+  if ((c1 == 0x8c)) {
+       ~~~^~~~~~~
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/hkscs2001.h:63:11: note: remove extraneous parentheses around the comparison to silence this warning
+  if ((c1 == 0x8c)) {
+      ~   ^      ~
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/hkscs2001.h:63:11: note: use '=' to turn this equality comparison into an assignment
+  if ((c1 == 0x8c)) {
+          ^~
+          =
+In file included from F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/external/iconv/lib/iconv.c:150:
+lib/aliases.gperf:364:28: warning: static variable 'aliases' is used in an inline function with external linkage [-Wstatic-in-inline]
+          register int o = aliases[key].name;
+                           ^
+lib/aliases.gperf:350:1: note: use 'static' to give inline function 'aliases_lookup' internal linkage
+__inline
+^
+static 
+lib/aliases.gperf:775:27: note: 'aliases' declared here
+static const struct alias aliases[] =
+                          ^
+lib/aliases.gperf:367:44: warning: static variable 'stringpool_contents' is used in an inline function with external linkage [-Wstatic-in-inline]
+              register const char *s = o + stringpool;
+                                           ^
+lib/aliases.gperf:773:37: note: expanded from macro 'stringpool'
+#define stringpool ((const char *) &stringpool_contents)
+                                    ^
+lib/aliases.gperf:350:1: note: use 'static' to give inline function 'aliases_lookup' internal linkage
+__inline
+^
+static 
+lib/aliases.gperf:424:34: note: 'stringpool_contents' declared here
+static const struct stringpool_t stringpool_contents =
+                                 ^
+lib/aliases.gperf:370:25: warning: static variable 'aliases' is used in an inline function with external linkage [-Wstatic-in-inline]
+                return &aliases[key];
+                        ^
+lib/aliases.gperf:350:1: note: use 'static' to give inline function 'aliases_lookup' internal linkage
+__inline
+^
+static 
+lib/aliases.gperf:775:27: note: 'aliases' declared here
+static const struct alias aliases[] =
+                          ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/platform/android/javaactivity-android.cpp:108:34: warning: 'init' is deprecated [-Wdeprecated-declarations]
+        cocos2d::DrawPrimitives::init();
+                                 ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/platform/android/../..\2d/CCDrawingPrimitives.h:89:5: note: 'init' has been explicitly marked deprecated here
+    CC_DEPRECATED_ATTRIBUTE void CC_DLL init();
+    ^
+F:/bx_game_TrucoKing_mjb_2/frameworks/cocos2d-x/cocos/platform/android/../..\platform/CCPlatformMacros.h:276:52: note: expanded from macro 'CC_DEPRECATED_ATTRIBUTE'
+    #define CC_DEPRECATED_ATTRIBUTE __attribute__((deprecated))
+                                                   ^
+1 warning generated.
+15 warnings generated.

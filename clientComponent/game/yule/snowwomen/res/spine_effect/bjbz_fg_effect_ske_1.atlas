@@ -1,0 +1,153 @@
+
+bjbz_fg_effect_ske_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/K_K_00
+  rotate: false
+  xy: 1, 1
+  size: 720, 359
+  orig: 720, 360
+  offset: 0, 0
+  index: -1
+K_LZ_14
+  rotate: false
+  xy: 166, 711
+  size: 160, 139
+  orig: 179, 140
+  offset: 13, 1
+  index: -1
+K_LZ_00
+  rotate: false
+  xy: 336, 504
+  size: 165, 140
+  orig: 179, 140
+  offset: 7, 0
+  index: -1
+K_LZ_18
+  rotate: false
+  xy: 1, 504
+  size: 166, 140
+  orig: 179, 140
+  offset: 6, 0
+  index: -1
+K_LZ_10
+  rotate: false
+  xy: 1, 362
+  size: 170, 140
+  orig: 179, 140
+  offset: 5, 0
+  index: -1
+K_LZ_07
+  rotate: false
+  xy: 854, 427
+  size: 166, 140
+  orig: 179, 140
+  offset: 7, 0
+  index: -1
+K_LZ_16
+  rotate: false
+  xy: 1, 852
+  size: 163, 140
+  orig: 179, 140
+  offset: 10, 0
+  index: -1
+K_LZ_09
+  rotate: false
+  xy: 723, 1
+  size: 173, 140
+  orig: 179, 140
+  offset: 3, 0
+  index: -1
+K_LZ_08
+  rotate: false
+  xy: 173, 362
+  size: 170, 140
+  orig: 179, 140
+  offset: 5, 0
+  index: -1
+K_LZ_15
+  rotate: false
+  xy: 166, 852
+  size: 162, 140
+  orig: 179, 140
+  offset: 12, 0
+  index: -1
+K_LZ_19
+  rotate: false
+  xy: 670, 569
+  size: 165, 140
+  orig: 179, 140
+  offset: 6, 0
+  index: -1
+K_LZ_13
+  rotate: false
+  xy: 686, 427
+  size: 166, 140
+  orig: 179, 140
+  offset: 8, 0
+  index: -1
+K_LZ_06
+  rotate: false
+  xy: 723, 285
+  size: 171, 140
+  orig: 179, 140
+  offset: 0, 0
+  index: -1
+K_LZ_03
+  rotate: false
+  xy: 169, 504
+  size: 165, 140
+  orig: 179, 140
+  offset: 5, 0
+  index: -1
+K_LZ_05
+  rotate: false
+  xy: 516, 362
+  size: 168, 140
+  orig: 179, 140
+  offset: 2, 0
+  index: -1
+K_LZ_04
+  rotate: false
+  xy: 345, 362
+  size: 169, 140
+  orig: 179, 140
+  offset: 3, 0
+  index: -1
+K_LZ_01
+  rotate: false
+  xy: 837, 569
+  size: 166, 139
+  orig: 179, 140
+  offset: 5, 1
+  index: -1
+K_LZ_17
+  rotate: false
+  xy: 503, 504
+  size: 165, 140
+  orig: 179, 140
+  offset: 8, 0
+  index: -1
+K_LZ_11
+  rotate: false
+  xy: 723, 143
+  size: 171, 140
+  orig: 179, 140
+  offset: 4, 0
+  index: -1
+K_LZ_02
+  rotate: false
+  xy: 837, 710
+  size: 164, 140
+  orig: 179, 140
+  offset: 6, 0
+  index: -1
+K_LZ_12
+  rotate: false
+  xy: 1, 646
+  size: 163, 140
+  orig: 179, 140
+  offset: 11, 0
+  index: -1

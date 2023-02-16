@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../../cocos2d-x/cocos/platform/android/java/libs/oppoSDK.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../cocos2d-x/cocos/platform/android/java/libs/oppoSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

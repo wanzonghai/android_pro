@@ -1,0 +1,18 @@
+{
+	"IpMaxCount":1,
+	"ServerList": {
+	    "id1":"10",
+		"ip1":"6CCE15D5E800B8D50049BBE84A0EE84A4980194AE8350E65E819C949FF49"
+	},
+	"networkData":{
+	   "1":30000,
+	   "2":3000,
+	   "3":3000,
+	   "4":3000,
+       "5":3000,
+       "6":3000,
+	   "7":10
+	},
+	"IpUrl":"8.213.195.178",
+	"getIpUrl":"https://ifconfig.me/ip"
+}

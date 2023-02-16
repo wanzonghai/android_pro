@@ -1,0 +1,87 @@
+<Solution>
+  <PropertyGroup Name="alun" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="res">
+          <Folder Name="poker">
+            <Image Name="card_1.png" />
+            <Image Name="card_10.png" />
+            <Image Name="card_11.png" />
+            <Image Name="card_12.png" />
+            <Image Name="card_13.png" />
+            <Image Name="card_14.png" />
+            <Image Name="card_15.png" />
+            <Image Name="card_16.png" />
+            <Image Name="card_17.png" />
+            <Image Name="card_18.png" />
+            <Image Name="card_19.png" />
+            <Image Name="card_2.png" />
+            <Image Name="card_20.png" />
+            <Image Name="card_21.png" />
+            <Image Name="card_22.png" />
+            <Image Name="card_23.png" />
+            <Image Name="card_24.png" />
+            <Image Name="card_25.png" />
+            <Image Name="card_26.png" />
+            <Image Name="card_27.png" />
+            <Image Name="card_28.png" />
+            <Image Name="card_29.png" />
+            <Image Name="card_3.png" />
+            <Image Name="card_30.png" />
+            <Image Name="card_31.png" />
+            <Image Name="card_32.png" />
+            <Image Name="card_33.png" />
+            <Image Name="card_34.png" />
+            <Image Name="card_35.png" />
+            <Image Name="card_36.png" />
+            <Image Name="card_37.png" />
+            <Image Name="card_38.png" />
+            <Image Name="card_39.png" />
+            <Image Name="card_4.png" />
+            <Image Name="card_40.png" />
+            <Image Name="card_41.png" />
+            <Image Name="card_42.png" />
+            <Image Name="card_43.png" />
+            <Image Name="card_44.png" />
+            <Image Name="card_45.png" />
+            <Image Name="card_46.png" />
+            <Image Name="card_47.png" />
+            <Image Name="card_48.png" />
+            <Image Name="card_49.png" />
+            <Image Name="card_5.png" />
+            <Image Name="card_50.png" />
+            <Image Name="card_51.png" />
+            <Image Name="card_52.png" />
+            <Image Name="card_53.png" />
+            <Image Name="card_6.png" />
+            <Image Name="card_7.png" />
+            <Image Name="card_8.png" />
+            <Image Name="card_9.png" />
+          </Folder>
+          <Image Name="avatar_2.png" />
+          <Image Name="avatar_3.png" />
+          <Image Name="avatar_7.png" />
+          <Image Name="b1.png" />
+          <Image Name="b2.png" />
+          <Image Name="b3.png" />
+          <Image Name="b4.png" />
+          <Image Name="b5.png" />
+          <Image Name="b6.png" />
+          <Image Name="b7.png" />
+          <TTF Name="BalooBhaina.ttf" />
+          <Image Name="bg.png" />
+          <Image Name="bg_2.png" />
+          <Image Name="goback.png" />
+          <Image Name="greenBtn2.png" />
+          <Image Name="item1.png" />
+          <Image Name="png_TouXiang.png" />
+          <Image Name="sendBg.png" />
+          <Image Name="table_bg_1.jpg" />
+          <Image Name="yellowBtn1.png" />
+        </Folder>
+        <Project Name="GameLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

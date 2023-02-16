@@ -1,0 +1,391 @@
+
+jnh_kuang_firework_ske.png
+size: 1368,1368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_firework_00
+  rotate: false
+  xy: 1276, 1198
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_01
+  rotate: false
+  xy: 1276, 1028
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_02
+  rotate: false
+  xy: 1238, 858
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_03
+  rotate: false
+  xy: 1238, 688
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_04
+  rotate: false
+  xy: 910, 252
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_05
+  rotate: false
+  xy: 982, 252
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_06
+  rotate: false
+  xy: 1054, 214
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_07
+  rotate: false
+  xy: 1126, 214
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_08
+  rotate: false
+  xy: 910, 82
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_09
+  rotate: false
+  xy: 982, 82
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_10
+  rotate: true
+  xy: 292, 22
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_11
+  rotate: true
+  xy: 462, 60
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_12
+  rotate: true
+  xy: 632, 60
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_13
+  rotate: true
+  xy: 802, 10
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_14
+  rotate: true
+  xy: 972, 10
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_15
+  rotate: true
+  xy: 1054, 142
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_16
+  rotate: true
+  xy: 1198, 288
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_17
+  rotate: true
+  xy: 1198, 216
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_18
+  rotate: false
+  xy: 1224, 46
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_19
+  rotate: false
+  xy: 1296, 46
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_20
+  rotate: false
+  xy: 437, 183
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_21
+  rotate: false
+  xy: 509, 183
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_22
+  rotate: true
+  xy: 581, 281
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_23
+  rotate: true
+  xy: 581, 209
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+spin_firework_24
+  rotate: true
+  xy: 581, 137
+  size: 70, 168
+  orig: 70, 168
+  offset: 0, 0
+  index: -1
+winning_firework_00
+  rotate: false
+  xy: 2, 1040
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_01
+  rotate: false
+  xy: 2, 712
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_02
+  rotate: false
+  xy: 2, 384
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_03
+  rotate: false
+  xy: 2, 56
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_04
+  rotate: true
+  xy: 147, 1223
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_05
+  rotate: true
+  xy: 475, 1223
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_06
+  rotate: true
+  xy: 803, 1223
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_07
+  rotate: false
+  xy: 1131, 1040
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_08
+  rotate: false
+  xy: 147, 712
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_09
+  rotate: true
+  xy: 147, 1078
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_10
+  rotate: true
+  xy: 475, 1078
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_11
+  rotate: true
+  xy: 803, 1078
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_12
+  rotate: false
+  xy: 147, 384
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_13
+  rotate: false
+  xy: 147, 56
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_14
+  rotate: true
+  xy: 292, 933
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_15
+  rotate: true
+  xy: 620, 933
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_16
+  rotate: false
+  xy: 948, 750
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_17
+  rotate: false
+  xy: 1093, 712
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_18
+  rotate: false
+  xy: 292, 422
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_19
+  rotate: true
+  xy: 292, 788
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_20
+  rotate: true
+  xy: 620, 788
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_21
+  rotate: true
+  xy: 437, 643
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_22
+  rotate: false
+  xy: 765, 460
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_23
+  rotate: false
+  xy: 910, 422
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_24
+  rotate: false
+  xy: 1055, 384
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_25
+  rotate: false
+  xy: 1200, 360
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_26
+  rotate: true
+  xy: 437, 498
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_27
+  rotate: true
+  xy: 437, 353
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_28
+  rotate: false
+  xy: 292, 94
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1
+winning_firework_29
+  rotate: false
+  xy: 765, 132
+  size: 143, 326
+  orig: 143, 326
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+jnh_dancer_gold_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dancer_gold_Bg
+  rotate: false
+  xy: 164, 171
+  size: 150, 98
+  orig: 160, 112
+  offset: 5, 5
+  index: -1
+dancer_gold_bg_light
+  rotate: false
+  xy: 1, 323
+  size: 113, 64
+  orig: 160, 112
+  offset: 25, 32
+  index: -1
+dancer_gold_feather2
+  rotate: false
+  xy: 416, 171
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+dancer_gold_feather3
+  rotate: false
+  xy: 273, 351
+  size: 82, 54
+  orig: 82, 54
+  offset: 0, 0
+  index: -1
+dancer_gold_feather1
+  rotate: false
+  xy: 416, 271
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+dancer_gold_back_arm
+  rotate: false
+  xy: 316, 171
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: -1
+dancer_gold_body
+  rotate: false
+  xy: 1, 214
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+dancer_gold_head_feather
+  rotate: false
+  xy: 1, 389
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+dancer_gold_head
+  rotate: false
+  xy: 229, 271
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+dancer_gold_earing
+  rotate: false
+  xy: 260, 351
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+dancer_gold_eye
+  rotate: false
+  xy: 229, 351
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+symbol_10_kuang
+  rotate: false
+  xy: 116, 374
+  size: 155, 46
+  orig: 176, 146
+  offset: 11, 13
+  index: -1
+cc_dancer_gold_star_1
+  rotate: false
+  xy: 396, 1
+  size: 113, 115
+  orig: 123, 124
+  offset: 5, 2
+  index: -1
+cc_dancer_gold_star_6
+  rotate: false
+  xy: 164, 120
+  size: 328, 49
+  orig: 334, 52
+  offset: 3, 1
+  index: -1
+cc_dancer_gold_star_5
+  rotate: false
+  xy: 1, 1
+  size: 230, 92
+  orig: 237, 95
+  offset: 3, 0
+  index: -1
+cc_dancer_gold_star_4
+  rotate: false
+  xy: 133, 271
+  size: 94, 101
+  orig: 98, 103
+  offset: 2, 0
+  index: -1
+symbol_10
+  rotate: false
+  xy: 1, 95
+  size: 161, 117
+  orig: 176, 146
+  offset: 12, 14
+  index: -1
+symbol_10_glow
+  rotate: false
+  xy: 233, 1
+  size: 161, 117
+  orig: 176, 146
+  offset: 12, 14
+  index: -1

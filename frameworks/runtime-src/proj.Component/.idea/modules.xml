@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/game.iml" filepath="$PROJECT_DIR$/app/game.iml" group="proj.Component/game" />
+      <module fileurl="file://$PROJECT_DIR$/../../cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml" filepath="$PROJECT_DIR$/../../cocos2d-x/cocos/platform/android/libcocos2dx/libcocos2dx.iml" group="proj.Component/libcocos2dx" />
+      <module fileurl="file://$PROJECT_DIR$/proj.Component.iml" filepath="$PROJECT_DIR$/proj.Component.iml" group="proj.Component" />
+    </modules>
+  </component>
+</project>

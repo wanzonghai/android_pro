@@ -1,0 +1,202 @@
+
+cs_scatter_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scatter_01_10
+  rotate: false
+  xy: 317, 769
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_08
+  rotate: false
+  xy: 785, 770
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_18
+  rotate: false
+  xy: 629, 768
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_06
+  rotate: false
+  xy: 649, 326
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_12
+  rotate: false
+  xy: 785, 622
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_00
+  rotate: false
+  xy: 317, 621
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_16
+  rotate: false
+  xy: 473, 768
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_14
+  rotate: false
+  xy: 161, 329
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_04
+  rotate: false
+  xy: 649, 474
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_01_02
+  rotate: false
+  xy: 317, 473
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+Scatter_02_13
+  rotate: false
+  xy: 194, 1
+  size: 190, 176
+  orig: 200, 200
+  offset: 5, 12
+  index: -1
+Scatter_02_29
+  rotate: false
+  xy: 489, 323
+  size: 158, 147
+  orig: 200, 200
+  offset: 21, 27
+  index: -1
+Scatter_02_15
+  rotate: false
+  xy: 386, 1
+  size: 184, 170
+  orig: 200, 200
+  offset: 8, 15
+  index: -1
+Scatter_02_21
+  rotate: false
+  xy: 572, 171
+  size: 162, 150
+  orig: 200, 200
+  offset: 19, 25
+  index: -1
+Scatter_02_27
+  rotate: false
+  xy: 327, 323
+  size: 160, 148
+  orig: 200, 200
+  offset: 20, 26
+  index: -1
+Scatter_02_05
+  rotate: false
+  xy: 805, 326
+  size: 141, 129
+  orig: 200, 200
+  offset: 29, 35
+  index: -1
+Scatter_02_01
+  rotate: false
+  xy: 805, 457
+  size: 124, 116
+  orig: 200, 200
+  offset: 38, 42
+  index: -1
+Scatter_02_25
+  rotate: false
+  xy: 164, 179
+  size: 161, 148
+  orig: 200, 200
+  offset: 19, 26
+  index: -1
+Scatter_02_11
+  rotate: false
+  xy: 1, 1
+  size: 191, 176
+  orig: 200, 200
+  offset: 4, 12
+  index: -1
+Scatter_02_33
+  rotate: false
+  xy: 1, 329
+  size: 158, 146
+  orig: 200, 200
+  offset: 21, 27
+  index: -1
+Scatter_02_07
+  rotate: false
+  xy: 386, 173
+  size: 161, 148
+  orig: 200, 200
+  offset: 19, 26
+  index: -1
+Scatter_02_03
+  rotate: false
+  xy: 649, 622
+  size: 124, 116
+  orig: 200, 200
+  offset: 38, 42
+  index: -1
+Scatter_02_09
+  rotate: false
+  xy: 572, 1
+  size: 180, 168
+  orig: 200, 200
+  offset: 10, 16
+  index: -1
+Scatter_02_31
+  rotate: false
+  xy: 489, 472
+  size: 158, 146
+  orig: 200, 200
+  offset: 21, 27
+  index: -1
+Scatter_02_23
+  rotate: false
+  xy: 1, 179
+  size: 161, 148
+  orig: 200, 200
+  offset: 19, 26
+  index: -1
+Scatter_02_35
+  rotate: false
+  xy: 489, 620
+  size: 158, 146
+  orig: 200, 200
+  offset: 21, 27
+  index: -1
+Scatter_02_19
+  rotate: false
+  xy: 754, 1
+  size: 175, 162
+  orig: 200, 200
+  offset: 12, 19
+  index: -1
+Scatter_02_17
+  rotate: false
+  xy: 754, 165
+  size: 171, 159
+  orig: 200, 200
+  offset: 14, 20
+  index: -1

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803553531043",
+    "project_id": "truco-chileno-master",
+    "storage_bucket": "truco-chileno-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803553531043:android:401b72ed9bd05aa48b1b16",
+        "android_client_info": {
+          "package_name": "org.master.chileno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803553531043-2e0ht88mq3n68armlluv4cf7lk68p8uf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.master.chileno",
+            "certificate_hash": "089977689f69b504ddb29e3171913461fdcacf6f"
+          }
+        },
+        {
+          "client_id": "803553531043-h847arrojbk1vcn95i841j9f33p6u6gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-alA7a58PJ_eYZZJBFPcKAt6I-iF0Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803553531043-h847arrojbk1vcn95i841j9f33p6u6gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

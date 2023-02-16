@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Truco King</string>
+    <string name="facebook_app_id">723523892546496</string>
+    <string name="fb_login_protocol_scheme">fb723523892546496</string>
+    <string name="facebook_client_token">8c6f6582e7fbd5882d6cb99de36b9250</string>
+    <string name="adjust_key">zbnkvcxz3g8w</string>
+    <string name="channelId">20013</string>
+</resources>

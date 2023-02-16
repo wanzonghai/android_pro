@@ -1,0 +1,139 @@
+
+bjbz_win_kuang_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/SDK/LZ_001
+  rotate: false
+  xy: 418, 699
+  size: 205, 170
+  orig: 240, 200
+  offset: 18, 15
+  index: -1
+images/SDK/LZ_013
+  rotate: false
+  xy: 426, 1
+  size: 209, 174
+  orig: 240, 200
+  offset: 16, 13
+  index: -1
+images/SDK/LZ_006
+  rotate: false
+  xy: 207, 700
+  size: 202, 172
+  orig: 240, 200
+  offset: 20, 14
+  index: -1
+images/SDK/LZ_019
+  rotate: false
+  xy: 1, 523
+  size: 206, 172
+  orig: 240, 200
+  offset: 18, 14
+  index: -1
+images/SDK/LZ_012
+  rotate: false
+  xy: 214, 1
+  size: 210, 174
+  orig: 240, 200
+  offset: 16, 13
+  index: -1
+images/SDK/LZ_009
+  rotate: false
+  xy: 423, 177
+  size: 211, 170
+  orig: 240, 200
+  offset: 15, 15
+  index: -1
+images/SDK/LZ_018
+  rotate: false
+  xy: 214, 353
+  size: 206, 173
+  orig: 240, 200
+  offset: 18, 14
+  index: -1
+images/SDK/LZ_004
+  rotate: false
+  xy: 1, 697
+  size: 204, 172
+  orig: 240, 200
+  offset: 19, 14
+  index: -1
+images/SDK/LZ_017
+  rotate: false
+  xy: 636, 177
+  size: 206, 174
+  orig: 240, 200
+  offset: 18, 13
+  index: -1
+images/SDK/LZ_008
+  rotate: false
+  xy: 1, 351
+  size: 211, 170
+  orig: 240, 200
+  offset: 15, 15
+  index: -1
+images/SDK/LZ_000
+  rotate: false
+  xy: 209, 528
+  size: 207, 170
+  orig: 240, 200
+  offset: 17, 15
+  index: -1
+images/SDK/LZ_015
+  rotate: false
+  xy: 214, 177
+  size: 207, 174
+  orig: 240, 200
+  offset: 17, 13
+  index: -1
+images/SDK/LZ_011
+  rotate: false
+  xy: 1, 1
+  size: 211, 174
+  orig: 240, 200
+  offset: 15, 13
+  index: -1
+images/SDK/LZ_016
+  rotate: false
+  xy: 423, 349
+  size: 205, 174
+  orig: 240, 200
+  offset: 18, 13
+  index: -1
+images/SDK/LZ_003
+  rotate: false
+  xy: 630, 353
+  size: 205, 172
+  orig: 240, 200
+  offset: 18, 14
+  index: -1
+images/SDK/LZ_002
+  rotate: false
+  xy: 422, 525
+  size: 205, 172
+  orig: 240, 200
+  offset: 18, 14
+  index: -1
+images/SDK/LZ_007
+  rotate: false
+  xy: 1, 177
+  size: 211, 172
+  orig: 240, 200
+  offset: 15, 14
+  index: -1
+images/SDK/LZ_014
+  rotate: false
+  xy: 637, 1
+  size: 209, 174
+  orig: 240, 200
+  offset: 16, 13
+  index: -1
+images/SDK/LZ_005
+  rotate: false
+  xy: 629, 527
+  size: 203, 172
+  orig: 240, 200
+  offset: 19, 14
+  index: -1
