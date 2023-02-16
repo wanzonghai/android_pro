@@ -1,0 +1,104 @@
+
+tixian.png
+size: 2566,2056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 2, 972
+  size: 2562, 1082
+  orig: 2562, 1082
+  offset: 0, 0
+  index: -1
+beijing13
+  rotate: true
+  xy: 2, 50
+  size: 377, 563
+  orig: 377, 563
+  offset: 0, 0
+  index: -1
+beijing14
+  rotate: false
+  xy: 1285, 507
+  size: 876, 463
+  orig: 876, 463
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 2163, 583
+  size: 312, 387
+  orig: 312, 387
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: true
+  xy: 1285, 14
+  size: 491, 667
+  orig: 491, 667
+  offset: 0, 0
+  index: -1
+beijing4
+  rotate: true
+  xy: 1954, 177
+  size: 328, 257
+  orig: 328, 257
+  offset: 0, 0
+  index: -1
+beijing6
+  rotate: false
+  xy: 2, 429
+  size: 1281, 541
+  orig: 1281, 541
+  offset: 0, 0
+  index: -1
+biaot3
+  rotate: false
+  xy: 567, 138
+  size: 496, 123
+  orig: 496, 123
+  offset: 0, 0
+  index: -1
+biaoti1
+  rotate: false
+  xy: 567, 71
+  size: 420, 65
+  orig: 420, 65
+  offset: 0, 0
+  index: -1
+biaoti2
+  rotate: false
+  xy: 567, 263
+  size: 536, 164
+  orig: 536, 164
+  offset: 0, 0
+  index: -1
+qipa1
+  rotate: false
+  xy: 2, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+qipai3
+  rotate: true
+  xy: 2163, 507
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+qipai4
+  rotate: false
+  xy: 1105, 295
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1
+qipai5
+  rotate: false
+  xy: 1954, 43
+  size: 100, 132
+  orig: 100, 132
+  offset: 0, 0
+  index: -1

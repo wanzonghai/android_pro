@@ -1,0 +1,20 @@
+
+jnh_main_foot_ske.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R_A
+  rotate: false
+  xy: 1, 117
+  size: 140, 114
+  orig: 140, 114
+  offset: 0, 0
+  index: -1
+R_M
+  rotate: false
+  xy: 1, 1
+  size: 144, 114
+  orig: 144, 115
+  offset: 0, 1
+  index: -1

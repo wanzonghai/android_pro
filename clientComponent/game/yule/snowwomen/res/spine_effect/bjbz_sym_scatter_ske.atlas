@@ -1,0 +1,153 @@
+
+bjbz_sym_scatter_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+圆角矩形 917
+  rotate: false
+  xy: 1, 179
+  size: 145, 136
+  orig: 145, 136
+  offset: 0, 0
+  index: -1
+JP_S_G1_000
+  rotate: false
+  xy: 349, 203
+  size: 101, 95
+  orig: 130, 100
+  offset: 15, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 1, 1
+  size: 175, 176
+  orig: 175, 176
+  offset: 0, 0
+  index: -1
+images/JP_XH2
+  rotate: false
+  xy: 1, 317
+  size: 113, 128
+  orig: 115, 130
+  offset: 1, 1
+  index: -1
+images/JP_S_G2_000
+  rotate: false
+  xy: 327, 300
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/JP_S_G3/JP_S_G3_008
+  rotate: false
+  xy: 233, 1
+  size: 114, 97
+  orig: 115, 99
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_005
+  rotate: false
+  xy: 233, 378
+  size: 92, 79
+  orig: 94, 81
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_012
+  rotate: false
+  xy: 233, 281
+  size: 81, 95
+  orig: 109, 95
+  offset: 27, 0
+  index: -1
+images/JP_S_G3/JP_S_G3_010
+  rotate: false
+  xy: 116, 317
+  size: 115, 102
+  orig: 115, 104
+  offset: 0, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_006
+  rotate: false
+  xy: 369, 95
+  size: 101, 86
+  orig: 103, 88
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_007
+  rotate: false
+  xy: 349, 1
+  size: 109, 92
+  orig: 111, 94
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_000
+  rotate: false
+  xy: 349, 95
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/JP_S_G3/JP_S_G3_009
+  rotate: false
+  xy: 148, 179
+  size: 111, 100
+  orig: 117, 101
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_013
+  rotate: false
+  xy: 460, 1
+  size: 44, 43
+  orig: 48, 44
+  offset: 4, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_002
+  rotate: false
+  xy: 409, 300
+  size: 68, 57
+  orig: 70, 59
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_004
+  rotate: false
+  xy: 261, 203
+  size: 84, 72
+  orig: 86, 74
+  offset: 1, 1
+  index: -1
+images/JP_S_G3/JP_S_G3_001
+  rotate: false
+  xy: 168, 421
+  size: 59, 49
+  orig: 62, 53
+  offset: 1, 2
+  index: -1
+images/JP_S_G3/JP_S_G3_014
+  rotate: false
+  xy: 352, 95
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/JP_S_G3/JP_S_G3_011
+  rotate: false
+  xy: 261, 100
+  size: 106, 101
+  orig: 108, 104
+  offset: 1, 0
+  index: -1
+images/JP_S_G3/JP_S_G3_003
+  rotate: false
+  xy: 178, 100
+  size: 75, 65
+  orig: 78, 67
+  offset: 2, 1
+  index: -1
+txt_scatter
+  rotate: false
+  xy: 1, 447
+  size: 165, 52
+  orig: 165, 52
+  offset: 0, 0
+  index: -1

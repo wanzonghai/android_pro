@@ -1,0 +1,25 @@
+{
+    "Truco Clube":{
+        "Channel_Id":1000,
+        "adinfo":{
+            "ad_login" : "oiqri0",
+            "ad_revenue" : "yr45fh"
+        },
+        "afinfo":{
+            "af_login" : "af_login",
+            "af_revenue" : "af_purchase"
+        }
+    },
+    "Truco Counter":{
+        "Channel_Id":1001,
+        "adinfo":{
+            "ad_login" : "oiqri0",
+            "ad_revenue" : "yr45fh"
+        },
+        "afinfo":{
+            "af_login" : "af_login",
+            "af_revenue" : "af_purchase"
+        }
+    }
+
+}

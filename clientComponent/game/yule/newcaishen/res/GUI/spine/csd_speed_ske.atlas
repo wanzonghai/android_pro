@@ -1,0 +1,125 @@
+
+csd_speed_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00001
+  rotate: false
+  xy: 689, 570
+  size: 132, 286
+  orig: 150, 300
+  offset: 18, 5
+  index: -1
+1_00002
+  rotate: false
+  xy: 553, 570
+  size: 134, 282
+  orig: 150, 300
+  offset: 15, 9
+  index: -1
+1_00012
+  rotate: false
+  xy: 417, 570
+  size: 134, 283
+  orig: 150, 300
+  offset: 8, 3
+  index: -1
+1_00011
+  rotate: false
+  xy: 413, 1
+  size: 128, 291
+  orig: 150, 300
+  offset: 11, 3
+  index: -1
+1_00007
+  rotate: false
+  xy: 145, 1
+  size: 131, 286
+  orig: 150, 300
+  offset: 11, 6
+  index: -1
+1_00004
+  rotate: false
+  xy: 671, 1
+  size: 129, 282
+  orig: 150, 300
+  offset: 14, 8
+  index: -1
+1_00013
+  rotate: false
+  xy: 278, 570
+  size: 137, 280
+  orig: 150, 300
+  offset: 6, 4
+  index: -1
+1_00005
+  rotate: false
+  xy: 278, 284
+  size: 131, 279
+  orig: 150, 300
+  offset: 13, 8
+  index: -1
+1_00000
+  rotate: false
+  xy: 1, 286
+  size: 142, 282
+  orig: 150, 300
+  offset: 2, 6
+  index: -1
+1_00008
+  rotate: false
+  xy: 543, 1
+  size: 126, 293
+  orig: 150, 300
+  offset: 16, 5
+  index: -1
+1_00009
+  rotate: false
+  xy: 823, 570
+  size: 129, 292
+  orig: 150, 300
+  offset: 16, 4
+  index: -1
+1_00015
+  rotate: false
+  xy: 1, 570
+  size: 140, 282
+  orig: 150, 300
+  offset: 3, 7
+  index: -1
+1_00006
+  rotate: false
+  xy: 278, 1
+  size: 133, 281
+  orig: 150, 300
+  offset: 11, 7
+  index: -1
+1_00010
+  rotate: false
+  xy: 143, 570
+  size: 133, 291
+  orig: 150, 300
+  offset: 13, 3
+  index: -1
+1_00003
+  rotate: false
+  xy: 802, 1
+  size: 127, 284
+  orig: 150, 300
+  offset: 16, 8
+  index: -1
+1_00014
+  rotate: false
+  xy: 1, 1
+  size: 142, 283
+  orig: 150, 300
+  offset: 4, 5
+  index: -1
+sp
+  rotate: false
+  xy: 553, 854
+  size: 47, 133
+  orig: 47, 133
+  offset: 0, 0
+  index: -1

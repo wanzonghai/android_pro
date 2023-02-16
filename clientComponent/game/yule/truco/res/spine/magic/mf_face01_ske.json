@@ -1,0 +1,128 @@
+{
+	"skeleton": {
+		"width": 100,
+		"height": 111,
+		"fps": 8,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face01_0000_1"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face01_0000_1": {
+					"name": "face01_0000_1",
+					"width": 98,
+					"height": 110
+				},
+				"face01_0001_2": {
+					"name": "face01_0001_2",
+					"width": 91,
+					"height": 109
+				},
+				"face01_0002_3": {
+					"name": "face01_0002_3",
+					"width": 93,
+					"height": 107
+				},
+				"face01_0003_4": {
+					"name": "face01_0003_4",
+					"width": 90,
+					"height": 112
+				},
+				"face01_0004_5": {
+					"name": "face01_0004_5",
+					"width": 89,
+					"height": 112
+				},
+				"face01_0005_6": {
+					"name": "face01_0005_6",
+					"width": 85,
+					"height": 109
+				},
+				"face01_0006_7": {
+					"name": "face01_0006_7",
+					"width": 90,
+					"height": 111
+				},
+				"face01_0007_8": {
+					"name": "face01_0007_8",
+					"width": 92,
+					"height": 111
+				},
+				"face01_0008_9": {
+					"name": "face01_0008_9",
+					"width": 91,
+					"height": 110
+				},
+				"face01_0009_10": {
+					"name": "face01_0009_10",
+					"width": 90,
+					"height": 112
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face01_0000_1"
+						},
+						{
+							"time": 0.125,
+							"name": "face01_0001_2"
+						},
+						{
+							"time": 0.25,
+							"name": "face01_0002_3"
+						},
+						{
+							"time": 0.375,
+							"name": "face01_0003_4"
+						},
+						{
+							"time": 0.5,
+							"name": "face01_0004_5"
+						},
+						{
+							"time": 0.625,
+							"name": "face01_0005_6"
+						},
+						{
+							"time": 0.75,
+							"name": "face01_0006_7"
+						},
+						{
+							"time": 0.875,
+							"name": "face01_0007_8"
+						},
+						{
+							"time": 1,
+							"name": "face01_0008_9"
+						},
+						{
+							"time": 1.125,
+							"name": "face01_0009_10"
+						}
+					]
+				}
+			}
+		}
+	}
+}

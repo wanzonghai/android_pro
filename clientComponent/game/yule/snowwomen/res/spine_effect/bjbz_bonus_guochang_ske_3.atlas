@@ -1,0 +1,195 @@
+
+bjbz_bonus_guochang_ske_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BK_1/BK_1_023
+  rotate: false
+  xy: 905, 727
+  size: 450, 195
+  orig: 450, 204
+  offset: 0, 1
+  index: -1
+images/BK_1/BK_1_022
+  rotate: false
+  xy: 905, 924
+  size: 450, 189
+  orig: 450, 196
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_024
+  rotate: false
+  xy: 1357, 969
+  size: 450, 149
+  orig: 450, 158
+  offset: 0, 3
+  index: -1
+images/BK_1/BK_1_001
+  rotate: false
+  xy: 1, 1095
+  size: 186, 125
+  orig: 186, 126
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_018
+  rotate: false
+  xy: 1483, 243
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_000
+  rotate: false
+  xy: 435, 853
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_009
+  rotate: false
+  xy: 905, 485
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_015
+  rotate: false
+  xy: 1357, 485
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_002
+  rotate: false
+  xy: 1809, 983
+  size: 186, 126
+  orig: 186, 126
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_004
+  rotate: false
+  xy: 1809, 855
+  size: 186, 126
+  orig: 189, 126
+  offset: 1, 0
+  index: -1
+images/BK_1/BK_1_012
+  rotate: false
+  xy: 1031, 243
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_025
+  rotate: false
+  xy: 438, 853
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_011
+  rotate: false
+  xy: 579, 243
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_019
+  rotate: false
+  xy: 1, 611
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_014
+  rotate: false
+  xy: 453, 727
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_006
+  rotate: false
+  xy: 1809, 485
+  size: 186, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_010
+  rotate: false
+  xy: 579, 1
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_003
+  rotate: false
+  xy: 1723, 727
+  size: 186, 126
+  orig: 188, 126
+  offset: 1, 0
+  index: -1
+images/BK_1/BK_1_007
+  rotate: false
+  xy: 1357, 727
+  size: 364, 240
+  orig: 370, 240
+  offset: 3, 0
+  index: -1
+images/BK_1/BK_1_008
+  rotate: false
+  xy: 1, 853
+  size: 432, 240
+  orig: 438, 240
+  offset: 4, 0
+  index: -1
+images/BK_1/BK_1_005
+  rotate: false
+  xy: 1809, 1111
+  size: 186, 126
+  orig: 188, 126
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_013
+  rotate: false
+  xy: 1483, 1
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_020
+  rotate: false
+  xy: 1031, 1
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_016
+  rotate: false
+  xy: 1, 369
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_017
+  rotate: false
+  xy: 453, 485
+  size: 450, 240
+  orig: 450, 240
+  offset: 0, 0
+  index: -1
+images/BK_1/BK_1_021
+  rotate: false
+  xy: 435, 969
+  size: 450, 169
+  orig: 450, 174
+  offset: 0, 5
+  index: -1
+bonus_tip
+  rotate: false
+  xy: 1, 1
+  size: 576, 366
+  orig: 752, 451
+  offset: 88, 42
+  index: -1

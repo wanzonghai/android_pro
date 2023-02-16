@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582871218095",
+    "project_id": "trucotwo-39e66",
+    "storage_bucket": "trucotwo-39e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582871218095:android:749c67fa30f47e0610a15a",
+        "android_client_info": {
+          "package_name": "mastergame.kiltt.trucotwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582871218095-v14idfoaphr89eo9nirlcqht7okoc74g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mastergame.kiltt.trucotwo",
+            "certificate_hash": "5036866794ca1dbd821bd45618469c2b6913ca9e"
+          }
+        },
+        {
+          "client_id": "582871218095-n3g2hbo4amtr3e2hulq4hnludf9avhat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChEHFoCzBYuYcSPWo7jLcMIgd3akCqgKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582871218095-n3g2hbo4amtr3e2hulq4hnludf9avhat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

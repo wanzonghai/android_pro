@@ -1,0 +1,118 @@
+
+youjian_1.png
+size: 1670,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: true
+  xy: 2, 337
+  size: 327, 898
+  orig: 327, 898
+  offset: 0, 0
+  index: -1
+biaoti1
+  rotate: false
+  xy: 1491, 356
+  size: 170, 126
+  orig: 170, 126
+  offset: 0, 0
+  index: -1
+biaoti12
+  rotate: false
+  xy: 811, 51
+  size: 266, 65
+  orig: 266, 65
+  offset: 0, 0
+  index: -1
+biaoti13
+  rotate: false
+  xy: 902, 240
+  size: 564, 122
+  orig: 564, 122
+  offset: 0, 0
+  index: -1
+biaoti14
+  rotate: false
+  xy: 902, 364
+  size: 587, 146
+  orig: 587, 146
+  offset: 0, 0
+  index: -1
+biaoti15
+  rotate: false
+  xy: 902, 512
+  size: 593, 152
+  orig: 593, 152
+  offset: 0, 0
+  index: -1
+choudai1
+  rotate: true
+  xy: 2, 2
+  size: 333, 807
+  orig: 333, 807
+  offset: 0, 0
+  index: -1
+choudai2
+  rotate: true
+  xy: 1079, 53
+  size: 63, 240
+  orig: 63, 240
+  offset: 0, 0
+  index: -1
+qipai1
+  rotate: false
+  xy: 1414, 187
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+qipai2
+  rotate: false
+  xy: 811, 247
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+qipai3
+  rotate: true
+  xy: 1321, 16
+  size: 113, 153
+  orig: 113, 153
+  offset: 0, 0
+  index: -1
+qipai4
+  rotate: false
+  xy: 1468, 131
+  size: 183, 223
+  orig: 183, 223
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 1317, 143
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+zhuangshi13
+  rotate: false
+  xy: 1497, 484
+  size: 171, 180
+  orig: 171, 180
+  offset: 0, 0
+  index: -1
+zhuangshi15
+  rotate: false
+  xy: 811, 5
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+zhuangshi16
+  rotate: true
+  xy: 811, 118
+  size: 120, 504
+  orig: 120, 504
+  offset: 0, 0
+  index: -1

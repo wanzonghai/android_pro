@@ -1,0 +1,17 @@
+[name:游戏中文名, des:md5路径(用于生成md5版本文件), ori:源路径(用于拷贝), zipped:是否添加到压缩列表， folder:目录(用于压缩指定游戏)， primode:是否有私人房]
+name=埃及拉霸,des=encryptComponent\game\yule\egyptSlots,ori=game\yule\egyptSlots,folder=egyptSlots,zipped=0,primode=1
+name=97拳皇,des=encryptComponent\game\yule\97quanhuang,ori=game\yule\97quanhuang,folder=97quanhuang,zipped=0,primode=1
+name=九线拉王,des=encryptComponent\game\yule\jxlw,ori=game\yule\jxlw,folder=jxlw,zipped=0,primode=1
+name=秘鲁传说,des=encryptComponent\game\yule\mllegend,ori=game\yule\mllegend,folder=mllegend,zipped=0,primode=1
+name=水浒传,des=encryptComponent\game\yule\watermargin,ori=game\yule\watermargin,folder=watermargin,zipped=0,primode=1
+name=大闹天宫,des=encryptComponent\game\yule\dntg,ori=game\yule\dntg,folder=dntg,zipped=0,primode=1
+name=李逵劈鱼,des=encryptComponent\game\yule\xlkpy,ori=game\yule\xlkpy,folder=xlkpy,zipped=0,primode=1
+name=百家乐,des=encryptComponent\game\yule\baccarat,ori=game\yule\baccarat,folder=baccarat,zipped=0,primode=1
+name=Bonanza,des=encryptComponent\game\yule\bonanza,ori=game\yule\bonanza,folder=bonanza,zipped=0,primode=1
+name=Truco,des=encryptComponent\game\yule\truco,ori=game\yule\truco,folder=truco,zipped=0,primode=1
+name=Crash,des=encryptComponent\game\yule\crash,ori=game\yule\crash,folder=crash,zipped=0,primode=1
+name=Double,des=encryptComponent\game\yule\double,ori=game\yule\double,folder=double,zipped=0,primode=1
+name=Plinko,des=encryptComponent\game\yule\Plinko,ori=game\yule\Plinko,folder=Plinko,zipped=0,primode=1
+name=BXNW,des=encryptComponent\game\yule\snowwomen,ori=game\yule\snowwomen,folder=snowwomen,zipped=0,primode=1
+name=CSD,des=encryptComponent\game\yule\newcaishen,ori=game\yule\newcaishen,folder=newcaishen,zipped=0,primode=1
+name=JNH,des=encryptComponent\game\yule\carnival,ori=game\yule\carnival,folder=carnival,zipped=0,primode=1
