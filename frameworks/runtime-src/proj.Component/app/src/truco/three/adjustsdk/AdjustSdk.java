@@ -16,8 +16,6 @@ import com.adjust.sdk.OnDeviceIdsRead;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
 
-import org.master.chileno.R;
-
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -29,12 +27,12 @@ public class AdjustSdk implements Adjustface {
     private static Context m_ctx = null;
     private static String m_status = "";
     private static String google_adid = "";
-
+    private static String _apptoken = "zbnkvcxz3g8w";
     @Override
     public void adjustInit(Application context) {
         Log.d("Adjust", "adjustInit 1");
         m_ctx = context;
-        String _apptoken = "zbnkvcxz3g8w";
+
         Log.d("Adjust", "adjustInit 2" + _apptoken);
         //AdjustConfig.ENVIRONMENT_PRODUCTION 生产环境 AdjustConfig.ENVIRONMENT_SANDBOX 测试开发环境
         String environment = AdjustConfig.ENVIRONMENT_PRODUCTION;
@@ -167,7 +165,7 @@ public class AdjustSdk implements Adjustface {
     }
 
     public static String getAdjustKey(){
-        return "zbnkvcxz3g8w";
+        return _apptoken;
     }
 
     public static String getAdjustStatus(){

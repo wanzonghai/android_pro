@@ -6,6 +6,7 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/618f21c83a8bdd6415f99132188240bc/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/618f21c83a8bdd6415f99132188240bc/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/618f21c83a8bdd6415f99132188240bc/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

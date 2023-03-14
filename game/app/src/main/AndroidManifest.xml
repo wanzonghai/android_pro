@@ -29,14 +29,6 @@
 
         <activity
             android:exported="false"
-            android:supportsRtl="true"
-            android:screenOrientation="landscape"
-            android:theme="@style/AppTheme"
-            android:name=".MainActivity">
-        </activity>
-
-        <activity
-            android:exported="false"
             android:name="org.cocos2dx.lua.AppActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@style/chilnoTheme"

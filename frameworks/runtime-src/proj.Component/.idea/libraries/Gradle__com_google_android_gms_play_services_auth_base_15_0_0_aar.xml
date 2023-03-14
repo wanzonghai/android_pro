@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-15.0.0.aar/f1161baff647a48b0768a0a0d682661e/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-15.0.0.aar/f1161baff647a48b0768a0a0d682661e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-15.0.0.aar/f1161baff647a48b0768a0a0d682661e/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

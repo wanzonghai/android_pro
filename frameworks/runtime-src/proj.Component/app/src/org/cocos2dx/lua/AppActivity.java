@@ -46,7 +46,6 @@ import org.cocos2dx.lua.tools.GoogleUtils;
 import org.cocos2dx.lua.tools.FacebookUtils;
 import org.cocos2dx.lua.tools.MobShareUtils;
 import org.cocos2dx.lua.tools.PTools;
-import org.master.chileno.R;
 
 import java.io.File;
 import java.net.NetworkInterface;

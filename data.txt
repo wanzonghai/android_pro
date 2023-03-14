@@ -1,0 +1,5 @@
+1、修改内容
+    FB:替换string.xml中facebook_app_id、fb_login_protocol_scheme、facebook_client_token
+    adjust:替换AdjustSdk中_apptoken或string.xml中adjust_key
+    渠道号：string.xml中channelId或AppActivity.java中getChannelId()
+    adjust事件上报：config.lua中ADLogEventName对应事件

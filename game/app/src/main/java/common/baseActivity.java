@@ -5,8 +5,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
-import org.master.chileno.MainActivity;
-
 import java.lang.reflect.Method;
 
 public class baseActivity extends Activity {

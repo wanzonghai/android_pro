@@ -326,7 +326,7 @@ int LuaJavaBridge::callJavaStaticMethod(lua_State *L)
     	return 2;
     }
 
-    LOGD("%s", "LuaJavaBridge::callJavaStaticMethod(lua_State *L)");
+    //LOGD("%s", "LuaJavaBridge::callJavaStaticMethod(lua_State *L)");
 
     const char *className  = lua_tostring(L, -4);
     const char *methodName = lua_tostring(L, -3);
@@ -379,16 +379,16 @@ int LuaJavaBridge::callJavaStaticMethod(lua_State *L)
 
     if (!success)
     {
-    	LOGD("LuaJavaBridge::callJavaStaticMethod(\"%s\", \"%s\", args, \"%s\") EXECUTE FAILURE, ERROR CODE: %d",
-    			className, methodName, methodSig, call.getErrorCode());
+//    	LOGD("LuaJavaBridge::callJavaStaticMethod(\"%s\", \"%s\", args, \"%s\") EXECUTE FAILURE, ERROR CODE: %d",
+//    			className, methodName, methodSig, call.getErrorCode());
 
     	lua_pushboolean(L, 0);
     	lua_pushinteger(L, call.getErrorCode());
     	return 2;
     }
 
-	LOGD("LuaJavaBridge::callJavaStaticMethod(\"%s\", \"%s\", args, \"%s\") SUCCESS",
-			className, methodName, methodSig);
+//	LOGD("LuaJavaBridge::callJavaStaticMethod(\"%s\", \"%s\", args, \"%s\") SUCCESS",
+//			className, methodName, methodSig);
 
 	lua_pushboolean(L, 1);
 	return 1 + call.pushReturnValue(L);
