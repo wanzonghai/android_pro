@@ -1,0 +1,41 @@
+
+mf_face11_ske.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face11_0002_3
+  rotate: false
+  xy: 1, 1
+  size: 132, 106
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+face11_0003_4
+  rotate: false
+  xy: 135, 1
+  size: 107, 106
+  orig: 132, 114
+  offset: 10, 0
+  index: -1
+face11_0001_2
+  rotate: false
+  xy: 126, 109
+  size: 119, 107
+  orig: 132, 114
+  offset: 4, 0
+  index: -1
+face11_0000_1
+  rotate: false
+  xy: 126, 218
+  size: 115, 107
+  orig: 132, 114
+  offset: 9, 0
+  index: -1
+face11_0004_5
+  rotate: false
+  xy: 1, 109
+  size: 123, 112
+  orig: 132, 114
+  offset: 5, 0
+  index: -1

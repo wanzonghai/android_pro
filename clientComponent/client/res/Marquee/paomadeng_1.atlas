@@ -1,0 +1,279 @@
+
+paomadeng_1.png
+size: 1969,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lb1
+  rotate: false
+  xy: 304, 473
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+lb2
+  rotate: false
+  xy: 1449, 12
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+lb3
+  rotate: false
+  xy: 1837, 196
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+lb4
+  rotate: false
+  xy: 1837, 81
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+tx/guangqiu
+  rotate: false
+  xy: 1635, 467
+  size: 213, 212
+  orig: 213, 212
+  offset: 0, 0
+  index: -1
+tx/guangxian2
+  rotate: false
+  xy: 2, 376
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+tx/ks1_0
+  rotate: false
+  xy: 2, 528
+  size: 572, 151
+  orig: 572, 151
+  offset: 0, 0
+  index: -1
+tx/liiziguang
+  rotate: true
+  xy: 1947, 658
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00000
+  rotate: false
+  xy: 576, 584
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00001
+  rotate: true
+  xy: 2, 23
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00002
+  rotate: false
+  xy: 929, 584
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00003
+  rotate: true
+  xy: 99, 23
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00004
+  rotate: false
+  xy: 1282, 584
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00005
+  rotate: true
+  xy: 196, 23
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00006
+  rotate: false
+  xy: 576, 487
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00007
+  rotate: false
+  xy: 929, 487
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00008
+  rotate: false
+  xy: 1282, 487
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00009
+  rotate: true
+  xy: 293, 23
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00010
+  rotate: true
+  xy: 1850, 328
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00011
+  rotate: true
+  xy: 390, 175
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00012
+  rotate: false
+  xy: 487, 390
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00013
+  rotate: false
+  xy: 840, 390
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00014
+  rotate: false
+  xy: 487, 293
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00015
+  rotate: false
+  xy: 1193, 390
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00016
+  rotate: false
+  xy: 487, 196
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00017
+  rotate: false
+  xy: 840, 293
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00018
+  rotate: false
+  xy: 840, 196
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00019
+  rotate: false
+  xy: 1193, 293
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00020
+  rotate: false
+  xy: 1193, 196
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00021
+  rotate: false
+  xy: 487, 99
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00022
+  rotate: false
+  xy: 840, 99
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00023
+  rotate: false
+  xy: 1193, 99
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00024
+  rotate: true
+  xy: 1546, 114
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00025
+  rotate: true
+  xy: 1643, 114
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00026
+  rotate: true
+  xy: 1740, 114
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00027
+  rotate: false
+  xy: 390, 2
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00028
+  rotate: false
+  xy: 743, 2
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/paomadeng_00029
+  rotate: false
+  xy: 1096, 2
+  size: 351, 95
+  orig: 351, 95
+  offset: 0, 0
+  index: -1
+tx/xindian
+  rotate: false
+  xy: 487, 501
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

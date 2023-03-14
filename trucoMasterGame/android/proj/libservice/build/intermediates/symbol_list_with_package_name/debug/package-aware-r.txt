@@ -1,0 +1,6 @@
+com.cocos.service
+string done
+string go
+string next
+string search
+string send

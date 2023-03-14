@@ -1,0 +1,55 @@
+
+anniu.png
+size: 748,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 368
+  size: 501, 182
+  orig: 501, 182
+  offset: 0, 0
+  index: -1
+anniu1
+  rotate: true
+  xy: 505, 105
+  size: 445, 130
+  orig: 445, 130
+  offset: 0, 0
+  index: -1
+anniu15
+  rotate: false
+  xy: 2, 2
+  size: 474, 182
+  orig: 474, 182
+  offset: 0, 0
+  index: -1
+bsc_txt_light
+  rotate: true
+  xy: 637, 250
+  size: 300, 109
+  orig: 300, 109
+  offset: 0, 0
+  index: -1
+huiseanniu
+  rotate: false
+  xy: 2, 186
+  size: 476, 180
+  orig: 476, 180
+  offset: 0, 0
+  index: -1
+lanshan
+  rotate: true
+  xy: 637, 129
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+queding
+  rotate: false
+  xy: 478, 38
+  size: 234, 65
+  orig: 234, 65
+  offset: 0, 0
+  index: -1

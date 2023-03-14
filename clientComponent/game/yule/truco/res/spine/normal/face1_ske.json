@@ -1,0 +1,128 @@
+{
+	"skeleton": {
+		"width": 70,
+		"height": 72,
+		"fps": 6,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face1_0000_1"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face1_0009_10": {
+					"name": "face1_0009_10",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0008_9": {
+					"name": "face1_0008_9",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0007_8": {
+					"name": "face1_0007_8",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0006_7": {
+					"name": "face1_0006_7",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0005_6": {
+					"name": "face1_0005_6",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0004_5": {
+					"name": "face1_0004_5",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0003_4": {
+					"name": "face1_0003_4",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0002_3": {
+					"name": "face1_0002_3",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0001_2": {
+					"name": "face1_0001_2",
+					"width": 70,
+					"height": 72
+				},
+				"face1_0000_1": {
+					"name": "face1_0000_1",
+					"width": 70,
+					"height": 72
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face1_0009_10"
+						},
+						{
+							"time": 0.1667,
+							"name": "face1_0008_9"
+						},
+						{
+							"time": 0.3334,
+							"name": "face1_0007_8"
+						},
+						{
+							"time": 0.5001,
+							"name": "face1_0006_7"
+						},
+						{
+							"time": 0.6668,
+							"name": "face1_0005_6"
+						},
+						{
+							"time": 0.8335,
+							"name": "face1_0004_5"
+						},
+						{
+							"time": 1.0002,
+							"name": "face1_0003_4"
+						},
+						{
+							"time": 1.1669,
+							"name": "face1_0002_3"
+						},
+						{
+							"time": 1.3336,
+							"name": "face1_0001_2"
+						},
+						{
+							"time": 1.5003,
+							"name": "face1_0000_1"
+						}
+					]
+				}
+			}
+		}
+	}
+}

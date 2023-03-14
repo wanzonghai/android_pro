@@ -1,0 +1,90 @@
+
+gognxihuode_2.png
+size: 3535,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 2, 413
+  size: 1620, 877
+  orig: 1620, 877
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 2, 2
+  size: 2562, 409
+  orig: 2562, 409
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 3153, 883
+  size: 380, 407
+  orig: 380, 407
+  offset: 0, 0
+  index: -1
+beijing4
+  rotate: false
+  xy: 3153, 67
+  size: 380, 405
+  orig: 380, 405
+  offset: 0, 0
+  index: -1
+beijing5
+  rotate: false
+  xy: 3153, 474
+  size: 380, 407
+  orig: 380, 407
+  offset: 0, 0
+  index: -1
+beijing6
+  rotate: true
+  xy: 2574, 910
+  size: 380, 405
+  orig: 380, 405
+  offset: 0, 0
+  index: -1
+beijing7
+  rotate: false
+  xy: 1624, 453
+  size: 837, 837
+  orig: 837, 837
+  offset: 0, 0
+  index: -1
+beijing8
+  rotate: false
+  xy: 2566, 92
+  size: 585, 589
+  orig: 585, 589
+  offset: 0, 0
+  index: -1
+biaoti
+  rotate: true
+  xy: 2463, 683
+  size: 607, 109
+  orig: 607, 109
+  offset: 0, 0
+  index: -1
+fankuai1
+  rotate: false
+  xy: 1624, 426
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+qipai1
+  rotate: true
+  xy: 2981, 1168
+  size: 122, 157
+  orig: 122, 157
+  offset: 0, 0
+  index: -1
+qipai2
+  rotate: true
+  xy: 2981, 1034
+  size: 132, 148
+  orig: 132, 148
+  offset: 0, 0
+  index: -1

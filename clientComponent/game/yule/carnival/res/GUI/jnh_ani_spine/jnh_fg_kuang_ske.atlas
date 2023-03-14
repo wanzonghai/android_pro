@@ -1,0 +1,62 @@
+
+jnh_fg_kuang_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+title_1
+  rotate: false
+  xy: 1, 524
+  size: 668, 195
+  orig: 671, 197
+  offset: 1, 1
+  index: -1
+di
+  rotate: false
+  xy: 1, 1
+  size: 477, 521
+  orig: 477, 521
+  offset: 0, 0
+  index: -1
+kuang_l
+  rotate: false
+  xy: 671, 1
+  size: 176, 646
+  orig: 176, 646
+  offset: 0, 0
+  index: -1
+kuang_glow
+  rotate: false
+  xy: 849, 1
+  size: 155, 645
+  orig: 159, 645
+  offset: 0, 0
+  index: -1
+top_a
+  rotate: false
+  xy: 1, 844
+  size: 486, 69
+  orig: 486, 69
+  offset: 0, 0
+  index: -1
+top_m
+  rotate: false
+  xy: 489, 844
+  size: 223, 59
+  orig: 223, 59
+  offset: 0, 0
+  index: -1
+title_0
+  rotate: false
+  xy: 1, 721
+  size: 626, 121
+  orig: 626, 121
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 629, 721
+  size: 63, 69
+  orig: 78, 80
+  offset: 8, 3
+  index: -1

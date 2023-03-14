@@ -1,0 +1,48 @@
+
+jnh_kuang_top_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CarnivalCash_0012_F2-d
+  rotate: false
+  xy: 1, 472
+  size: 210, 307
+  orig: 210, 307
+  offset: 0, 0
+  index: -1
+CarnivalCash_0011_F2-d2
+  rotate: false
+  xy: 1, 283
+  size: 375, 187
+  orig: 375, 187
+  offset: 0, 0
+  index: -1
+CarnivalCash_0010_F2-c
+  rotate: false
+  xy: 1, 1
+  size: 348, 280
+  orig: 348, 280
+  offset: 0, 0
+  index: -1
+CarnivalCash_0002_F1-b
+  rotate: false
+  xy: 1, 781
+  size: 251, 169
+  orig: 251, 169
+  offset: 0, 0
+  index: -1
+CarnivalCash_0001_F1-a
+  rotate: false
+  xy: 213, 472
+  size: 239, 112
+  orig: 239, 112
+  offset: 0, 0
+  index: -1
+CarnivalCash_0000_F1-a2
+  rotate: false
+  xy: 351, 1
+  size: 159, 194
+  orig: 159, 194
+  offset: 0, 0
+  index: -1

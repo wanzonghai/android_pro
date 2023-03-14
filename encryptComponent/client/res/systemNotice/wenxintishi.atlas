@@ -1,0 +1,97 @@
+
+wenxintishi.png
+size: 1983,1981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+andeng
+  rotate: false
+  xy: 1037, 554
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 591
+  size: 1076, 724
+  orig: 1076, 724
+  offset: 0, 0
+  index: -1
+dengxian1
+  rotate: false
+  xy: 1080, 1080
+  size: 901, 73
+  orig: 901, 73
+  offset: 0, 0
+  index: -1
+dengxian2
+  rotate: false
+  xy: 1103, 1155
+  size: 809, 196
+  orig: 809, 196
+  offset: 0, 0
+  index: -1
+qipai1
+  rotate: true
+  xy: 1672, 873
+  size: 205, 237
+  orig: 205, 237
+  offset: 0, 0
+  index: -1
+qipai2
+  rotate: true
+  xy: 1672, 311
+  size: 182, 221
+  orig: 182, 221
+  offset: 0, 0
+  index: -1
+renwu
+  rotate: true
+  xy: 1103, 1353
+  size: 626, 845
+  orig: 626, 845
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 1447, 44
+  size: 1034, 223
+  orig: 1034, 223
+  offset: 0, 0
+  index: -1
+xiaocao
+  rotate: true
+  xy: 1672, 680
+  size: 191, 234
+  orig: 191, 234
+  offset: 0, 0
+  index: -1
+xinfengqian
+  rotate: true
+  xy: 1080, 2
+  size: 1076, 365
+  orig: 1076, 365
+  offset: 0, 0
+  index: -1
+xinzhi1
+  rotate: false
+  xy: 2, 1317
+  size: 1099, 662
+  orig: 1099, 662
+  offset: 0, 0
+  index: -1
+xinzhi2
+  rotate: false
+  xy: 2, 21
+  size: 1033, 568
+  orig: 1033, 568
+  offset: 0, 0
+  index: -1
+zhuangshi1
+  rotate: true
+  xy: 1672, 495
+  size: 183, 226
+  orig: 183, 226
+  offset: 0, 0
+  index: -1

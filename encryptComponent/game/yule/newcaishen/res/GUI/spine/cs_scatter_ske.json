@@ -1,0 +1,322 @@
+{
+    "skeleton": {
+        "fps": 24,
+        "hash": " ",
+        "spine":"3.6.0",
+        "name": "Armature"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "scaleX": 1.25,
+            "scaleY": 1.25,
+            "name": "bone",
+            "parent": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "root",
+            "bone": "root"
+        },
+        {
+            "name": "root1",
+            "bone": "bone"
+        }
+    ],
+    "skins": {
+        "default": {
+            "root": {
+                "Scatter_01_18": {
+                    "name": "Scatter_01_18",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_16": {
+                    "name": "Scatter_01_16",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_14": {
+                    "name": "Scatter_01_14",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_12": {
+                    "name": "Scatter_01_12",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_10": {
+                    "name": "Scatter_01_10",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_08": {
+                    "name": "Scatter_01_08",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_06": {
+                    "name": "Scatter_01_06",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_04": {
+                    "name": "Scatter_01_04",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_02": {
+                    "name": "Scatter_01_02",
+                    "width": 154,
+                    "height": 146
+                },
+                "Scatter_01_00": {
+                    "name": "Scatter_01_00",
+                    "width": 154,
+                    "height": 146
+                }
+            },
+            "root1": {
+                "Scatter_02_35": {
+                    "name": "Scatter_02_35",
+                    "width": 158,
+                    "height": 146
+                },
+                "Scatter_02_33": {
+                    "name": "Scatter_02_33",
+                    "width": 158,
+                    "height": 146
+                },
+                "Scatter_02_31": {
+                    "name": "Scatter_02_31",
+                    "width": 158,
+                    "height": 146
+                },
+                "Scatter_02_29": {
+                    "name": "Scatter_02_29",
+                    "width": 158,
+                    "height": 147
+                },
+                "Scatter_02_27": {
+                    "name": "Scatter_02_27",
+                    "width": 160,
+                    "height": 148
+                },
+                "Scatter_02_25": {
+                    "name": "Scatter_02_25",
+                    "width": 161,
+                    "height": 148
+                },
+                "Scatter_02_23": {
+                    "name": "Scatter_02_23",
+                    "width": 161,
+                    "height": 148
+                },
+                "Scatter_02_21": {
+                    "name": "Scatter_02_21",
+                    "width": 162,
+                    "height": 150
+                },
+                "Scatter_02_19": {
+                    "name": "Scatter_02_19",
+                    "width": 175,
+                    "height": 162
+                },
+                "Scatter_02_17": {
+                    "name": "Scatter_02_17",
+                    "width": 171,
+                    "height": 159
+                },
+                "Scatter_02_15": {
+                    "name": "Scatter_02_15",
+                    "width": 184,
+                    "height": 170
+                },
+                "Scatter_02_13": {
+                    "name": "Scatter_02_13",
+                    "width": 190,
+                    "height": 176
+                },
+                "Scatter_02_11": {
+                    "name": "Scatter_02_11",
+                    "width": 191,
+                    "height": 176
+                },
+                "Scatter_02_09": {
+                    "name": "Scatter_02_09",
+                    "width": 180,
+                    "height": 168
+                },
+                "Scatter_02_07": {
+                    "name": "Scatter_02_07",
+                    "width": 161,
+                    "height": 148
+                },
+                "Scatter_02_05": {
+                    "name": "Scatter_02_05",
+                    "width": 141,
+                    "height": 129
+                },
+                "Scatter_02_03": {
+                    "name": "Scatter_02_03",
+                    "width": 124,
+                    "height": 116
+                },
+                "Scatter_02_01": {
+                    "name": "Scatter_02_01",
+                    "width": 124,
+                    "height": 116
+                },
+                "Scatter_01_00": {
+                    "name": "Scatter_01_00",
+                    "width": 154,
+                    "height": 146,
+                    "scaleX": 0.8,
+                    "scaleY": 0.8
+                }
+            }
+        }
+    },
+    "animations": {
+        "get": {
+            "slots": {
+                "root": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "Scatter_01_00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "name": "Scatter_01_02"
+                        },
+                        {
+                            "time": 0.1666,
+                            "name": "Scatter_01_04"
+                        },
+                        {
+                            "time": 0.2499,
+                            "name": "Scatter_01_06"
+                        },
+                        {
+                            "time": 0.3332,
+                            "name": "Scatter_01_08"
+                        },
+                        {
+                            "time": 0.4165,
+                            "name": "Scatter_01_10"
+                        },
+                        {
+                            "time": 0.4998,
+                            "name": "Scatter_01_12"
+                        },
+                        {
+                            "time": 0.5831,
+                            "name": "Scatter_01_14"
+                        },
+                        {
+                            "time": 0.6664,
+                            "name": "Scatter_01_16"
+                        },
+                        {
+                            "time": 0.7497,
+                            "name": "Scatter_01_18"
+                        },
+                        {
+                            "time": 0.833,
+                            "name": "Scatter_01_00"
+                        }
+                    ]
+                }
+            }
+        },
+        "win": {
+            "slots": {
+                "root1": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "Scatter_01_00"
+                        },
+                        {
+                            "time": 0.0833,
+                            "name": "Scatter_02_01"
+                        },
+                        {
+                            "time": 0.125,
+                            "name": "Scatter_02_03"
+                        },
+                        {
+                            "time": 0.2083,
+                            "name": "Scatter_02_05"
+                        },
+                        {
+                            "time": 0.25,
+                            "name": "Scatter_02_07"
+                        },
+                        {
+                            "time": 0.375,
+                            "name": "Scatter_02_09"
+                        },
+                        {
+                            "time": 0.4167,
+                            "name": "Scatter_02_11"
+                        },
+                        {
+                            "time": 0.5,
+                            "name": "Scatter_02_13"
+                        },
+                        {
+                            "time": 0.5417,
+                            "name": "Scatter_02_15"
+                        },
+                        {
+                            "time": 0.625,
+                            "name": "Scatter_02_17"
+                        },
+                        {
+                            "time": 0.75,
+                            "name": "Scatter_02_19"
+                        },
+                        {
+                            "time": 0.7917,
+                            "name": "Scatter_02_21"
+                        },
+                        {
+                            "time": 0.875,
+                            "name": "Scatter_02_23"
+                        },
+                        {
+                            "time": 0.9167,
+                            "name": "Scatter_02_25"
+                        },
+                        {
+                            "time": 1,
+                            "name": "Scatter_02_27"
+                        },
+                        {
+                            "time": 1.0417,
+                            "name": "Scatter_02_29"
+                        },
+                        {
+                            "time": 1.125,
+                            "name": "Scatter_02_31"
+                        },
+                        {
+                            "time": 1.1667,
+                            "name": "Scatter_02_33"
+                        },
+                        {
+                            "time": 1.25,
+                            "name": "Scatter_02_35"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

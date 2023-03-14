@@ -1,0 +1,48 @@
+
+bjbz_symbol_9_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bear_bg
+  rotate: false
+  xy: 180, 181
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+bear_body
+  rotate: false
+  xy: 1, 181
+  size: 177, 178
+  orig: 177, 178
+  offset: 0, 0
+  index: -1
+bear_head
+  rotate: false
+  xy: 1, 1
+  size: 177, 178
+  orig: 177, 178
+  offset: 0, 0
+  index: -1
+bear_kuang
+  rotate: false
+  xy: 180, 1
+  size: 177, 178
+  orig: 177, 178
+  offset: 0, 0
+  index: -1
+bear_eye
+  rotate: false
+  xy: 350, 181
+  size: 54, 12
+  orig: 177, 178
+  offset: 49, 110
+  index: -1
+bear_eye_glow_0
+  rotate: false
+  xy: 359, 1
+  size: 47, 6
+  orig: 177, 178
+  offset: 53, 111
+  index: -1

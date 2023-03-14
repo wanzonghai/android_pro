@@ -1,0 +1,629 @@
+
+jnh_symbol_change_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic_mystery-assets/ic_mask_d_r_green_feather_11
+  rotate: false
+  xy: 673, 326
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_10
+  rotate: false
+  xy: 429, 533
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_9
+  rotate: false
+  xy: 352, 533
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_8
+  rotate: false
+  xy: 224, 508
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_6
+  rotate: false
+  xy: 1, 531
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_5
+  rotate: false
+  xy: 945, 746
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_4
+  rotate: false
+  xy: 901, 709
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_green_feather_2
+  rotate: false
+  xy: 41, 564
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_13
+  rotate: false
+  xy: 756, 179
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_12
+  rotate: false
+  xy: 351, 558
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_11
+  rotate: false
+  xy: 447, 508
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_10
+  rotate: false
+  xy: 165, 533
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_8
+  rotate: false
+  xy: 49, 531
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_6
+  rotate: false
+  xy: 952, 709
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_4
+  rotate: false
+  xy: 1, 564
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_2
+  rotate: false
+  xy: 312, 508
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_d_r_pink_feather_1
+  rotate: false
+  xy: 394, 533
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_23
+  rotate: false
+  xy: 300, 326
+  size: 17, 33
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_22
+  rotate: false
+  xy: 993, 749
+  size: 29, 25
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_21
+  rotate: false
+  xy: 271, 508
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_20
+  rotate: false
+  xy: 1, 624
+  size: 35, 34
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_19
+  rotate: false
+  xy: 554, 265
+  size: 27, 39
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_18
+  rotate: false
+  xy: 1014, 491
+  size: 9, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_17
+  rotate: false
+  xy: 300, 361
+  size: 22, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_16
+  rotate: false
+  xy: 188, 564
+  size: 21, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_15
+  rotate: false
+  xy: 81, 564
+  size: 11, 31
+  orig: 12, 32
+  offset: 0, 1
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_14
+  rotate: false
+  xy: 1008, 37
+  size: 10, 30
+  orig: 11, 32
+  offset: 0, 2
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_13
+  rotate: false
+  xy: 96, 582
+  size: 36, 35
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_12
+  rotate: false
+  xy: 1008, 1
+  size: 15, 34
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_11
+  rotate: false
+  xy: 300, 296
+  size: 25, 28
+  orig: 26, 28
+  offset: 1, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_10
+  rotate: false
+  xy: 212, 539
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_9
+  rotate: false
+  xy: 56, 599
+  size: 35, 34
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_8
+  rotate: false
+  xy: 989, 779
+  size: 27, 39
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_7
+  rotate: false
+  xy: 776, 516
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_6
+  rotate: false
+  xy: 1014, 457
+  size: 9, 32
+  orig: 10, 32
+  offset: 1, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_5
+  rotate: false
+  xy: 1014, 524
+  size: 9, 19
+  orig: 10, 24
+  offset: 1, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_4
+  rotate: false
+  xy: 467, 533
+  size: 21, 25
+  orig: 22, 25
+  offset: 1, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_3
+  rotate: false
+  xy: 1003, 311
+  size: 20, 25
+  orig: 22, 25
+  offset: 2, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_2
+  rotate: false
+  xy: 1009, 674
+  size: 11, 31
+  orig: 12, 32
+  offset: 1, 1
+  index: -1
+ic_mystery-assets/ic_mask_m_d_blue_feather_1
+  rotate: false
+  xy: 96, 545
+  size: 37, 35
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_l_pink_feather_8
+  rotate: false
+  xy: 929, 293
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_l_pink_feather_7
+  rotate: false
+  xy: 861, 674
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_l_pink_feather_6
+  rotate: false
+  xy: 930, 624
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_l_pink_feather_4
+  rotate: false
+  xy: 135, 564
+  size: 51, 22
+  orig: 51, 22
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_l_pink_feather_2
+  rotate: false
+  xy: 845, 574
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_r_feather_green_8
+  rotate: false
+  xy: 165, 508
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_r_feather_green_7
+  rotate: false
+  xy: 935, 674
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_r_feather_green_6
+  rotate: false
+  xy: 845, 627
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_r_feather_green_5
+  rotate: false
+  xy: 930, 574
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_r_feather_green_4
+  rotate: false
+  xy: 776, 669
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_u_r_feather_green_2
+  rotate: false
+  xy: 1, 599
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_19
+  rotate: false
+  xy: 1003, 271
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_17
+  rotate: false
+  xy: 998, 232
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_15
+  rotate: false
+  xy: 776, 459
+  size: 11, 55
+  orig: 11, 55
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_13
+  rotate: false
+  xy: 125, 494
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_11
+  rotate: false
+  xy: 945, 779
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_10
+  rotate: false
+  xy: 125, 454
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_9
+  rotate: false
+  xy: 352, 508
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_8
+  rotate: false
+  xy: 253, 541
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_7
+  rotate: false
+  xy: 861, 709
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_5
+  rotate: false
+  xy: 901, 746
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_3
+  rotate: false
+  xy: 125, 414
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_2
+  rotate: false
+  xy: 400, 508
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_m_up_feather_perple_1
+  rotate: false
+  xy: 302, 541
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mistery_shine_glow_2_00000
+  rotate: false
+  xy: 1, 1
+  size: 324, 293
+  orig: 324, 293
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mistery_shine_glow_3_00000
+  rotate: false
+  xy: 327, 1
+  size: 254, 262
+  orig: 254, 262
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_113
+  rotate: false
+  xy: 805, 1
+  size: 201, 189
+  orig: 226, 213
+  offset: 13, 12
+  index: -1
+ic_mystery-assets/ic_mask_particl_11
+  rotate: false
+  xy: 1, 414
+  size: 122, 115
+  orig: 122, 115
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_1
+  rotate: false
+  xy: 583, 1
+  size: 220, 176
+  orig: 240, 200
+  offset: 9, 11
+  index: -1
+ic_mystery-assets/ic_mask
+  rotate: false
+  xy: 180, 412
+  size: 156, 94
+  orig: 156, 94
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_reflect
+  rotate: false
+  xy: 338, 412
+  size: 156, 94
+  orig: 156, 94
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_gold_glow_1
+  rotate: false
+  xy: 1, 296
+  size: 177, 116
+  orig: 180, 118
+  offset: 1, 1
+  index: -1
+ic_mystery-assets/ic_mask_particl_2
+  rotate: false
+  xy: 500, 326
+  size: 171, 136
+  orig: 171, 145
+  offset: 0, 4
+  index: -1
+ic_mystery-assets/ic_mask_gold_glow_3
+  rotate: false
+  xy: 908, 457
+  size: 104, 115
+  orig: 130, 118
+  offset: 20, 0
+  index: -1
+ic_mystery-assets/ic_mask_light
+  rotate: false
+  xy: 496, 464
+  size: 156, 74
+  orig: 156, 79
+  offset: 0, 3
+  index: -1
+ic_mystery-assets/ic_mask_patter
+  rotate: false
+  xy: 998, 192
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_gold_glow_pattern
+  rotate: false
+  xy: 1002, 709
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_10
+  rotate: false
+  xy: 791, 339
+  size: 118, 115
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_9
+  rotate: false
+  xy: 673, 339
+  size: 116, 118
+  orig: 116, 118
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_8
+  rotate: false
+  xy: 673, 459
+  size: 101, 118
+  orig: 109, 118
+  offset: 7, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_7
+  rotate: false
+  xy: 180, 296
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_6
+  rotate: false
+  xy: 929, 192
+  size: 67, 99
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_5
+  rotate: false
+  xy: 776, 569
+  size: 67, 98
+  orig: 67, 100
+  offset: 0, 1
+  index: -1
+ic_mystery-assets/ic_mask_particl_4
+  rotate: false
+  xy: 791, 456
+  size: 115, 111
+  orig: 116, 112
+  offset: 1, 1
+  index: -1
+ic_mystery-assets/ic_mask_particl_3
+  rotate: false
+  xy: 911, 339
+  size: 111, 116
+  orig: 111, 116
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_blue_1
+  rotate: false
+  xy: 756, 192
+  size: 171, 145
+  orig: 171, 145
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_blue_3_00000
+  rotate: false
+  xy: 327, 265
+  size: 171, 145
+  orig: 171, 145
+  offset: 0, 0
+  index: -1
+ic_mystery-assets/ic_mask_particl_whith_1
+  rotate: false
+  xy: 500, 265
+  size: 52, 52
+  orig: 150, 192
+  offset: 47, 70
+  index: -1
+ic_mystery-assets/ic_mask_particl_whith_2
+  rotate: false
+  xy: 583, 179
+  size: 171, 145
+  orig: 171, 145
+  offset: 0, 0
+  index: -1

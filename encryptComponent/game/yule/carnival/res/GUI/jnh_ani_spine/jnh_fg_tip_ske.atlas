@@ -1,0 +1,153 @@
+
+jnh_fg_tip_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CarnivalCash_0003_FB_back1
+  rotate: false
+  xy: 681, 270
+  size: 280, 207
+  orig: 280, 207
+  offset: 0, 0
+  index: -1
+CarnivalCash_0002_FB_back2
+  rotate: false
+  xy: 1, 548
+  size: 196, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+CarnivalCash_0000_FB_front2
+  rotate: false
+  xy: 536, 275
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+CarnivalCash_0001_FB_front1
+  rotate: false
+  xy: 199, 635
+  size: 188, 153
+  orig: 188, 153
+  offset: 0, 0
+  index: -1
+CarnivalCash_0018_FT_2
+  rotate: false
+  xy: 566, 843
+  size: 254, 69
+  orig: 254, 69
+  offset: 0, 0
+  index: -1
+CarnivalCash_0017_FT_3
+  rotate: false
+  xy: 337, 875
+  size: 178, 81
+  orig: 178, 81
+  offset: 0, 0
+  index: -1
+CarnivalCash_0015_FT_5
+  rotate: false
+  xy: 403, 1
+  size: 276, 272
+  orig: 276, 272
+  offset: 0, 0
+  index: -1
+CarnivalCash_0014_FT_5-copy
+  rotate: false
+  xy: 681, 1
+  size: 265, 267
+  orig: 265, 267
+  offset: 0, 0
+  index: -1
+neworb_80percent01
+  rotate: false
+  xy: 643, 479
+  size: 234, 233
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+CarnivalCash_0013_FT_6
+  rotate: false
+  xy: 1, 236
+  size: 318, 223
+  orig: 318, 223
+  offset: 0, 0
+  index: -1
+CarnivalCash_0012_FT_6-copy
+  rotate: false
+  xy: 1, 1
+  size: 400, 233
+  orig: 400, 233
+  offset: 0, 0
+  index: -1
+CarnivalCash_0016_FT_4
+  rotate: false
+  xy: 389, 635
+  size: 239, 109
+  orig: 239, 109
+  offset: 0, 0
+  index: -1
+02orb_03
+  rotate: false
+  xy: 807, 714
+  size: 175, 127
+  orig: 175, 128
+  offset: 0, 0
+  index: -1
+02orb_01
+  rotate: false
+  xy: 630, 714
+  size: 175, 127
+  orig: 175, 128
+  offset: 0, 0
+  index: -1
+02orb_04
+  rotate: false
+  xy: 389, 746
+  size: 175, 127
+  orig: 175, 128
+  offset: 0, 0
+  index: -1
+02orb_02
+  rotate: false
+  xy: 160, 790
+  size: 175, 127
+  orig: 175, 128
+  offset: 0, 0
+  index: -1
+CarnivalCash_0001_gold_noshadow
+  rotate: false
+  xy: 321, 275
+  size: 213, 163
+  orig: 213, 163
+  offset: 0, 0
+  index: -1
+retrigger_base_0
+  rotate: false
+  xy: 1, 461
+  size: 640, 85
+  orig: 642, 86
+  offset: 1, 0
+  index: -1
+glare
+  rotate: false
+  xy: 1, 745
+  size: 157, 181
+  orig: 170, 195
+  offset: 6, 3
+  index: -1
+you-win_txt
+  rotate: false
+  xy: 1, 928
+  size: 239, 55
+  orig: 245, 59
+  offset: 3, 1
+  index: -1
+free spine
+  rotate: false
+  xy: 199, 548
+  size: 375, 85
+  orig: 375, 85
+  offset: 0, 0
+  index: -1

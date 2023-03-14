@@ -1,0 +1,29 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cocos2-launch",
+            "type": "lua",
+            "request": "launch",
+            "runtimeType": "Cocos2",
+            "localRoot": "${workspaceRoot}",
+            // "commandLine": "-workdir ${workspaceRoot}/ -position 0,0 -console enable -resolution 1900x810",
+            // "commandLine": "-workdir ${workspaceRoot}/ -position 0,0 -console enable -resolution 1440x810",
+            "commandLine": "-workdir ${workspaceRoot}/ -position 0,0 -console enable -resolution 1334x750",
+            // "commandLine": "-workdir ${workspaceRoot}/ -position 0,0 -console enable -resolution 2340x1080",
+            "port": 7003,
+            "exePath": "${workspaceRoot}/../frameworks/runtime-src/proj.win32/Debug.win32/TaProject.exe",
+            "fileExtNames": [
+                ".lua",
+                ".txt",
+                ".lua.txt",
+                ".bytes"
+            ],
+            "isFoxGloryProject": true,
+            "printType": 1
+        }
+    ]
+}

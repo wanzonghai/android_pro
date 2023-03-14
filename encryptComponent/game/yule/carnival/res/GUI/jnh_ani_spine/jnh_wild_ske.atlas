@@ -1,0 +1,293 @@
+
+jnh_wild_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild-assets/ic_wild_icon_floral
+  rotate: false
+  xy: 158, 308
+  size: 156, 63
+  orig: 156, 63
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_floral _glow_1
+  rotate: false
+  xy: 1, 313
+  size: 147, 62
+  orig: 147, 62
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_floral_pink_glow_2
+  rotate: false
+  xy: 195, 133
+  size: 227, 100
+  orig: 234, 106
+  offset: 4, 0
+  index: -1
+Wild-assets/ic_wild_icon_floral_pink_glow_1
+  rotate: false
+  xy: 195, 235
+  size: 171, 71
+  orig: 179, 74
+  offset: 4, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_1
+  rotate: false
+  xy: 192, 472
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_2
+  rotate: false
+  xy: 460, 103
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_3
+  rotate: false
+  xy: 424, 193
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_4
+  rotate: false
+  xy: 158, 246
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_5
+  rotate: false
+  xy: 221, 461
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_6
+  rotate: false
+  xy: 460, 69
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_7
+  rotate: false
+  xy: 463, 415
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_1
+  rotate: false
+  xy: 494, 131
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_2
+  rotate: false
+  xy: 150, 472
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_3
+  rotate: false
+  xy: 460, 35
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_4
+  rotate: false
+  xy: 472, 286
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_5
+  rotate: false
+  xy: 108, 472
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_6
+  rotate: false
+  xy: 460, 1
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_feathers_glow_7
+  rotate: false
+  xy: 463, 369
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_static
+  rotate: false
+  xy: 1, 246
+  size: 155, 65
+  orig: 156, 65
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_shine
+  rotate: false
+  xy: 269, 1
+  size: 189, 130
+  orig: 197, 139
+  offset: 4, 1
+  index: -1
+Wild-assets/ic_wild_icon_font_shine_1
+  rotate: false
+  xy: 1, 119
+  size: 192, 125
+  orig: 200, 126
+  offset: 5, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_1
+  rotate: false
+  xy: 233, 119
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_2
+  rotate: false
+  xy: 128, 377
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_3
+  rotate: false
+  xy: 128, 409
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_4
+  rotate: false
+  xy: 158, 292
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_5
+  rotate: false
+  xy: 128, 421
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_6
+  rotate: false
+  xy: 499, 161
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_8
+  rotate: false
+  xy: 249, 119
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_9
+  rotate: false
+  xy: 128, 394
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_icon_font_butterfly_10
+  rotate: false
+  xy: 174, 292
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_1
+  rotate: false
+  xy: 195, 119
+  size: 36, 12
+  orig: 36, 13
+  offset: 0, 1
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_10
+  rotate: false
+  xy: 424, 133
+  size: 68, 31
+  orig: 69, 32
+  offset: 1, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_2
+  rotate: false
+  xy: 424, 166
+  size: 73, 25
+  orig: 73, 25
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_3
+  rotate: false
+  xy: 108, 432
+  size: 111, 38
+  orig: 111, 39
+  offset: 0, 1
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_4
+  rotate: false
+  xy: 368, 235
+  size: 137, 49
+  orig: 138, 50
+  offset: 0, 1
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_5
+  rotate: false
+  xy: 150, 373
+  size: 152, 57
+  orig: 152, 57
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_6
+  rotate: false
+  xy: 316, 308
+  size: 154, 59
+  orig: 154, 59
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_7
+  rotate: false
+  xy: 316, 369
+  size: 145, 61
+  orig: 145, 61
+  offset: 0, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_8
+  rotate: false
+  xy: 1, 377
+  size: 125, 53
+  orig: 126, 54
+  offset: 1, 0
+  index: -1
+Wild-assets/ic_wild_font_blik_motion_9
+  rotate: false
+  xy: 1, 432
+  size: 105, 42
+  orig: 106, 42
+  offset: 1, 0
+  index: -1
+Wild-assets/ic_wild_icon_all_font_light
+  rotate: false
+  xy: 1, 1
+  size: 266, 116
+  orig: 275, 116
+  offset: 5, 0
+  index: -1

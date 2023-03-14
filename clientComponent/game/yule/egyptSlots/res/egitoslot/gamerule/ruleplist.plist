@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>egitoslot/gamerule/rulecolse.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,811},{111,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{111,119}</string>
+			</dict>
+			<key>egitoslot/gamerule/rule_type_1_f.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,544},{225,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{225,191}</string>
+			</dict>
+			<key>egitoslot/gamerule/rule_type_1_n.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,771},{225,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{225,191}</string>
+			</dict>
+			<key>egitoslot/gamerule/rule_type_2_f.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,544},{227,190}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{227,190}</string>
+			</dict>
+			<key>egitoslot/gamerule/rule_type_2_n.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,773},{227,190}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{227,190}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_buxiantu1_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{327,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{327,212}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_buxiantu2_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{330,1},{327,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{327,212}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_buxiantu3_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{659,1},{327,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{327,212}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_buxiantu4_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,215},{327,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{327,212}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming1_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,696},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming10_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{386,456},{238,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{238,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming2_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,455},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming3_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{571,215},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming4_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{749,215},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming5_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,215},{239,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{239,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming6_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{800,451},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming7_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{564,633},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming8_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{800,687},{234,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,176}</string>
+			</dict>
+			<key>egitoslot/gamerule/egito-slot_shuoming9_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{393,215},{238,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{238,176}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ruleplist.png</string>
+			<key>realTextureFileName</key>
+			<string>ruleplist.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

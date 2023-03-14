@@ -1,0 +1,69 @@
+
+jnh_main_kuang_ske.png
+size: 1126,1126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CarnivalCash
+  rotate: false
+  xy: 2, 402
+  size: 616, 103
+  orig: 616, 103
+  offset: 0, 0
+  index: -1
+lines_A
+  rotate: true
+  xy: 112, 24
+  size: 107, 130
+  orig: 107, 130
+  offset: 0, 0
+  index: -1
+lines_M
+  rotate: false
+  xy: 2, 2
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+main_di
+  rotate: false
+  xy: 2, 507
+  size: 1122, 617
+  orig: 1122, 617
+  offset: 0, 0
+  index: -1
+main_k_a
+  rotate: true
+  xy: 620, 413
+  size: 92, 498
+  orig: 92, 498
+  offset: 0, 0
+  index: -1
+main_k_m
+  rotate: true
+  xy: 2, 307
+  size: 93, 498
+  orig: 93, 498
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 502, 320
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+top_a
+  rotate: false
+  xy: 2, 133
+  size: 491, 87
+  orig: 491, 87
+  offset: 0, 0
+  index: -1
+top_m
+  rotate: false
+  xy: 2, 222
+  size: 501, 83
+  orig: 501, 83
+  offset: 0, 0
+  index: -1

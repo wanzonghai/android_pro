@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>FishEffect/fish_jinbi4_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{92,90}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,90}</string>
+			</dict>
+			<key>FishEffect/fish_jinbi4_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{98,2},{69,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{69,90}</string>
+			</dict>
+			<key>FishEffect/fish_jinbi4_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{379,2},{37,90}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,90}</string>
+			</dict>
+			<key>FishEffect/fish_jinbi4_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,2},{22,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{22,89}</string>
+			</dict>
+			<key>FishEffect/fish_jinbi4_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{286,2},{40,89}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,89}</string>
+			</dict>
+			<key>FishEffect/fish_jinbi4_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{192,2},{64,90}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,91}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>fish_jinbi.png</string>
+			<key>realTextureFileName</key>
+			<string>fish_jinbi.png</string>
+			<key>size</key>
+			<string>{564,94}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>564</integer>
+			<key>height</key>
+			<integer>94</integer>
+		</dict>
+	</dict>
+</plist>

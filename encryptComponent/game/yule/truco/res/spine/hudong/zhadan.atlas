@@ -1,0 +1,160 @@
+
+zhadan.png
+size: 650,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz0001
+  rotate: false
+  xy: 2, 498
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0003
+  rotate: false
+  xy: 2, 346
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0004
+  rotate: false
+  xy: 154, 498
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0005
+  rotate: false
+  xy: 2, 194
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0006
+  rotate: false
+  xy: 154, 346
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0007
+  rotate: false
+  xy: 306, 498
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0008
+  rotate: false
+  xy: 2, 42
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0009
+  rotate: false
+  xy: 154, 194
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0010
+  rotate: false
+  xy: 306, 346
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0011
+  rotate: false
+  xy: 458, 498
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0013
+  rotate: false
+  xy: 154, 42
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0014
+  rotate: false
+  xy: 306, 194
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0016
+  rotate: false
+  xy: 458, 346
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+bz0017
+  rotate: false
+  xy: 306, 42
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+item3_1_01
+  rotate: false
+  xy: 458, 260
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_02
+  rotate: false
+  xy: 458, 174
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_03
+  rotate: false
+  xy: 458, 88
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_04
+  rotate: false
+  xy: 544, 260
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_05
+  rotate: false
+  xy: 544, 174
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_06
+  rotate: false
+  xy: 544, 88
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_07
+  rotate: false
+  xy: 458, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+item3_1_08
+  rotate: false
+  xy: 544, 2
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

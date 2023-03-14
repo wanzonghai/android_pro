@@ -1,0 +1,7 @@
+com/cocos/service/BuildConfig.java
+ com.cocos.service.BuildConfig
+com/cocos/service/SDKWrapper.java
+ com.cocos.service.SDKWrapper
+ com.cocos.service.SDKWrapper$1
+ com.cocos.service.SDKWrapper$SDKInterface
+ com.cocos.service.SDKWrapper$SDKWrapperInstance

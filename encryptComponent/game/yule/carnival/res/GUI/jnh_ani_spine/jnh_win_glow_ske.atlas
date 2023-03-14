@@ -1,0 +1,111 @@
+
+jnh_win_glow_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+payline_00
+  rotate: false
+  xy: 2, 410
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_02
+  rotate: false
+  xy: 2, 308
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_04
+  rotate: false
+  xy: 164, 410
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_06
+  rotate: false
+  xy: 2, 206
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_08
+  rotate: false
+  xy: 164, 308
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_10
+  rotate: false
+  xy: 326, 410
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_12
+  rotate: false
+  xy: 2, 104
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_14
+  rotate: false
+  xy: 164, 206
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_16
+  rotate: false
+  xy: 326, 308
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_18
+  rotate: false
+  xy: 2, 2
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_20
+  rotate: false
+  xy: 164, 104
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_22
+  rotate: false
+  xy: 326, 206
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_24
+  rotate: false
+  xy: 164, 2
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_26
+  rotate: false
+  xy: 326, 104
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1
+payline_28
+  rotate: false
+  xy: 326, 2
+  size: 160, 100
+  orig: 160, 100
+  offset: 0, 0
+  index: -1

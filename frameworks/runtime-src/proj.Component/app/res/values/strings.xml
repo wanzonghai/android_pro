@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Truco Master Game</string>
+    <string name="facebook_app_id">519006350393689</string>
+    <string name="fb_login_protocol_scheme">fb519006350393689</string>
+    <string name="facebook_client_token">b1afadb483a837c4636da037f78f0706</string>
+    <string name="channelId">20038</string>
+</resources>

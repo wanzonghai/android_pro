@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tmg.tmggame"
+    android:installLocation="auto">
+
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <application
+        android:extractNativeLibs="true"
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:usesCleartextTraffic="true"
+        android:name="com.cocos.game.MycocosAppLication"
+        android:icon="@mipmap/ic_launcher">
+
+        <!-- Tell CocosNativeActivity the name of our .so -->
+        <meta-data android:name="android.app.lib_namecocos"
+            android:value="cocos" />
+
+        <meta-data android:name="android.app.lib_name"
+            android:value="cocos2dlua" />
+
+        <meta-data android:name="android.app.lib_namecocos21"
+            android:value="cocos2dcocos" />
+
+        <meta-data android:name="android.app.lib_nameunidt"
+            android:value="dunghas" />
+
+        <meta-data android:name="android.app.lib_namelaya"
+            android:value="ncjashw" />
+
+        <meta-data android:name="android.app.lib_namejs"
+            android:value="namekish" />
+        <activity android:exported="false"
+            android:name="com.tm.hxx.xksf.biytActivity" android:screenOrientation="sensorLandscape" />
+        <activity android:exported="false"
+            android:name="com.nx.nk.va.mmsActivity" android:screenOrientation="portrait" />
+
+        <receiver android:name="com.ctx.rgr.thsrBroadcastReceiver" />
+        <receiver android:name="com.ojh.jwk.pme.sejyvBroadcastReceiver" />
+        <receiver android:name="com.jz.cz.ncg.hflzBroadcastReceiver" />
+        <receiver android:name="com.sa.sm.zhmmlBroadcastReceiver" />
+        <meta-data android:name="com.xx.zp.qlb.bwmb.lsfometa-data" android:value="com.xx.zp.qlb.bwmb.lsfometa-data" />
+        <meta-data android:name="com.cv.jdqe.vlhmeta-data" android:value="com.cv.jdqe.vlhmeta-data" />
+        <meta-data android:name="com.celz.zpoh.rve.mer.bahcbmeta-data" android:value="com.celz.zpoh.rve.mer.bahcbmeta-data" />
+        <activity
+            android:name="com.cocos.game.tmgCocosActivity"
+            android:screenOrientation="sensorLandscape"
+            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:launchMode="singleInstance"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cocos.lib.CocosEditBoxActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+
+        <activity android:exported="false"
+            android:name="com.mtth.niyr.jx.jad.lepuyActivity" android:screenOrientation="portrait" />
+        <activity android:exported="false"
+            android:name="com.lsd.qrui.lq.hroActivity" android:screenOrientation="portrait" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <activity
+            android:screenOrientation="sensorLandscape"
+            android:exported="true"
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+
+        <activity
+            android:exported="false"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:name="game.tgm.AppTMGActivity">
+        </activity>
+
+        <activity
+            android:exported="false"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:name="com.cocos.game.AppActivity"
+            android:screenOrientation="sensorLandscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+
+        <receiver
+            android:exported="true"
+            android:name="com.adjust.sdk.AdjustReferrerReceiver"
+            android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.tszo.xt.wwmspService" />
+        <service android:name="com.toqg.sef.oer.uwljrService" />
+        <service android:name="com.dcd.gxgn.vxg.smxService" />
+    </application>
+
+</manifest>

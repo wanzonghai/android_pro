@@ -1,0 +1,97 @@
+
+gerenxinxi2.png
+size: 1848,1848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 2, 1131
+  size: 1480, 715
+  orig: 1480, 715
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 974, 155
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+beijing4
+  rotate: false
+  xy: 1484, 1305
+  size: 354, 541
+  orig: 354, 541
+  offset: 0, 0
+  index: -1
+beijing6
+  rotate: false
+  xy: 738, 122
+  size: 234, 247
+  orig: 234, 247
+  offset: 0, 0
+  index: -1
+biaoti1
+  rotate: false
+  xy: 2, 2
+  size: 632, 106
+  orig: 632, 106
+  offset: 0, 0
+  index: -1
+biaoti2
+  rotate: false
+  xy: 2, 110
+  size: 734, 259
+  orig: 734, 259
+  offset: 0, 0
+  index: -1
+qipai1
+  rotate: true
+  xy: 1190, 156
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+qipai3
+  rotate: false
+  xy: 636, 24
+  size: 81, 84
+  orig: 81, 84
+  offset: 0, 0
+  index: -1
+qipai4
+  rotate: true
+  xy: 1484, 1134
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+qipai5
+  rotate: true
+  xy: 1661, 1136
+  size: 167, 173
+  orig: 167, 173
+  offset: 0, 0
+  index: -1
+renzhengrukou
+  rotate: false
+  xy: 2, 371
+  size: 1238, 758
+  orig: 1238, 758
+  offset: 0, 0
+  index: -1
+shaizi
+  rotate: false
+  xy: 1190, 205
+  size: 148, 164
+  orig: 148, 164
+  offset: 0, 0
+  index: -1
+zhuangshi
+  rotate: false
+  xy: 1242, 400
+  size: 598, 729
+  orig: 598, 729
+  offset: 0, 0
+  index: -1
