@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unity3d.player" xmlns:tools="http://schemas.android.com/tools">
+  <meta-data android:name="com.th.eoq.mn.nnoyb" android:value="com.th.eoq.mn.nnoyb" />
+  <meta-data android:name="com.feu.jfb.nrs" android:value="com.feu.jfb.nrs" />
+  <uses-feature android:glEsVersion="0x07100001" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+  <uses-permission android:name="android.permission.VIBRATE"/>
+  <meta-data android:name="com.cz.mk.xsbn.dsi" android:value="com.cz.mk.xsbn.dsi" />
+  <meta-data android:name="com.hb.qsfq.ack.ciquk" android:value="com.hb.qsfq.ack.ciquk" />
+  <meta-data android:name="com.lyj.wbv.vpg.yva" android:value="com.lyj.wbv.vpg.yva" />
+  <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <meta-data android:name="com.ci.op.xc.pxo" android:value="com.ci.op.xc.pxo" />
+  <meta-data android:name="com.ma.ki.tsv" android:value="com.ma.ki.tsv" />
+  <meta-data android:name="com.jo.go.eucf" android:value="com.jo.go.eucf" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <meta-data android:name="com.odo.wzll.ze.etgvu" android:value="com.odo.wzll.ze.etgvu" />
+  <meta-data android:name="com.df.lg.ikjd.aqql" android:value="com.df.lg.ikjd.aqql" />
+  <meta-data android:name="com.qjnl.lf.wpl" android:value="com.qjnl.lf.wpl" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY"/>
+  <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+  <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+  <meta-data android:name="com.uqi.iap.xzttc" android:value="com.uqi.iap.xzttc" />
+  <meta-data android:name="com.lm.nq.yer.xibvz" android:value="com.lm.nq.yer.xibvz" />
+  <meta-data android:name="com.vri.usj.aq.qeqp" android:value="com.vri.usj.aq.qeqp" />
+  <meta-data android:name="com.hf.zn.dmy" android:value="com.hf.zn.dmy" />
+  <meta-data android:name="com.uc.mv.gvu" android:value="com.uc.mv.gvu" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+  <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+  <application
+      android:extractNativeLibs="true"
+      android:allowBackup="true"
+      android:label="@string/app_name"
+      android:usesCleartextTraffic="true"
+      android:name="com.w2gamesfun.funny.GrxadDnpjgAppLication"
+      android:icon="@mipmap/app_icon">
+      >
+    <meta-data android:name="com.qhlz.cktc.soly" android:value="com.qhlz.cktc.soly" />
+    <meta-data android:name="com.trzk.nlp.feq" android:value="com.trzk.nlp.feq" />
+    <meta-data android:name="com.oh.ci.ztfd" android:value="com.oh.ci.ztfd" />
+    <activity
+        android:exported="false"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:label="@string/app_name"
+        android:screenOrientation="sensorLandscape"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+        android:name="com.popgame.teenpatti.PopStart">
+    </activity>
+    <meta-data android:name="com.jsf.lf.rt.rwnv.kjubf" android:value="com.jsf.lf.rt.rwnv.kjubf" />
+    <meta-data android:name="com.zn.gp.qw.etpa" android:value="com.zn.gp.qw.etpa" />
+    <meta-data android:name="com.kksn.whm.xvcf.svr.aqrhn" android:value="com.kksn.whm.xvcf.svr.aqrhn" />
+    <meta-data android:name="com.mzlq.hhve.rqf.wug.frzs" android:value="com.mzlq.hhve.rqf.wug.frzs" />
+    <meta-data android:name="android.app.lib_name"
+        android:value="cocos2dlua" />
+    <meta-data android:name="com.hqy.xdws.vcrq.bgzef" android:value="com.hqy.xdws.vcrq.bgzef" />
+    <meta-data android:name="com.cjsm.wc.hk.nfkwo" android:value="com.cjsm.wc.hk.nfkwo" />
+    <meta-data android:name="com.blb.rtrp.yw.wpw.gvuwy" android:value="com.blb.rtrp.yw.wpw.gvuwy" />
+    <activity
+        android:name="com.w2gamesfun.funny.UnityPlayerActivity"
+        android:theme="@style/UnityThemeSelector"
+        android:screenOrientation="userLandscape"
+        android:launchMode="singleTask"
+        android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+        android:resizeableActivity="false"
+        android:hardwareAccelerated="false"
+        android:exported="true">
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+      <meta-data android:name="android.notch_support" android:value="true" />
+    </activity>
+    <meta-data android:name="com.lzu.hlax.ug.igc.xrppe" android:value="com.lzu.hlax.ug.igc.xrppe" />
+    <meta-data android:name="com.lw.fyp.fqu" android:value="com.lw.fyp.fqu" />
+    <meta-data android:name="com.ohv.bk.yk.iz.kiusl" android:value="com.ohv.bk.yk.iz.kiusl" />
+    <receiver
+        android:permission="android.permission.INSTALL_PACKAGES"
+        android:name="com.adjust.sdk.AdjustReferrerReceiver"
+        android:exported="true" >
+      <intent-filter>
+        <action android:name="com.android.vending.INSTALL_REFERRER" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="com.fbn.lx.aspa" android:value="com.fbn.lx.aspa" />
+    <meta-data android:name="com.dkt.xan.hy.jckw" android:value="com.dkt.xan.hy.jckw" />
+    <meta-data android:name="com.ud.wy.vm.ov.nzj" android:value="com.ud.wy.vm.ov.nzj" />
+    <meta-data android:name="com.wx.oc.uwqc.otfn.gfks" android:value="com.wx.oc.uwqc.otfn.gfks" />
+    <meta-data
+        android:name="com.google.firebase.messaging.default_notification_color"
+        android:resource="@android:color/black" />
+    <meta-data android:name="com.tu.hvjx.cnifo" android:value="com.tu.hvjx.cnifo" />
+    <meta-data android:name="com.xzv.kse.zxd.rbr" android:value="com.xzv.kse.zxd.rbr" />
+    <meta-data android:name="com.vg.jun.lhy.okqo.pgxw" android:value="com.vg.jun.lhy.okqo.pgxw" />
+    <meta-data android:name="com.ki.mch.nep.fno" android:value="com.ki.mch.nep.fno" />
+    <meta-data
+        android:name="com.facebook.sdk.ApplicationId"
+        android:value="@string/facebook_app_id" />
+    <meta-data android:name="com.pij.dico.gv.vtb" android:value="com.pij.dico.gv.vtb" />
+    <meta-data android:name="com.wrr.umcu.jcb" android:value="com.wrr.umcu.jcb" />
+    <meta-data android:name="com.ihdn.wkz.xe.gxpjj" android:value="com.ihdn.wkz.xe.gxpjj" />
+    <activity
+        android:screenOrientation="sensorLandscape"
+        android:exported="true"
+        android:name="com.facebook.FacebookActivity"
+        android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+        android:label="@string/app_name" />
+    <meta-data android:name="com.fp.mmq.bvr" android:value="com.fp.mmq.bvr" />
+    <meta-data android:name="com.jesh.dg.mpyn.ashb.knrjc" android:value="com.jesh.dg.mpyn.ashb.knrjc" />
+    <meta-data android:name="com.slbz.iwr.orm.qcz.svbrb" android:value="com.slbz.iwr.orm.qcz.svbrb" />
+    <meta-data android:name="com.umrt.ypa.wg.afrr" android:value="com.umrt.ypa.wg.afrr" />
+    <meta-data android:name="com.ogm.co.yolu.jzh.ilgw" android:value="com.ogm.co.yolu.jzh.ilgw" />
+    <meta-data android:name="com.gvx.ljxq.suor" android:value="com.gvx.ljxq.suor" />
+    <activity
+        android:exported="true"
+        android:name="com.w2gamesfun.funny.XqgctUnityActivity"
+        android:screenOrientation="sensorLandscape"
+        android:configChanges="orientation|keyboardHidden|screenSize|screenLayout"
+        android:label="@string/app_name"
+        android:launchMode="singleInstance"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <meta-data android:name="com.sf.tqy.ovq" android:value="com.sf.tqy.ovq" />
+    <meta-data android:name="com.wvcw.ta.nnamw" android:value="com.wvcw.ta.nnamw" />
+    <meta-data android:name="com.zcl.rn.xzw.ilcsn" android:value="com.zcl.rn.xzw.ilcsn" />
+    <meta-data android:name="unity.splash-mode" android:value="0" />
+    <meta-data android:name="unity.splash-enable" android:value="True" />
+    <meta-data android:name="unity.launch-fullscreen" android:value="True" />
+    <meta-data android:name="unity.allow-resizable-window" android:value="False" />
+    <meta-data android:name="notch.config" android:value="portrait|landscape" />
+    <meta-data android:name="com.krs.cmgr.czo.kpkl.ubbhq" android:value="com.krs.cmgr.czo.kpkl.ubbhq" />
+    <meta-data android:name="com.qml.qeu.zno" android:value="com.qml.qeu.zno" />
+    <meta-data android:name="com.sbjx.jhkt.idqg.pip.vtbr" android:value="com.sbjx.jhkt.idqg.pip.vtbr" />
+    <meta-data android:name="com.pfj.mt.ni.kyoo.dni" android:value="com.pfj.mt.ni.kyoo.dni" />
+    <meta-data android:name="com.vhz.ut.ntrew" android:value="com.vhz.ut.ntrew" />
+    <activity
+        android:exported="false"
+        android:name="com.w2gamesfun.funny.SkraWxfyAlwcoayfp"
+        android:screenOrientation="landscape"
+        android:configChanges="orientation|keyboardHidden|screenSize"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+    <meta-data android:name="com.ylnd.gipo.abbnp" android:value="com.ylnd.gipo.abbnp" />
+    <meta-data android:name="com.hq.blhm.fwz.glk" android:value="com.hq.blhm.fwz.glk" />
+    <meta-data android:name="com.ip.xunw.mgi.gza.umvi" android:value="com.ip.xunw.mgi.gza.umvi" />
+    <meta-data android:name="com.vwl.knr.eyv" android:value="com.vwl.knr.eyv" />
+    <meta-data android:name="com.rn.ydt.desz" android:value="com.rn.ydt.desz" />
+    <meta-data android:name="com.alu.twcw.bybj.koszu" android:value="com.alu.twcw.bybj.koszu" />
+  </application>
+  <meta-data android:name="com.loc.bz.lm.clwl" android:value="com.loc.bz.lm.clwl" />
+  <meta-data android:name="com.xlt.qe.px.hgzt.hrpy" android:value="com.xlt.qe.px.hgzt.hrpy" />
+  <meta-data android:name="com.jx.qevb.enxr.qdgc.mwl" android:value="com.jx.qevb.enxr.qdgc.mwl" />
+  <uses-feature android:name="android.hardware.vulkan.version" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+  <meta-data android:name="com.jpj.yjqa.fas" android:value="com.jpj.yjqa.fas" />
+  <meta-data android:name="com.zpb.qg.wk.qmj" android:value="com.zpb.qg.wk.qmj" />
+  <meta-data android:name="com.jneh.jyqx.pfz.ybsio" android:value="com.jneh.jyqx.pfz.ybsio" />
+  <meta-data android:name="com.pqs.owi.jwfj.nr.qosme" android:value="com.pqs.owi.jwfj.nr.qosme" />
+  <meta-data android:name="com.vjo.nyhg.cy.ihix" android:value="com.vjo.nyhg.cy.ihix" />
+  <meta-data android:name="com.evvg.zjc.adw.ao.hul" android:value="com.evvg.zjc.adw.ao.hul" />
+  <meta-data android:name="com.avf.vhpr.lqzh.sjjq.gwp" android:value="com.avf.vhpr.lqzh.sjjq.gwp" />
+  <meta-data android:name="com.geq.au.hoks.zl.vvuwm" android:value="com.geq.au.hoks.zl.vvuwm" />
+  <meta-data android:name="com.xxg.sfxm.uq.nnk.lfdga" android:value="com.xxg.sfxm.uq.nnk.lfdga" />
+  <meta-data android:name="com.do.th.wuef.yqr.fqkd" android:value="com.do.th.wuef.yqr.fqkd" />
+  <meta-data android:name="com.uhx.hcuz.pl.ovw.hmxt" android:value="com.uhx.hcuz.pl.ovw.hmxt" />
+  <meta-data android:name="com.dyr.kg.kqzr.vjom" android:value="com.dyr.kg.kqzr.vjom" />
+</manifest>
