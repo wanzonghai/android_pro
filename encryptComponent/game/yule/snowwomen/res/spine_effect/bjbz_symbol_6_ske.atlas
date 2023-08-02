@@ -1,0 +1,48 @@
+
+bjbz_symbol_6_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiger_bg
+  rotate: false
+  xy: 1, 359
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+tiger_body
+  rotate: false
+  xy: 1, 180
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+tiger_head
+  rotate: false
+  xy: 1, 1
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+tiger_kuang
+  rotate: false
+  xy: 179, 1
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+tiger_eye
+  rotate: false
+  xy: 179, 180
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+tiger_eye_glow
+  rotate: false
+  xy: 1, 492
+  size: 54, 7
+  orig: 54, 7
+  offset: 0, 0
+  index: -1

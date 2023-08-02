@@ -1,0 +1,208 @@
+
+kaluopai2.png
+size: 2042,2042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti
+  rotate: false
+  xy: 934, 811
+  size: 844, 143
+  orig: 844, 143
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 1093
+  size: 994, 947
+  orig: 994, 947
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 998, 956
+  size: 858, 530
+  orig: 858, 530
+  offset: 0, 0
+  index: -1
+paibei1
+  rotate: true
+  xy: 2, 778
+  size: 313, 465
+  orig: 313, 465
+  offset: 0, 0
+  index: -1
+paiguang
+  rotate: false
+  xy: 2, 78
+  size: 496, 697
+  orig: 496, 697
+  offset: 0, 0
+  index: -1
+paimian
+  rotate: false
+  xy: 500, 162
+  size: 412, 613
+  orig: 412, 613
+  offset: 0, 0
+  index: -1
+tx/kaplg_00000
+  rotate: false
+  xy: 1858, 1251
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00002
+  rotate: false
+  xy: 1858, 1014
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00004
+  rotate: false
+  xy: 1858, 777
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00006
+  rotate: true
+  xy: 500, 3
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00008
+  rotate: true
+  xy: 737, 3
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00010
+  rotate: true
+  xy: 1172, 65
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00012
+  rotate: true
+  xy: 1409, 65
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00014
+  rotate: false
+  xy: 1646, 574
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00016
+  rotate: true
+  xy: 1805, 618
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00018
+  rotate: true
+  xy: 1805, 459
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00020
+  rotate: false
+  xy: 1646, 337
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00022
+  rotate: true
+  xy: 1805, 300
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00024
+  rotate: false
+  xy: 1646, 100
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00026
+  rotate: true
+  xy: 1805, 141
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kaplg_00028
+  rotate: false
+  xy: 1465, 574
+  size: 157, 235
+  orig: 157, 235
+  offset: 0, 0
+  index: -1
+tx/kuoquan2
+  rotate: false
+  xy: 974, 26
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+tx/txquan_00004
+  rotate: false
+  xy: 914, 224
+  size: 549, 551
+  orig: 549, 551
+  offset: 0, 0
+  index: -1
+tx/xingkong1_00000
+  rotate: false
+  xy: 998, 1488
+  size: 982, 552
+  orig: 982, 552
+  offset: 0, 0
+  index: -1
+zhihui
+  rotate: true
+  xy: 469, 780
+  size: 311, 463
+  orig: 311, 463
+  offset: 0, 0
+  index: -1
+
+kaluopai22.png
+size: 754,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang4
+  rotate: false
+  xy: 2, 305
+  size: 447, 447
+  orig: 447, 447
+  offset: 0, 0
+  index: -1
+tx/fazhen1
+  rotate: false
+  xy: 2, 2
+  size: 301, 301
+  orig: 301, 301
+  offset: 0, 0
+  index: -1
+tx/glow_5_00022
+  rotate: false
+  xy: 451, 467
+  size: 270, 285
+  orig: 270, 285
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+flshboomtips.png
+size: 432,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: true
+  xy: 390, 142
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+path_00116
+  rotate: true
+  xy: 390, 318
+  size: 63, 24
+  orig: 64, 32
+  offset: 1, 2
+  index: -1
+shanguang_00030
+  rotate: false
+  xy: 290, 58
+  size: 126, 62
+  orig: 128, 128
+  offset: 2, 33
+  index: -1
+ycbg1
+  rotate: true
+  xy: 2, 7
+  size: 374, 142
+  orig: 374, 142
+  offset: 0, 0
+  index: -1
+ycbg2
+  rotate: true
+  xy: 146, 8
+  size: 373, 142
+  orig: 373, 142
+  offset: 0, 0
+  index: -1
+ycbg_00001
+  rotate: true
+  xy: 413, 122
+  size: 18, 12
+  orig: 62, 12
+  offset: 0, 0
+  index: -1
+ycbg_00002
+  rotate: true
+  xy: 418, 231
+  size: 21, 12
+  orig: 62, 12
+  offset: 2, 0
+  index: -1
+ycbg_00003
+  rotate: true
+  xy: 418, 254
+  size: 22, 12
+  orig: 62, 12
+  offset: 5, 0
+  index: -1
+ycbg_00004
+  rotate: true
+  xy: 418, 303
+  size: 24, 12
+  orig: 62, 12
+  offset: 8, 0
+  index: -1
+ycbg_00005
+  rotate: true
+  xy: 409, 3
+  size: 25, 12
+  orig: 62, 12
+  offset: 12, 0
+  index: -1
+ycbg_00006
+  rotate: true
+  xy: 418, 356
+  size: 25, 12
+  orig: 62, 12
+  offset: 16, 0
+  index: -1
+ycbg_00007
+  rotate: true
+  xy: 418, 329
+  size: 25, 12
+  orig: 62, 12
+  offset: 20, 0
+  index: -1
+ycbg_00008
+  rotate: false
+  xy: 395, 44
+  size: 26, 12
+  orig: 62, 12
+  offset: 24, 0
+  index: -1
+ycbg_00009
+  rotate: false
+  xy: 395, 30
+  size: 26, 12
+  orig: 62, 12
+  offset: 28, 0
+  index: -1
+ycbg_00010
+  rotate: true
+  xy: 395, 2
+  size: 26, 12
+  orig: 62, 12
+  offset: 32, 0
+  index: -1
+ycbg_00011
+  rotate: true
+  xy: 418, 278
+  size: 23, 12
+  orig: 62, 12
+  offset: 37, 0
+  index: -1
+ycbg_00012
+  rotate: false
+  xy: 390, 128
+  size: 21, 12
+  orig: 62, 12
+  offset: 41, 0
+  index: -1
+ycbg_00013
+  rotate: true
+  xy: 418, 103
+  size: 17, 11
+  orig: 62, 12
+  offset: 45, 0
+  index: -1
+ycyu1
+  rotate: false
+  xy: 290, 5
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+ycyu2
+  rotate: true
+  xy: 354, 7
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+ycyuchaolail
+  rotate: true
+  xy: 290, 122
+  size: 259, 98
+  orig: 259, 98
+  offset: 0, 0
+  index: -1

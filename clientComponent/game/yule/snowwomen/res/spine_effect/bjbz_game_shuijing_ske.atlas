@@ -1,0 +1,209 @@
+
+bjbz_game_shuijing_ske.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuijing_0
+  rotate: false
+  xy: 263, 440
+  size: 186, 125
+  orig: 186, 254
+  offset: 0, 2
+  index: -1
+shujing_1
+  rotate: false
+  xy: 261, 233
+  size: 126, 205
+  orig: 186, 254
+  offset: 35, 49
+  index: -1
+shuijing_2
+  rotate: false
+  xy: 785, 202
+  size: 165, 111
+  orig: 186, 254
+  offset: 8, 13
+  index: -1
+shuijing_glow_02
+  rotate: false
+  xy: 374, 567
+  size: 157, 147
+  orig: 169, 152
+  offset: 12, 0
+  index: -1
+shuijing_glow_10
+  rotate: false
+  xy: 688, 430
+  size: 149, 135
+  orig: 169, 152
+  offset: 20, 0
+  index: -1
+shuijing_glow_16
+  rotate: false
+  xy: 546, 146
+  size: 152, 143
+  orig: 169, 152
+  offset: 17, 0
+  index: -1
+shuijing_glow_00
+  rotate: false
+  xy: 633, 291
+  size: 150, 137
+  orig: 169, 152
+  offset: 19, 0
+  index: -1
+shuijing_glow_22
+  rotate: false
+  xy: 451, 295
+  size: 154, 148
+  orig: 169, 152
+  offset: 15, 0
+  index: -1
+shuijing_glow_24
+  rotate: false
+  xy: 533, 584
+  size: 155, 130
+  orig: 169, 152
+  offset: 14, 0
+  index: -1
+shuijing_glow_08
+  rotate: false
+  xy: 315, 1
+  size: 169, 141
+  orig: 169, 152
+  offset: 0, 0
+  index: -1
+shuijing_glow_06
+  rotate: false
+  xy: 144, 1
+  size: 169, 146
+  orig: 169, 152
+  offset: 0, 0
+  index: -1
+shuijing_glow_20
+  rotate: false
+  xy: 533, 445
+  size: 153, 137
+  orig: 169, 152
+  offset: 16, 0
+  index: -1
+shuijing_glow_18
+  rotate: false
+  xy: 374, 860
+  size: 153, 141
+  orig: 169, 152
+  offset: 16, 0
+  index: -1
+shuijing_glow_14
+  rotate: false
+  xy: 546, 1
+  size: 152, 143
+  orig: 169, 152
+  offset: 17, 0
+  index: -1
+shuijing_glow_04
+  rotate: false
+  xy: 389, 144
+  size: 155, 149
+  orig: 169, 152
+  offset: 14, 0
+  index: -1
+shuijing_glow_12
+  rotate: false
+  xy: 374, 716
+  size: 152, 142
+  orig: 169, 152
+  offset: 17, 0
+  index: -1
+JP_xbk2_001
+  rotate: false
+  xy: 952, 189
+  size: 64, 177
+  orig: 144, 231
+  offset: 47, 27
+  index: -1
+JP_xbk2_011
+  rotate: false
+  xy: 1, 691
+  size: 132, 219
+  orig: 144, 231
+  offset: 8, 8
+  index: -1
+JP_xbk2_004
+  rotate: false
+  xy: 700, 1
+  size: 92, 199
+  orig: 144, 231
+  offset: 33, 16
+  index: -1
+JP_xbk2_007
+  rotate: false
+  xy: 141, 233
+  size: 118, 219
+  orig: 144, 231
+  offset: 21, 5
+  index: -1
+JP_xbk2_009
+  rotate: false
+  xy: 1, 459
+  size: 132, 230
+  orig: 144, 231
+  offset: 12, 0
+  index: -1
+JP_xbk2_003
+  rotate: false
+  xy: 794, 1
+  size: 84, 192
+  orig: 144, 231
+  offset: 37, 20
+  index: -1
+JP_xbk2_012
+  rotate: false
+  xy: 1, 233
+  size: 138, 224
+  orig: 144, 231
+  offset: 4, 4
+  index: -1
+JP_xbk2_010
+  rotate: false
+  xy: 135, 686
+  size: 125, 226
+  orig: 144, 231
+  offset: 13, 3
+  index: -1
+JP_xbk2_013
+  rotate: false
+  xy: 1, 1
+  size: 141, 230
+  orig: 144, 231
+  offset: 0, 1
+  index: -1
+JP_xbk2_006
+  rotate: false
+  xy: 262, 686
+  size: 110, 212
+  orig: 144, 231
+  offset: 25, 9
+  index: -1
+JP_xbk2_002
+  rotate: false
+  xy: 880, 1
+  size: 75, 186
+  orig: 144, 231
+  offset: 40, 23
+  index: -1
+JP_xbk2_005
+  rotate: false
+  xy: 529, 716
+  size: 102, 206
+  orig: 144, 231
+  offset: 28, 13
+  index: -1
+JP_xbk2_008
+  rotate: false
+  xy: 135, 459
+  size: 126, 225
+  orig: 144, 231
+  offset: 16, 2
+  index: -1

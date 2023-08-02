@@ -1,0 +1,1 @@
+NetProtocol = NetProtocol or {}

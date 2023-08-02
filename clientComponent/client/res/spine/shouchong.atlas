@@ -1,0 +1,111 @@
+
+shouchong.png
+size: 827,827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/huanguang_00000
+  rotate: false
+  xy: 291, 693
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00002
+  rotate: true
+  xy: 580, 538
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00004
+  rotate: false
+  xy: 2, 559
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00006
+  rotate: false
+  xy: 291, 559
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00008
+  rotate: true
+  xy: 2, 270
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00010
+  rotate: false
+  xy: 2, 136
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00012
+  rotate: false
+  xy: 2, 2
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00014
+  rotate: true
+  xy: 136, 270
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00016
+  rotate: true
+  xy: 270, 270
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00018
+  rotate: true
+  xy: 404, 270
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00020
+  rotate: false
+  xy: 291, 136
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00022
+  rotate: false
+  xy: 291, 2
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00024
+  rotate: false
+  xy: 538, 404
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00026
+  rotate: false
+  xy: 538, 270
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1
+tx/huanguang_00028
+  rotate: false
+  xy: 2, 693
+  size: 287, 132
+  orig: 287, 132
+  offset: 0, 0
+  index: -1

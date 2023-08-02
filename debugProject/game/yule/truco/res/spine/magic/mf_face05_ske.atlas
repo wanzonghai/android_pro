@@ -1,0 +1,48 @@
+
+mf_face05_ske.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face05_0003_4
+  rotate: false
+  xy: 1, 1
+  size: 84, 112
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+face05_0002_3
+  rotate: false
+  xy: 1, 115
+  size: 83, 112
+  orig: 84, 114
+  offset: 1, 0
+  index: -1
+face05_0000_1
+  rotate: false
+  xy: 87, 1
+  size: 84, 109
+  orig: 84, 114
+  offset: 0, 0
+  index: -1
+face05_0001_2
+  rotate: false
+  xy: 86, 115
+  size: 83, 112
+  orig: 84, 114
+  offset: 1, 0
+  index: -1
+face05_0004_5
+  rotate: false
+  xy: 173, 1
+  size: 83, 109
+  orig: 84, 114
+  offset: 1, 0
+  index: -1
+face05_0005_6
+  rotate: false
+  xy: 171, 112
+  size: 83, 109
+  orig: 84, 114
+  offset: 1, 0
+  index: -1

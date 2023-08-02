@@ -1,0 +1,279 @@
+
+zhajindan.png
+size: 2017,2017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 1193, 1162
+  size: 454, 167
+  orig: 454, 167
+  offset: 0, 0
+  index: -1
+beijing1
+  rotate: false
+  xy: 2, 1131
+  size: 657, 884
+  orig: 657, 884
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: false
+  xy: 613, 760
+  size: 324, 369
+  orig: 324, 369
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: true
+  xy: 1649, 964
+  size: 322, 366
+  orig: 322, 366
+  offset: 0, 0
+  index: -1
+beijing4
+  rotate: true
+  xy: 251, 512
+  size: 617, 360
+  orig: 617, 360
+  offset: 0, 0
+  index: -1
+biaoti
+  rotate: true
+  xy: 2, 148
+  size: 981, 247
+  orig: 981, 247
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: false
+  xy: 251, 82
+  size: 423, 428
+  orig: 423, 428
+  offset: 0, 0
+  index: -1
+dizuo1
+  rotate: false
+  xy: 661, 1331
+  size: 524, 684
+  orig: 524, 684
+  offset: 0, 0
+  index: -1
+dizuo2
+  rotate: false
+  xy: 1187, 1331
+  size: 523, 684
+  orig: 523, 684
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 1712, 1538
+  size: 477, 300
+  orig: 477, 300
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 108
+  size: 220, 38
+  orig: 220, 38
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 1361, 183
+  size: 243, 149
+  orig: 243, 149
+  offset: 0, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 939, 796
+  size: 361, 363
+  orig: 361, 363
+  offset: 0, 0
+  index: -1
+guang6
+  rotate: true
+  xy: 1544, 826
+  size: 334, 57
+  orig: 334, 57
+  offset: 0, 0
+  index: -1
+guang7
+  rotate: false
+  xy: 661, 1161
+  size: 530, 168
+  orig: 530, 168
+  offset: 0, 0
+  index: -1
+suipian1
+  rotate: true
+  xy: 676, 238
+  size: 280, 167
+  orig: 280, 167
+  offset: 0, 0
+  index: -1
+suipian2
+  rotate: false
+  xy: 676, 11
+  size: 197, 225
+  orig: 197, 225
+  offset: 0, 0
+  index: -1
+suipian3
+  rotate: false
+  xy: 1878, 697
+  size: 119, 265
+  orig: 119, 265
+  offset: 0, 0
+  index: -1
+suipian4
+  rotate: false
+  xy: 1095, 2
+  size: 110, 258
+  orig: 110, 258
+  offset: 0, 0
+  index: -1
+suipian5
+  rotate: true
+  xy: 1302, 814
+  size: 346, 240
+  orig: 346, 240
+  offset: 0, 0
+  index: -1
+suipian6
+  rotate: false
+  xy: 1603, 823
+  size: 273, 139
+  orig: 273, 139
+  offset: 0, 0
+  index: -1
+suipian7
+  rotate: false
+  xy: 1712, 1288
+  size: 294, 248
+  orig: 294, 248
+  offset: 0, 0
+  index: -1
+tx/ciguang
+  rotate: false
+  xy: 845, 262
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/guangbao0001
+  rotate: false
+  xy: 613, 520
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangbao0002
+  rotate: false
+  xy: 833, 520
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangbao0003
+  rotate: false
+  xy: 1321, 574
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangbao0004
+  rotate: false
+  xy: 1361, 334
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangbao0005
+  rotate: false
+  xy: 875, 22
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangbao0006
+  rotate: false
+  xy: 1541, 574
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangbao0007
+  rotate: false
+  xy: 1581, 334
+  size: 218, 238
+  orig: 218, 238
+  offset: 0, 0
+  index: -1
+tx/guangqiu
+  rotate: false
+  xy: 1606, 120
+  size: 213, 212
+  orig: 213, 212
+  offset: 0, 0
+  index: -1
+tx/gx
+  rotate: false
+  xy: 1103, 266
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/jb_1
+  rotate: false
+  xy: 2, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_2
+  rotate: false
+  xy: 104, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_3
+  rotate: false
+  xy: 1207, 164
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_4
+  rotate: false
+  xy: 1207, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_5
+  rotate: false
+  xy: 1761, 721
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_6
+  rotate: false
+  xy: 1761, 619
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jihuaguang
+  rotate: true
+  xy: 1053, 524
+  size: 270, 266
+  orig: 270, 266
+  offset: 0, 0
+  index: -1

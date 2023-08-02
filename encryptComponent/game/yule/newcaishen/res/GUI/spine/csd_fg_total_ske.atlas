@@ -1,0 +1,370 @@
+
+csd_fg_total_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_coin_yuan/coin_00
+  rotate: false
+  xy: 123, 406
+  size: 83, 83
+  orig: 84, 84
+  offset: 1, 0
+  index: -1
+B_coin_yuan/coin_13
+  rotate: false
+  xy: 170, 575
+  size: 78, 84
+  orig: 78, 85
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_22
+  rotate: false
+  xy: 144, 750
+  size: 16, 85
+  orig: 18, 87
+  offset: 1, 1
+  index: -1
+B_coin_yuan/coin_01
+  rotate: false
+  xy: 208, 406
+  size: 82, 83
+  orig: 83, 85
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_23
+  rotate: false
+  xy: 51, 814
+  size: 16, 85
+  orig: 17, 87
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_02
+  rotate: false
+  xy: 1, 642
+  size: 78, 83
+  orig: 79, 85
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_24
+  rotate: false
+  xy: 358, 661
+  size: 33, 85
+  orig: 34, 87
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_03
+  rotate: false
+  xy: 435, 317
+  size: 71, 84
+  orig: 72, 85
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_25
+  rotate: false
+  xy: 458, 750
+  size: 48, 85
+  orig: 49, 86
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_04
+  rotate: false
+  xy: 165, 661
+  size: 62, 85
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_26
+  rotate: false
+  xy: 81, 752
+  size: 61, 85
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_05
+  rotate: false
+  xy: 407, 658
+  size: 49, 85
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_27
+  rotate: false
+  xy: 334, 575
+  size: 71, 84
+  orig: 71, 86
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_06
+  rotate: false
+  xy: 471, 403
+  size: 34, 86
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_28
+  rotate: false
+  xy: 85, 577
+  size: 78, 83
+  orig: 78, 85
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_07
+  rotate: false
+  xy: 142, 662
+  size: 16, 86
+  orig: 18, 87
+  offset: 1, 0
+  index: -1
+B_coin_yuan/coin_29
+  rotate: false
+  xy: 86, 491
+  size: 82, 83
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_08
+  rotate: false
+  xy: 375, 217
+  size: 16, 86
+  orig: 17, 88
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_09
+  rotate: false
+  xy: 323, 661
+  size: 33, 85
+  orig: 34, 87
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_10
+  rotate: false
+  xy: 458, 837
+  size: 48, 85
+  orig: 49, 87
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_11
+  rotate: false
+  xy: 1, 727
+  size: 61, 85
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_12
+  rotate: false
+  xy: 426, 504
+  size: 71, 84
+  orig: 71, 85
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_14
+  rotate: false
+  xy: 1, 558
+  size: 82, 82
+  orig: 82, 84
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_15
+  rotate: false
+  xy: 1, 473
+  size: 83, 83
+  orig: 84, 84
+  offset: 1, 0
+  index: -1
+B_coin_yuan/coin_16
+  rotate: false
+  xy: 170, 491
+  size: 82, 82
+  orig: 83, 84
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_17
+  rotate: false
+  xy: 254, 491
+  size: 78, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+B_coin_yuan/coin_18
+  rotate: false
+  xy: 250, 577
+  size: 71, 84
+  orig: 72, 86
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_19
+  rotate: false
+  xy: 165, 748
+  size: 62, 84
+  orig: 63, 86
+  offset: 0, 1
+  index: -1
+B_coin_yuan/coin_20
+  rotate: false
+  xy: 458, 663
+  size: 48, 85
+  orig: 50, 87
+  offset: 1, 1
+  index: -1
+B_coin_yuan/coin_21
+  rotate: false
+  xy: 470, 166
+  size: 33, 85
+  orig: 35, 87
+  offset: 1, 1
+  index: -1
+cs/cs_toushi_r
+  rotate: false
+  xy: 347, 430
+  size: 122, 72
+  orig: 122, 73
+  offset: 0, 1
+  index: -1
+cs/cs_toushi_l
+  rotate: false
+  xy: 334, 504
+  size: 90, 69
+  orig: 90, 75
+  offset: 0, 6
+  index: -1
+cs/cs_foot_l
+  rotate: false
+  xy: 229, 733
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+cs/cs_foot_r
+  rotate: false
+  xy: 229, 700
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+cs/cs_bei
+  rotate: false
+  xy: 81, 662
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+cs/cs_bu
+  rotate: false
+  xy: 393, 789
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+cs/cs_leg_r2
+  rotate: false
+  xy: 1, 204
+  size: 155, 139
+  orig: 155, 139
+  offset: 0, 0
+  index: -1
+cs/cs_leg_l2
+  rotate: false
+  xy: 347, 317
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+cs/cs_leg_l1
+  rotate: false
+  xy: 1, 814
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+cs/cs_leg_r1
+  rotate: false
+  xy: 1, 345
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+cs/cs_body
+  rotate: false
+  xy: 1, 1
+  size: 236, 201
+  orig: 236, 201
+  offset: 0, 0
+  index: -1
+cs/cs_arm_l
+  rotate: false
+  xy: 394, 166
+  size: 74, 149
+  orig: 74, 149
+  offset: 0, 0
+  index: -1
+cs/cs_arm_r
+  rotate: false
+  xy: 394, 1
+  size: 114, 163
+  orig: 114, 163
+  offset: 0, 0
+  index: -1
+cs/cs_jianbang
+  rotate: false
+  xy: 158, 217
+  size: 215, 86
+  orig: 215, 86
+  offset: 0, 0
+  index: -1
+cs/cs_head
+  rotate: false
+  xy: 239, 1
+  size: 153, 214
+  orig: 153, 214
+  offset: 0, 0
+  index: -1
+cs/cs_mouth
+  rotate: false
+  xy: 229, 663
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+cs/cs_huzi
+  rotate: false
+  xy: 407, 590
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+cs/cs_meimao_l
+  rotate: false
+  xy: 292, 464
+  size: 27, 20
+  orig: 27, 21
+  offset: 0, 1
+  index: -1
+cs/cs_meimao_r
+  rotate: false
+  xy: 435, 403
+  size: 32, 23
+  orig: 33, 23
+  offset: 1, 0
+  index: -1
+cs/cs_yuanbao
+  rotate: false
+  xy: 158, 305
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+cs/cs_hand_r
+  rotate: false
+  xy: 393, 745
+  size: 63, 42
+  orig: 68, 50
+  offset: 1, 0
+  index: -1
+cs/cs_hand_l
+  rotate: false
+  xy: 292, 406
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1

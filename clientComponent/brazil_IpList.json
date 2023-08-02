@@ -1,0 +1,42 @@
+{
+	"IpMaxCount":4,
+	"ServerList": {
+	    	"id1":"217",
+		"ip1":"152.32.199.25:2701|1",
+		"id2":"218",
+		"ip2":"43.157.129.64:2701|1",
+		"id3":"219",
+		"ip3":"152.32.200.106:2701|1",
+		"id4":"220",
+		"ip4":"175.178.249.174:2701|1"
+	},
+	"IpMaxCountCDN":4,
+	"ServerListCDN": {
+	    	"id1":"217",
+		"ip1":"loginbz.y5mrsc7p.com:2701|4",
+		"id2":"218",
+		"ip2":"loginbz.y5mrsc7p.com:2701|4",
+		"id3":"219",
+		"ip3":"loginbz.y5mrsc7p.com:2701|4",
+		"id4":"220",
+		"ip4":"loginbz.y5mrsc7p.com:2701|4"
+
+	},
+	"IpMaxCountCDN2":1,
+	"ServerListCDN2": {
+	    	"id1":"217",
+		"ip1":"loginbz.y5mrsc7p.com:2701|4"
+	},
+
+
+	"networkData":{
+	   "1":30000,
+	   "2":3000,
+	   "3":3000,
+	   "4":3000,
+       "5":3000,
+       "6":3000,
+	   "7":10
+	},
+	"getIpUrl":"https://ifconfig.me/ip"
+}

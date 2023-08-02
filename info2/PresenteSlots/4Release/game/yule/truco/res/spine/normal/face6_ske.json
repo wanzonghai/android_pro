@@ -1,0 +1,128 @@
+{
+	"skeleton": {
+		"width": 72,
+		"height": 74,
+		"fps": 6,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face6_0002_3"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face6_0009_10": {
+					"name": "face6_0009_10",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0008_9": {
+					"name": "face6_0008_9",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0007_8": {
+					"name": "face6_0007_8",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0006_7": {
+					"name": "face6_0006_7",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0005_6": {
+					"name": "face6_0005_6",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0004_5": {
+					"name": "face6_0004_5",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0003_4": {
+					"name": "face6_0003_4",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0002_3": {
+					"name": "face6_0002_3",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0001_2": {
+					"name": "face6_0001_2",
+					"width": 72,
+					"height": 74
+				},
+				"face6_0000_1": {
+					"name": "face6_0000_1",
+					"width": 72,
+					"height": 74
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face6_0009_10"
+						},
+						{
+							"time": 0.1667,
+							"name": "face6_0008_9"
+						},
+						{
+							"time": 0.3334,
+							"name": "face6_0007_8"
+						},
+						{
+							"time": 0.5001,
+							"name": "face6_0006_7"
+						},
+						{
+							"time": 0.6668,
+							"name": "face6_0005_6"
+						},
+						{
+							"time": 0.8335,
+							"name": "face6_0004_5"
+						},
+						{
+							"time": 1.0002,
+							"name": "face6_0003_4"
+						},
+						{
+							"time": 1.1669,
+							"name": "face6_0002_3"
+						},
+						{
+							"time": 1.3336,
+							"name": "face6_0001_2"
+						},
+						{
+							"time": 1.5003,
+							"name": "face6_0000_1"
+						}
+					]
+				}
+			}
+		}
+	}
+}

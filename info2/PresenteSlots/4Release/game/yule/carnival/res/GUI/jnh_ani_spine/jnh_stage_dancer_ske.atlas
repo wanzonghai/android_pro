@@ -1,0 +1,146 @@
+
+jnh_stage_dancer_ske.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: true
+  xy: 342, 264
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+jnh_stage
+  rotate: false
+  xy: 2, 94
+  size: 172, 414
+  orig: 172, 414
+  offset: 0, 0
+  index: -1
+stage_glow
+  rotate: true
+  xy: 176, 93
+  size: 171, 126
+  orig: 171, 126
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_left_hand
+  rotate: false
+  xy: 2, 6
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_arm_l
+  rotate: false
+  xy: 2, 25
+  size: 101, 67
+  orig: 101, 67
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_arm_r
+  rotate: false
+  xy: 274, 33
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_feathers
+  rotate: true
+  xy: 342, 388
+  size: 120, 166
+  orig: 120, 166
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_forarm_l
+  rotate: false
+  xy: 374, 2
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_forarm_r
+  rotate: false
+  xy: 374, 44
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_hade
+  rotate: true
+  xy: 172, 33
+  size: 58, 100
+  orig: 58, 100
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_hand_l
+  rotate: false
+  xy: 486, 352
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_leg_l_1
+  rotate: false
+  xy: 430, 31
+  size: 37, 75
+  orig: 37, 75
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_leg_l_2
+  rotate: true
+  xy: 382, 168
+  size: 41, 92
+  orig: 41, 92
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_leg_r_1
+  rotate: true
+  xy: 382, 211
+  size: 51, 96
+  orig: 51, 96
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_leg_r_2
+  rotate: false
+  xy: 105, 5
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_pelvis
+  rotate: true
+  xy: 369, 108
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_s_d_sholders
+  rotate: false
+  xy: 304, 101
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+stagedancer-assets/cc_wing_r
+  rotate: false
+  xy: 176, 266
+  size: 164, 242
+  orig: 164, 242
+  offset: 0, 0
+  index: -1
+star_b
+  rotate: false
+  xy: 304, 183
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+star_m
+  rotate: true
+  xy: 309, 34
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1

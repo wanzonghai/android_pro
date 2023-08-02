@@ -1,0 +1,90 @@
+
+za_lb_jbfzmpdl.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 428, 106
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 428, 2
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 531, 106
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 531, 2
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 0, 105
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 0, 0
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 107, 105
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 107, 0
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 214, 105
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 214, 0
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t7
+  rotate: false
+  xy: 321, 105
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+t8
+  rotate: false
+  xy: 321, 0
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+zhongjiang.png
+size: 224,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoguang2
+  rotate: false
+  xy: 2, 2
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+guangxian2
+  rotate: true
+  xy: 2, 224
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+txz_jlxx_bg
+  rotate: false
+  xy: 154, 503
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

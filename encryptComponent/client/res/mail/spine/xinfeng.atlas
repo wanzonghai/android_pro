@@ -1,0 +1,33 @@
+
+xinfeng.png
+size: 1535,1784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youjianbg1_yj
+  rotate: false
+  xy: 2, 877
+  size: 1531, 905
+  orig: 1531, 905
+  offset: 0, 0
+  index: -1
+youjianbg_yj
+  rotate: false
+  xy: 2, 2
+  size: 1470, 873
+  orig: 1470, 873
+  offset: 0, 0
+  index: -1
+
+xinfeng2.png
+size: 1398,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youjianbg2_yj
+  rotate: false
+  xy: 2, 2
+  size: 1394, 873
+  orig: 1394, 873
+  offset: 0, 0
+  index: -1

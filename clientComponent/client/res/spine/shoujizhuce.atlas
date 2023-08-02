@@ -1,0 +1,55 @@
+
+shoujizhuce.png
+size: 209,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dunpai
+  rotate: true
+  xy: 2, 2
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 153, 80
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 77, 112
+  size: 125, 47
+  orig: 125, 47
+  offset: 0, 0
+  index: -1
+liiziguang
+  rotate: false
+  xy: 153, 58
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: false
+  xy: 2, 59
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+wenzi3
+  rotate: false
+  xy: 2, 161
+  size: 186, 46
+  orig: 186, 46
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 77, 36
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

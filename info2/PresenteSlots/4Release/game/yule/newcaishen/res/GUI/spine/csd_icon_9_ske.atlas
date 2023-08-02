@@ -1,0 +1,125 @@
+
+csd_icon_9_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiazuichun
+  rotate: false
+  xy: 1, 434
+  size: 290, 135
+  orig: 290, 135
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: false
+  xy: 1, 571
+  size: 240, 115
+  orig: 240, 115
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: false
+  xy: 145, 688
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: false
+  xy: 445, 395
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+eye_di
+  rotate: false
+  xy: 1, 208
+  size: 368, 122
+  orig: 371, 125
+  offset: 1, 2
+  index: -1
+R_eye
+  rotate: false
+  xy: 371, 208
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 411, 306
+  size: 99, 87
+  orig: 100, 88
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 1, 1
+  size: 394, 205
+  orig: 394, 205
+  offset: 0, 0
+  index: -1
+L_hongyan
+  rotate: false
+  xy: 243, 571
+  size: 150, 118
+  orig: 150, 118
+  offset: 0, 0
+  index: -1
+L_baiyan
+  rotate: false
+  xy: 1, 795
+  size: 142, 105
+  orig: 142, 105
+  offset: 0, 0
+  index: -1
+R_hongyan
+  rotate: false
+  xy: 293, 434
+  size: 150, 118
+  orig: 150, 118
+  offset: 0, 0
+  index: -1
+R_baiyan
+  rotate: false
+  xy: 1, 688
+  size: 142, 105
+  orig: 142, 105
+  offset: 0, 0
+  index: -1
+shangzuichun
+  rotate: false
+  xy: 1, 332
+  size: 408, 100
+  orig: 408, 100
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 397, 78
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+yuanpan
+  rotate: false
+  xy: 397, 1
+  size: 104, 75
+  orig: 104, 75
+  offset: 0, 0
+  index: -1
+L_yuanpan
+  rotate: false
+  xy: 397, 145
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+R_yuanpan
+  rotate: false
+  xy: 443, 145
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1

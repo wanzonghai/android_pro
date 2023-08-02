@@ -1,0 +1,137 @@
+{
+	"skeleton": {
+		"width": 136,
+		"height": 130,
+		"fps": 8,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face12_0002_3"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face12_0000_1": {
+					"name": "face12_0000_1",
+					"width": 99,
+					"height": 67
+				},
+				"face12_0001_2": {
+					"name": "face12_0001_2",
+					"width": 118,
+					"height": 126
+				},
+				"face12_0002_3": {
+					"name": "face12_0002_3",
+					"width": 100,
+					"height": 112
+				},
+				"face12_0003_4": {
+					"name": "face12_0003_4",
+					"width": 111,
+					"height": 99
+				},
+				"face12_0004_5": {
+					"name": "face12_0004_5",
+					"width": 113,
+					"height": 106
+				},
+				"face12_0005_6": {
+					"name": "face12_0005_6",
+					"width": 120,
+					"height": 116
+				},
+				"face12_0006_7": {
+					"name": "face12_0006_7",
+					"width": 120,
+					"height": 116
+				},
+				"face12_0007_8": {
+					"name": "face12_0007_8",
+					"width": 122,
+					"height": 112
+				},
+				"face12_0008_9": {
+					"name": "face12_0008_9",
+					"width": 132,
+					"height": 111
+				},
+				"face12_0009_10": {
+					"name": "face12_0009_10",
+					"width": 122,
+					"height": 108
+				},
+				"face12_0010_11": {
+					"name": "face12_0010_11",
+					"width": 136,
+					"height": 112
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face12_0000_1"
+						},
+						{
+							"time": 0.125,
+							"name": "face12_0001_2"
+						},
+						{
+							"time": 0.25,
+							"name": "face12_0002_3"
+						},
+						{
+							"time": 0.375,
+							"name": "face12_0003_4"
+						},
+						{
+							"time": 0.5,
+							"name": "face12_0004_5"
+						},
+						{
+							"time": 0.625,
+							"name": "face12_0005_6"
+						},
+						{
+							"time": 0.75,
+							"name": "face12_0006_7"
+						},
+						{
+							"time": 0.875,
+							"name": "face12_0007_8"
+						},
+						{
+							"time": 1,
+							"name": "face12_0008_9"
+						},
+						{
+							"time": 1.125,
+							"name": "face12_0009_10"
+						},
+						{
+							"time": 1.25,
+							"name": "face12_0010_11"
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+
+paomadeng_2.png
+size: 372,982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: true
+  xy: 172, 44
+  size: 936, 107
+  orig: 936, 107
+  offset: 0, 0
+  index: -1
+fangkuandian
+  rotate: true
+  xy: 281, 77
+  size: 903, 89
+  orig: 903, 89
+  offset: 0, 0
+  index: -1
+gx1
+  rotate: true
+  xy: 2, 12
+  size: 968, 168
+  orig: 968, 168
+  offset: 0, 0
+  index: -1
+zd1
+  rotate: false
+  xy: 2, 2
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+zd2
+  rotate: false
+  xy: 2, 2
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1

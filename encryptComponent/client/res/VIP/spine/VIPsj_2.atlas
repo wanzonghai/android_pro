@@ -1,0 +1,132 @@
+
+VIPsj_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juhuaguang1
+  rotate: false
+  xy: 2, 1441
+  size: 622, 595
+  orig: 622, 595
+  offset: 0, 0
+  index: -1
+tx/guangyun
+  rotate: false
+  xy: 2, 927
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00000
+  rotate: false
+  xy: 626, 1780
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00002
+  rotate: false
+  xy: 2, 669
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00004
+  rotate: false
+  xy: 626, 1522
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00006
+  rotate: false
+  xy: 884, 1780
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00008
+  rotate: false
+  xy: 2, 411
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00010
+  rotate: false
+  xy: 884, 1522
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00012
+  rotate: false
+  xy: 1142, 1780
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00014
+  rotate: false
+  xy: 2, 153
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00016
+  rotate: false
+  xy: 1142, 1522
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00018
+  rotate: false
+  xy: 1400, 1780
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00020
+  rotate: false
+  xy: 1400, 1522
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00022
+  rotate: false
+  xy: 1658, 1780
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00024
+  rotate: false
+  xy: 1658, 1522
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00026
+  rotate: false
+  xy: 260, 669
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/lizi/xunhuan_00028
+  rotate: false
+  xy: 260, 411
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/pian2_00001
+  rotate: true
+  xy: 2, 2
+  size: 149, 163
+  orig: 149, 163
+  offset: 0, 0
+  index: -1

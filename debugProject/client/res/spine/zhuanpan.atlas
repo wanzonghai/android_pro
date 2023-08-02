@@ -1,0 +1,186 @@
+
+zhuanpan.png
+size: 992,982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/cjfx0002
+  rotate: false
+  xy: 2, 40
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0004
+  rotate: false
+  xy: 748, 786
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0006
+  rotate: false
+  xy: 200, 40
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0008
+  rotate: false
+  xy: 748, 590
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0010
+  rotate: false
+  xy: 398, 40
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0012
+  rotate: false
+  xy: 748, 394
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0014
+  rotate: false
+  xy: 748, 198
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0016
+  rotate: false
+  xy: 596, 2
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0018
+  rotate: false
+  xy: 794, 2
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/zhuanquan2
+  rotate: false
+  xy: 2, 236
+  size: 744, 744
+  orig: 744, 744
+  offset: 0, 0
+  index: -1
+
+zhuanpan2.png
+size: 991,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantpu2
+  rotate: false
+  xy: 488, 428
+  size: 285, 556
+  orig: 285, 556
+  offset: 0, 0
+  index: -1
+tx/cjfx0020
+  rotate: false
+  xy: 775, 790
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0022
+  rotate: false
+  xy: 775, 594
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0024
+  rotate: true
+  xy: 793, 396
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0026
+  rotate: true
+  xy: 793, 198
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0028
+  rotate: false
+  xy: 793, 2
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/glow_4_00022
+  rotate: false
+  xy: 469, 100
+  size: 322, 326
+  orig: 322, 326
+  offset: 0, 0
+  index: -1
+tx/quanquan
+  rotate: false
+  xy: 2, 51
+  size: 465, 464
+  orig: 465, 464
+  offset: 0, 0
+  index: -1
+tx/sancai
+  rotate: false
+  xy: 2, 517
+  size: 484, 467
+  orig: 484, 467
+  offset: 0, 0
+  index: -1
+
+zhuanpan3.png
+size: 674,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/cjfx0030
+  rotate: false
+  xy: 280, 202
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0032
+  rotate: true
+  xy: 478, 200
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0034
+  rotate: false
+  xy: 280, 6
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/cjfx0036
+  rotate: true
+  xy: 478, 2
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+tx/glow_5_00022
+  rotate: false
+  xy: 2, 105
+  size: 276, 291
+  orig: 276, 291
+  offset: 0, 0
+  index: -1

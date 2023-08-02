@@ -1,0 +1,132 @@
+
+anniu.png
+size: 938,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniuliuguang_00000
+  rotate: false
+  xy: 553, 162
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00002
+  rotate: false
+  xy: 688, 210
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00004
+  rotate: false
+  xy: 688, 162
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00006
+  rotate: false
+  xy: 398, 3
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00008
+  rotate: true
+  xy: 823, 123
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00010
+  rotate: true
+  xy: 871, 123
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00012
+  rotate: false
+  xy: 553, 114
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00014
+  rotate: false
+  xy: 688, 114
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00016
+  rotate: false
+  xy: 519, 66
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00018
+  rotate: false
+  xy: 654, 66
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00020
+  rotate: false
+  xy: 533, 18
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00022
+  rotate: false
+  xy: 668, 18
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00024
+  rotate: false
+  xy: 789, 66
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00026
+  rotate: false
+  xy: 803, 18
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+anniuliuguang_00028
+  rotate: false
+  xy: 553, 210
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+button714
+  rotate: false
+  xy: 2, 2
+  size: 394, 154
+  orig: 394, 154
+  offset: 0, 0
+  index: -1
+huangtiao_00000
+  rotate: false
+  xy: 398, 51
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 158
+  size: 549, 98
+  orig: 549, 98
+  offset: 0, 0
+  index: -1

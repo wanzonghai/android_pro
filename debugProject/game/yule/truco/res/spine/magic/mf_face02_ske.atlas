@@ -1,0 +1,76 @@
+
+mf_face02_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face02_0000_1
+  rotate: false
+  xy: 225, 128
+  size: 89, 113
+  orig: 89, 113
+  offset: 0, 0
+  index: -1
+face02_0004_5
+  rotate: false
+  xy: 341, 124
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+face02_0007_8
+  rotate: false
+  xy: 1, 243
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+face02_0001_2
+  rotate: false
+  xy: 118, 120
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+face02_0003_4
+  rotate: false
+  xy: 341, 1
+  size: 94, 121
+  orig: 94, 121
+  offset: 0, 0
+  index: -1
+face02_0006_7
+  rotate: false
+  xy: 1, 364
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+face02_0009_10
+  rotate: false
+  xy: 1, 122
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1
+face02_0002_3
+  rotate: false
+  xy: 235, 1
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+face02_0005_6
+  rotate: false
+  xy: 118, 1
+  size: 115, 117
+  orig: 115, 117
+  offset: 0, 0
+  index: -1
+face02_0008_9
+  rotate: false
+  xy: 1, 1
+  size: 115, 119
+  orig: 115, 119
+  offset: 0, 0
+  index: -1

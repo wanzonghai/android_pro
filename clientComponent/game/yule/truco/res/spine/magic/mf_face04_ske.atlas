@@ -1,0 +1,76 @@
+
+mf_face04_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face04_0008_2
+  rotate: false
+  xy: 405, 1
+  size: 88, 99
+  orig: 144, 127
+  offset: 25, 0
+  index: -1
+face04_0000_10
+  rotate: false
+  xy: 1, 1
+  size: 144, 127
+  orig: 144, 127
+  offset: 0, 0
+  index: -1
+face04_0006_4
+  rotate: false
+  xy: 130, 233
+  size: 123, 111
+  orig: 144, 127
+  offset: 10, 0
+  index: -1
+face04_0001_9
+  rotate: false
+  xy: 276, 117
+  size: 127, 114
+  orig: 144, 127
+  offset: 8, 0
+  index: -1
+face04_0004_6
+  rotate: false
+  xy: 1, 130
+  size: 127, 114
+  orig: 144, 127
+  offset: 8, 0
+  index: -1
+face04_0009_1
+  rotate: false
+  xy: 405, 102
+  size: 88, 97
+  orig: 144, 127
+  offset: 26, 0
+  index: -1
+face04_0002_8
+  rotate: false
+  xy: 147, 117
+  size: 127, 114
+  orig: 144, 127
+  offset: 8, 0
+  index: -1
+face04_0007_3
+  rotate: false
+  xy: 1, 246
+  size: 88, 102
+  orig: 144, 127
+  offset: 26, 0
+  index: -1
+face04_0005_5
+  rotate: false
+  xy: 276, 1
+  size: 127, 114
+  orig: 144, 127
+  offset: 8, 0
+  index: -1
+face04_0003_7
+  rotate: false
+  xy: 147, 1
+  size: 127, 114
+  orig: 144, 127
+  offset: 8, 0
+  index: -1

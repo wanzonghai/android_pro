@@ -1,0 +1,27 @@
+
+kelingqu.png
+size: 294,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caishan
+  rotate: false
+  xy: 2, 2
+  size: 214, 212
+  orig: 214, 212
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 218, 108
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 218, 140
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,46 @@
+{
+"skeleton": { "hash": "55plxbsa4zZsAvG0knaJTlVBAeE", "spine": "3.6.34", "width": 740, "height": 404, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 52.78, "x": -4.45, "y": -65.49 },
+	{ "name": "di", "parent": "bone", "length": 58.83, "x": 4.08, "y": 67.56 }
+],
+"slots": [
+	{ "name": "di", "bone": "di", "attachment": "di" }
+],
+"skins": {
+	"default": {
+		"di": {
+			"di": { "x": 18.9, "y": -7.1, "width": 740, "height": 404 }
+		}
+	}
+},
+"animations": {
+	"daiji": {},
+	"ruchang": {
+		"slots": {
+			"di": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "di" }
+				]
+			}
+		},
+		"bones": {
+			"di": {
+				"scale": [
+					{ "time": 0, "x": 0.596, "y": 0.596, "curve": "stepped" },
+					{ "time": 0.1, "x": 0.596, "y": 0.596 },
+					{
+						"time": 0.1333,
+						"x": 1.028,
+						"y": 1.028,
+						"curve": [ 0, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

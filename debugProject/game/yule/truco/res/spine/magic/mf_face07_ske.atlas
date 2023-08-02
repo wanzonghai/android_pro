@@ -1,0 +1,34 @@
+
+mf_face07_ske.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face07_0001_2
+  rotate: false
+  xy: 95, 1
+  size: 88, 116
+  orig: 111, 121
+  offset: 15, 0
+  index: -1
+face07_0003_4
+  rotate: false
+  xy: 93, 121
+  size: 90, 114
+  orig: 111, 121
+  offset: 15, 0
+  index: -1
+face07_0000_1
+  rotate: false
+  xy: 1, 1
+  size: 92, 118
+  orig: 111, 121
+  offset: 12, 0
+  index: -1
+face07_0002_3
+  rotate: false
+  xy: 1, 121
+  size: 90, 117
+  orig: 111, 121
+  offset: 12, 0
+  index: -1

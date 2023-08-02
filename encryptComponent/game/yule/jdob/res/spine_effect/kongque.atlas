@@ -1,0 +1,132 @@
+
+kongque.png
+size: 1288, 1288
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jiaoy
+  rotate: true
+  xy: 452, 420
+  size: 113, 138
+  orig: 115, 140
+  offset: 1, 1
+  index: -1
+jiaoz
+  rotate: true
+  xy: 452, 535
+  size: 118, 141
+  orig: 120, 143
+  offset: 1, 1
+  index: -1
+lingmao
+  rotate: false
+  xy: 595, 441
+  size: 99, 94
+  orig: 101, 96
+  offset: 1, 1
+  index: -1
+meiy
+  rotate: true
+  xy: 1269, 734
+  size: 33, 17
+  orig: 35, 19
+  offset: 1, 1
+  index: -1
+meiz
+  rotate: true
+  xy: 1270, 1263
+  size: 23, 13
+  orig: 25, 15
+  offset: 1, 1
+  index: -1
+quanquan
+  rotate: true
+  xy: 2, 342
+  size: 311, 303
+  orig: 313, 305
+  offset: 1, 1
+  index: -1
+shenzi
+  rotate: true
+  xy: 702, 495
+  size: 272, 518
+  orig: 272, 518
+  offset: 0, 0
+  index: -1
+shet
+  rotate: false
+  xy: 307, 437
+  size: 87, 83
+  orig: 89, 85
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 307, 522
+  size: 143, 131
+  orig: 145, 133
+  offset: 1, 1
+  index: -1
+yandiy
+  rotate: false
+  xy: 307, 363
+  size: 78, 72
+  orig: 82, 77
+  offset: 2, 3
+  index: -1
+yandiz
+  rotate: false
+  xy: 1222, 722
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1
+yanpiy
+  rotate: false
+  xy: 1222, 688
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+yanpiz
+  rotate: true
+  xy: 1261, 645
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+yanqiuy
+  rotate: false
+  xy: 1222, 650
+  size: 37, 36
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+yanqiuz
+  rotate: false
+  xy: 1222, 624
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+yumaoxiao
+  rotate: false
+  xy: 2, 655
+  size: 698, 631
+  orig: 709, 639
+  offset: 7, 7
+  index: -1
+yumaoxiao1
+  rotate: false
+  xy: 702, 769
+  size: 566, 517
+  orig: 566, 518
+  offset: 0, 0
+  index: -1
+zuishang
+  rotate: true
+  xy: 595, 537
+  size: 116, 98
+  orig: 118, 100
+  offset: 1, 1
+  index: -1

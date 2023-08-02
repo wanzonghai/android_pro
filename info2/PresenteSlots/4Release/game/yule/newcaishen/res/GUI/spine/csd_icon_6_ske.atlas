@@ -1,0 +1,97 @@
+
+csd_icon_6_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_6
+  rotate: false
+  xy: 1, 1
+  size: 145, 120
+  orig: 170, 160
+  offset: 12, 20
+  index: -1
+icon_6_006
+  rotate: false
+  xy: 148, 1
+  size: 131, 114
+  orig: 170, 160
+  offset: 21, 23
+  index: -1
+icon_6_009
+  rotate: false
+  xy: 401, 212
+  size: 91, 91
+  orig: 170, 160
+  offset: 66, 21
+  index: -1
+icon_6_010
+  rotate: false
+  xy: 1, 123
+  size: 69, 83
+  orig: 170, 160
+  offset: 88, 22
+  index: -1
+icon_6_003
+  rotate: false
+  xy: 148, 117
+  size: 79, 97
+  orig: 170, 160
+  offset: 13, 44
+  index: -1
+icon_6_001
+  rotate: false
+  xy: 229, 188
+  size: 38, 53
+  orig: 170, 160
+  offset: 14, 87
+  index: -1
+icon_6_000
+  rotate: false
+  xy: 494, 212
+  size: 12, 17
+  orig: 170, 160
+  offset: 16, 121
+  index: -1
+icon_6_002
+  rotate: false
+  xy: 72, 123
+  size: 58, 80
+  orig: 170, 160
+  offset: 13, 61
+  index: -1
+icon_6_007
+  rotate: false
+  xy: 281, 1
+  size: 125, 108
+  orig: 170, 160
+  offset: 31, 21
+  index: -1
+icon_6_004
+  rotate: false
+  xy: 408, 1
+  size: 97, 106
+  orig: 170, 160
+  offset: 14, 34
+  index: -1
+icon_6_008
+  rotate: false
+  xy: 401, 111
+  size: 110, 99
+  orig: 170, 160
+  offset: 47, 21
+  index: -1
+icon_6_005
+  rotate: false
+  xy: 281, 111
+  size: 118, 112
+  orig: 170, 160
+  offset: 15, 28
+  index: -1
+icon_6_011
+  rotate: false
+  xy: 229, 117
+  size: 43, 69
+  orig: 170, 160
+  offset: 113, 28
+  index: -1

@@ -1,0 +1,173 @@
+{
+	"skeleton": {
+		"width": 75,
+		"height": 74,
+		"fps": 8,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face03_0000_15"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face03_0014_1": {
+					"name": "face03_0014_1",
+					"width": 57,
+					"height": 71
+				},
+				"face03_0013_2": {
+					"name": "face03_0013_2",
+					"width": 52,
+					"height": 66
+				},
+				"face03_0012_3": {
+					"name": "face03_0012_3",
+					"width": 54,
+					"height": 64
+				},
+				"face03_0011_4": {
+					"name": "face03_0011_4",
+					"width": 52,
+					"height": 66
+				},
+				"face03_0010_5": {
+					"name": "face03_0010_5",
+					"width": 52,
+					"height": 66
+				},
+				"face03_0009_6": {
+					"name": "face03_0009_6",
+					"width": 53,
+					"height": 66
+				},
+				"face03_0008_7": {
+					"name": "face03_0008_7",
+					"width": 73,
+					"height": 72
+				},
+				"face03_0007_8": {
+					"name": "face03_0007_8",
+					"width": 73,
+					"height": 73
+				},
+				"face03_0006_9": {
+					"name": "face03_0006_9",
+					"width": 73,
+					"height": 73
+				},
+				"face03_0005_10": {
+					"name": "face03_0005_10",
+					"width": 73,
+					"height": 73
+				},
+				"face03_0004_11": {
+					"name": "face03_0004_11",
+					"width": 73,
+					"height": 73
+				},
+				"face03_0003_12": {
+					"name": "face03_0003_12",
+					"width": 73,
+					"height": 74
+				},
+				"face03_0002_13": {
+					"name": "face03_0002_13",
+					"width": 73,
+					"height": 73
+				},
+				"face03_0001_14": {
+					"name": "face03_0001_14",
+					"width": 73,
+					"height": 73
+				},
+				"face03_0000_15": {
+					"name": "face03_0000_15",
+					"width": 75,
+					"height": 73
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face03_0014_1"
+						},
+						{
+							"time": 0.125,
+							"name": "face03_0013_2"
+						},
+						{
+							"time": 0.25,
+							"name": "face03_0012_3"
+						},
+						{
+							"time": 0.375,
+							"name": "face03_0011_4"
+						},
+						{
+							"time": 0.5,
+							"name": "face03_0010_5"
+						},
+						{
+							"time": 0.625,
+							"name": "face03_0009_6"
+						},
+						{
+							"time": 0.75,
+							"name": "face03_0008_7"
+						},
+						{
+							"time": 0.875,
+							"name": "face03_0007_8"
+						},
+						{
+							"time": 1,
+							"name": "face03_0006_9"
+						},
+						{
+							"time": 1.125,
+							"name": "face03_0005_10"
+						},
+						{
+							"time": 1.25,
+							"name": "face03_0004_11"
+						},
+						{
+							"time": 1.375,
+							"name": "face03_0003_12"
+						},
+						{
+							"time": 1.5,
+							"name": "face03_0002_13"
+						},
+						{
+							"time": 1.625,
+							"name": "face03_0001_14"
+						},
+						{
+							"time": 1.75,
+							"name": "face03_0000_15"
+						}
+					]
+				}
+			}
+		}
+	}
+}

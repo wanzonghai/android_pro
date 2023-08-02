@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/todayShare/GUI/mrfx_an1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,212},{297,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{297,101}</string>
+			</dict>
+			<key>client/res/todayShare/GUI/mrfx_an2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{325,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{325,101}</string>
+			</dict>
+			<key>client/res/todayShare/GUI/mrfx_an3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,107},{325,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{325,101}</string>
+			</dict>
+			<key>client/res/todayShare/GUI/mrfx_an4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{331,2},{120,121}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,121}</string>
+			</dict>
+			<key>client/res/todayShare/GUI/Copiarlink.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,317},{343,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{343,66}</string>
+			</dict>
+			<key>client/res/todayShare/GUI/Salvaraimagem.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,387},{343,66}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{343,66}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SharePlist.png</string>
+			<key>realTextureFileName</key>
+			<string>SharePlist.png</string>
+			<key>size</key>
+			<string>{453,455}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>453</integer>
+			<key>height</key>
+			<integer>455</integer>
+		</dict>
+	</dict>
+</plist>

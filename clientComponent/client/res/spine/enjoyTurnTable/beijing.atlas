@@ -1,0 +1,146 @@
+
+beijing.png
+size: 900,668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font
+  rotate: false
+  xy: 2, 381
+  size: 896, 285
+  orig: 896, 285
+  offset: 0, 0
+  index: -1
+golds01
+  rotate: true
+  xy: 2, 9
+  size: 370, 173
+  orig: 370, 173
+  offset: 0, 0
+  index: -1
+golds02
+  rotate: true
+  xy: 384, 164
+  size: 215, 214
+  orig: 215, 214
+  offset: 0, 0
+  index: -1
+golds03
+  rotate: false
+  xy: 600, 217
+  size: 242, 162
+  orig: 242, 162
+  offset: 0, 0
+  index: -1
+golds04
+  rotate: true
+  xy: 692, 3
+  size: 212, 168
+  orig: 212, 168
+  offset: 0, 0
+  index: -1
+golds05
+  rotate: true
+  xy: 177, 115
+  size: 264, 205
+  orig: 264, 205
+  offset: 0, 0
+  index: -1
+jb_1
+  rotate: true
+  xy: 177, 7
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+xjb09
+  rotate: true
+  xy: 177, 7
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+jb_2
+  rotate: false
+  xy: 284, 5
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb02
+  rotate: false
+  xy: 284, 5
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb06
+  rotate: false
+  xy: 284, 5
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+jb_3
+  rotate: true
+  xy: 480, 2
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xjb01
+  rotate: true
+  xy: 480, 2
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+jb_4
+  rotate: false
+  xy: 480, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jb_5
+  rotate: true
+  xy: 582, 104
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xjb04
+  rotate: true
+  xy: 582, 104
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+jb_6
+  rotate: false
+  xy: 382, 5
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb03
+  rotate: false
+  xy: 382, 5
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb05
+  rotate: false
+  xy: 382, 5
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+tx/xingxing
+  rotate: false
+  xy: 590, 28
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

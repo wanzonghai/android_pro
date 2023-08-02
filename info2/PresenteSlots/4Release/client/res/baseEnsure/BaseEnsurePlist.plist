@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/baseEnsure/GUI/pcbz_an.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{345,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{345,127}</string>
+			</dict>
+			<key>client/res/baseEnsure/GUI/pcbz_an1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{351,2},{345,127}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{345,127}</string>
+			</dict>
+			<key>client/res/baseEnsure/GUI/pcbz_bt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,133},{571,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{571,73}</string>
+			</dict>
+			<key>client/res/baseEnsure/GUI/pcbz_gb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{700,2},{155,171}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{155,171}</string>
+			</dict>
+			<key>client/res/baseEnsure/GUI/pcbz_hs_lq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,210},{187,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{187,44}</string>
+			</dict>
+			<key>client/res/baseEnsure/GUI/pcbz_hs_ylq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,210},{193,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{193,44}</string>
+			</dict>
+			<key>client/res/baseEnsure/GUI/pcbz_lq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{390,210},{187,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{187,44}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BaseEnsurePlist.png</string>
+			<key>realTextureFileName</key>
+			<string>BaseEnsurePlist.png</string>
+			<key>size</key>
+			<string>{857,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>857</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

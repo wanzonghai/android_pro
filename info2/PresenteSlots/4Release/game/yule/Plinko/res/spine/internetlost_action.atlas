@@ -1,0 +1,118 @@
+
+internetlost_action.png
+size: 556,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bk
+  rotate: false
+  xy: 2, 38
+  size: 443, 165
+  orig: 443, 165
+  offset: 0, 0
+  index: -1
+cao
+  rotate: false
+  xy: 259, 8
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 407, 19
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 388, 18
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 447, 92
+  size: 111, 105
+  orig: 111, 105
+  offset: 0, 0
+  index: -1
+pedido de data_
+  rotate: false
+  xy: 2, 15
+  size: 226, 21
+  orig: 226, 21
+  offset: 0, 0
+  index: -1
+shangzui
+  rotate: true
+  xy: 316, 2
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+signe
+  rotate: false
+  xy: 447, 28
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+signe01
+  rotate: true
+  xy: 514, 48
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+xiazui
+  rotate: false
+  xy: 514, 25
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+youmei
+  rotate: true
+  xy: 341, 2
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 230, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: false
+  xy: 388, 2
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+zuomei
+  rotate: false
+  xy: 2, 4
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 355, 2
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+zuoyan
+  rotate: false
+  xy: 426, 23
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

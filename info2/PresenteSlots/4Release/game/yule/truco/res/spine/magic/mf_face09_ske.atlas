@@ -1,0 +1,90 @@
+
+mf_face09_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face09_0011_12
+  rotate: false
+  xy: 222, 210
+  size: 99, 101
+  orig: 116, 114
+  offset: 9, 0
+  index: -1
+face09_0002_3
+  rotate: false
+  xy: 236, 106
+  size: 104, 102
+  orig: 116, 114
+  offset: 6, 0
+  index: -1
+face09_0010_11
+  rotate: false
+  xy: 102, 314
+  size: 99, 97
+  orig: 116, 114
+  offset: 9, 0
+  index: -1
+face09_0009_10
+  rotate: false
+  xy: 1, 1
+  size: 116, 107
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+face09_0001_2
+  rotate: false
+  xy: 119, 109
+  size: 101, 104
+  orig: 116, 114
+  offset: 8, 0
+  index: -1
+face09_0000_1
+  rotate: false
+  xy: 342, 110
+  size: 96, 107
+  orig: 116, 114
+  offset: 6, 0
+  index: -1
+face09_0008_9
+  rotate: false
+  xy: 222, 313
+  size: 99, 99
+  orig: 116, 114
+  offset: 9, 0
+  index: -1
+face09_0007_8
+  rotate: false
+  xy: 1, 110
+  size: 99, 105
+  orig: 116, 114
+  offset: 9, 0
+  index: -1
+face09_0006_7
+  rotate: false
+  xy: 119, 1
+  size: 115, 106
+  orig: 116, 114
+  offset: 1, 0
+  index: -1
+face09_0005_6
+  rotate: false
+  xy: 102, 215
+  size: 99, 97
+  orig: 116, 114
+  offset: 9, 0
+  index: -1
+face09_0004_5
+  rotate: false
+  xy: 236, 1
+  size: 105, 103
+  orig: 116, 114
+  offset: 6, 0
+  index: -1
+face09_0003_4
+  rotate: false
+  xy: 343, 1
+  size: 100, 107
+  orig: 116, 114
+  offset: 5, 0
+  index: -1

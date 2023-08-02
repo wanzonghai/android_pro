@@ -1,0 +1,195 @@
+
+caijinchi_1.png
+size: 828,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_edge_effect03_01
+  rotate: false
+  xy: 2, 184
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_02
+  rotate: false
+  xy: 516, 698
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_03
+  rotate: false
+  xy: 2, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_04
+  rotate: false
+  xy: 132, 184
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_05
+  rotate: false
+  xy: 516, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_06
+  rotate: false
+  xy: 646, 698
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_07
+  rotate: false
+  xy: 132, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_08
+  rotate: false
+  xy: 262, 184
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_09
+  rotate: false
+  xy: 516, 438
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_10
+  rotate: false
+  xy: 646, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_11
+  rotate: false
+  xy: 262, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_12
+  rotate: false
+  xy: 646, 438
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_13
+  rotate: false
+  xy: 392, 184
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_14
+  rotate: false
+  xy: 392, 54
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_15
+  rotate: false
+  xy: 618, 308
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff_edge_effect03_16
+  rotate: false
+  xy: 522, 178
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 314
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 748, 332
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 776, 798
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: false
+  xy: 2, 25
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+tx/jb_1
+  rotate: false
+  xy: 516, 336
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_2
+  rotate: false
+  xy: 522, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_3
+  rotate: false
+  xy: 652, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_4
+  rotate: false
+  xy: 624, 76
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_5
+  rotate: false
+  xy: 726, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_6
+  rotate: false
+  xy: 726, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 748, 362
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

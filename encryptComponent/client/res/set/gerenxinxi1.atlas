@@ -1,0 +1,27 @@
+
+gerenxinxi1.png
+size: 498,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian2
+  rotate: false
+  xy: 2, 36
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+guyang_00000
+  rotate: false
+  xy: 2, 188
+  size: 494, 308
+  orig: 494, 308
+  offset: 0, 0
+  index: -1
+liiziguang
+  rotate: false
+  xy: 2, 14
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

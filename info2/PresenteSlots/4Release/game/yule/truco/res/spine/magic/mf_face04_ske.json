@@ -1,0 +1,128 @@
+{
+	"skeleton": {
+		"width": 144,
+		"height": 127,
+		"fps": 8,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face04_0004_6"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face04_0009_1": {
+					"name": "face04_0009_1",
+					"width": 88,
+					"height": 97
+				},
+				"face04_0008_2": {
+					"name": "face04_0008_2",
+					"width": 88,
+					"height": 99
+				},
+				"face04_0007_3": {
+					"name": "face04_0007_3",
+					"width": 88,
+					"height": 102
+				},
+				"face04_0006_4": {
+					"name": "face04_0006_4",
+					"width": 123,
+					"height": 111
+				},
+				"face04_0005_5": {
+					"name": "face04_0005_5",
+					"width": 127,
+					"height": 114
+				},
+				"face04_0004_6": {
+					"name": "face04_0004_6",
+					"width": 127,
+					"height": 114
+				},
+				"face04_0003_7": {
+					"name": "face04_0003_7",
+					"width": 127,
+					"height": 114
+				},
+				"face04_0002_8": {
+					"name": "face04_0002_8",
+					"width": 127,
+					"height": 114
+				},
+				"face04_0001_9": {
+					"name": "face04_0001_9",
+					"width": 127,
+					"height": 114
+				},
+				"face04_0000_10": {
+					"name": "face04_0000_10",
+					"width": 144,
+					"height": 127
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face04_0009_1"
+						},
+						{
+							"time": 0.125,
+							"name": "face04_0008_2"
+						},
+						{
+							"time": 0.25,
+							"name": "face04_0007_3"
+						},
+						{
+							"time": 0.375,
+							"name": "face04_0006_4"
+						},
+						{
+							"time": 0.5,
+							"name": "face04_0005_5"
+						},
+						{
+							"time": 0.625,
+							"name": "face04_0004_6"
+						},
+						{
+							"time": 0.75,
+							"name": "face04_0003_7"
+						},
+						{
+							"time": 0.875,
+							"name": "face04_0002_8"
+						},
+						{
+							"time": 1,
+							"name": "face04_0001_9"
+						},
+						{
+							"time": 1.125,
+							"name": "face04_0000_10"
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,55 @@
+
+tixianrukou.png
+size: 429,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 273, 12
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+atm
+  rotate: true
+  xy: 167, 10
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 167, 154
+  size: 195, 15
+  orig: 195, 15
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 6
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: false
+  xy: 349, 2
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+qian2
+  rotate: true
+  xy: 364, 75
+  size: 94, 57
+  orig: 94, 57
+  offset: 0, 0
+  index: -1
+saque
+  rotate: false
+  xy: 167, 107
+  size: 139, 45
+  orig: 139, 45
+  offset: 0, 0
+  index: -1

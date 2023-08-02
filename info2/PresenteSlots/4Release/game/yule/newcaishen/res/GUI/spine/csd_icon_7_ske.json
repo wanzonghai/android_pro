@@ -1,0 +1,1072 @@
+{
+    "skeleton": {
+        "width": 170,
+        "height": 160,
+        "hash": " ",
+        "spine":"3.6.0",
+        "name": "armatureName"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "x": 4.9405,
+            "y": -0.32,
+            "name": "hongbao_0",
+            "parent": "root"
+        },
+        {
+            "name": "all",
+            "parent": "root"
+        },
+        {
+            "x": -1.9693,
+            "y": -2.88,
+            "name": "H3_liang",
+            "parent": "all"
+        },
+        {
+            "x": 7.5943,
+            "y": 33.9095,
+            "name": "jinbi_01",
+            "parent": "all"
+        },
+        {
+            "x": -11.7624,
+            "y": -40.7052,
+            "name": "jinbi_02",
+            "parent": "all"
+        },
+        {
+            "x": -33.2129,
+            "y": 50.6223,
+            "name": "star_01",
+            "parent": "all"
+        },
+        {
+            "x": -1.7827,
+            "y": 0.5,
+            "scaleX": 2,
+            "scaleY": 2,
+            "name": "hongbao_saoguang",
+            "parent": "all"
+        },
+        {
+            "x": -31.2867,
+            "y": 42.3518,
+            "name": "H3_jinbi_01",
+            "parent": "all"
+        },
+        {
+            "x": -10.1108,
+            "y": 6.4825,
+            "name": "star_03",
+            "parent": "jinbi_02"
+        },
+        {
+            "x": -8.3054,
+            "y": 9.0341,
+            "name": "star_02",
+            "parent": "jinbi_01"
+        },
+        {
+            "x": 0.2957,
+            "y": -0.1995,
+            "name": "H3_jinbi_02",
+            "parent": "jinbi_01"
+        },
+        {
+            "x": 0.0024,
+            "y": -0.2048,
+            "name": "H3_jinbi_2",
+            "parent": "jinbi_02"
+        }
+    ],
+    "slots": [
+        {
+            "name": "icon_7_bg",
+            "bone": "root",
+            "attachment": "icon_7_bg"
+        },
+        {
+            "name": "hongbao_0",
+            "bone": "hongbao_0",
+            "attachment": "hongbao_0"
+        },
+        {
+            "name": "hongbao_1",
+            "bone": "H3_liang",
+            "attachment": "hongbao_1"
+        },
+        {
+            "name": "H3_liang",
+            "bone": "H3_liang"
+        },
+        {
+            "name": "hongbao_saoguang",
+            "bone": "hongbao_saoguang",
+            "blend": "additive"
+        },
+        {
+            "name": "jinbi_01",
+            "bone": "jinbi_01",
+            "attachment": "jinbi_01"
+        },
+        {
+            "name": "jinbi_02",
+            "bone": "jinbi_02",
+            "attachment": "jinbi_02"
+        },
+        {
+            "name": "H3_jinbi_01",
+            "bone": "H3_jinbi_01",
+            "blend": "additive",
+            "attachment": "H3_jinbi_01"
+        },
+        {
+            "name": "H3_jinbi_02",
+            "bone": "H3_jinbi_02",
+            "blend": "additive",
+            "attachment": "H3_jinbi_02"
+        },
+        {
+            "name": "H3_star",
+            "bone": "star_01",
+            "blend": "additive",
+            "attachment": "H3_star"
+        },
+        {
+            "name": "H3_star2",
+            "bone": "star_02",
+            "blend": "additive",
+            "attachment": "H3_star"
+        },
+        {
+            "name": "H3_jinbi_2",
+            "bone": "H3_jinbi_2",
+            "blend": "additive",
+            "attachment": "H3_jinbi_02"
+        },
+        {
+            "name": "H3_star3",
+            "bone": "star_03",
+            "blend": "additive",
+            "attachment": "H3_star"
+        }
+    ],
+    "skins": {
+        "default": {
+            "H3_liang": {
+                "H3_liang": {
+                    "name": "H3_liang",
+                    "width": 143,
+                    "height": 136
+                }
+            },
+            "jinbi_01": {
+                "jinbi_01": {
+                    "name": "jinbi_01",
+                    "width": 27,
+                    "height": 28
+                }
+            },
+            "H3_jinbi_01": {
+                "H3_jinbi_01": {
+                    "name": "H3_jinbi_01",
+                    "width": 35,
+                    "height": 29
+                }
+            },
+            "H3_star3": {
+                "H3_star": {
+                    "name": "H3_star",
+                    "width": 25,
+                    "height": 27
+                }
+            },
+            "icon_7_bg": {
+                "icon_7_bg": {
+                    "name": "icon_7_bg",
+                    "width": 146,
+                    "height": 121
+                }
+            },
+            "hongbao_saoguang": {
+                "H3_00005": {
+                    "name": "H3_00005",
+                    "width": 5,
+                    "height": 7
+                },
+                "H3_00006": {
+                    "name": "H3_00006",
+                    "width": 16,
+                    "height": 20
+                },
+                "H3_00007": {
+                    "name": "H3_00007",
+                    "width": 27,
+                    "height": 30
+                },
+                "H3_00008": {
+                    "name": "H3_00008",
+                    "width": 35,
+                    "height": 41
+                },
+                "H3_00009": {
+                    "name": "H3_00009",
+                    "width": 43,
+                    "height": 49
+                },
+                "H3_00010": {
+                    "name": "H3_00010",
+                    "width": 48,
+                    "height": 52
+                },
+                "H3_00011": {
+                    "name": "H3_00011",
+                    "width": 53,
+                    "height": 55
+                },
+                "H3_00012": {
+                    "name": "H3_00012",
+                    "width": 54,
+                    "height": 57
+                },
+                "H3_00013": {
+                    "name": "H3_00013",
+                    "width": 55,
+                    "height": 56
+                },
+                "H3_00014": {
+                    "name": "H3_00014",
+                    "width": 55,
+                    "height": 56
+                },
+                "H3_00015": {
+                    "name": "H3_00015",
+                    "width": 55,
+                    "height": 55
+                },
+                "H3_00016": {
+                    "name": "H3_00016",
+                    "width": 54,
+                    "height": 53
+                },
+                "H3_00017": {
+                    "name": "H3_00017",
+                    "width": 54,
+                    "height": 52
+                },
+                "H3_00018": {
+                    "name": "H3_00018",
+                    "width": 49,
+                    "height": 50
+                },
+                "H3_00019": {
+                    "name": "H3_00019",
+                    "width": 45,
+                    "height": 46
+                },
+                "H3_00020": {
+                    "name": "H3_00020",
+                    "width": 37,
+                    "height": 37
+                },
+                "H3_00021": {
+                    "name": "H3_00021",
+                    "width": 24,
+                    "height": 24
+                }
+            },
+            "hongbao_1": {
+                "hongbao_1": {
+                    "name": "hongbao_1",
+                    "width": 109,
+                    "height": 125,
+                    "x": -2.52,
+                    "y": 3.88
+                }
+            },
+            "H3_jinbi_02": {
+                "H3_jinbi_02": {
+                    "name": "H3_jinbi_02",
+                    "width": 35,
+                    "height": 36
+                }
+            },
+            "H3_star": {
+                "H3_star": {
+                    "name": "H3_star",
+                    "width": 25,
+                    "height": 27
+                }
+            },
+            "jinbi_02": {
+                "jinbi_02": {
+                    "name": "jinbi_02",
+                    "width": 27,
+                    "height": 28
+                }
+            },
+            "hongbao_0": {
+                "hongbao_0": {
+                    "name": "hongbao_0",
+                    "width": 96,
+                    "height": 121
+                }
+            },
+            "H3_star2": {
+                "H3_star": {
+                    "name": "H3_star",
+                    "width": 25,
+                    "height": 27
+                }
+            },
+            "H3_jinbi_2": {
+                "H3_jinbi_02": {
+                    "name": "H3_jinbi_02",
+                    "width": 35,
+                    "height": 36,
+                    "rotation": -23.2
+                }
+            }
+        }
+    },
+    "animations": {
+        "newAnimation": {
+            "bones": {
+                "star_01": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "angle": 0
+                        },
+                        {
+                            "time": 0.8333,
+                            "curve": [
+                                0,
+                                0.7,
+                                0.571,
+                                1
+                            ],
+                            "angle": 0
+                        },
+                        {
+                            "time": 1.3333,
+                            "angle": -75
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.5,
+                            "y": 0.5
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0
+                        },
+                        {
+                            "time": 0.8333,
+                            "curve": [
+                                0,
+                                0.7,
+                                0.571,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 1.3333
+                        }
+                    ]
+                },
+                "star_02": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "angle": 0
+                        },
+                        {
+                            "time": 1.0667,
+                            "curve": [
+                                0,
+                                0.7,
+                                0.571,
+                                1
+                            ],
+                            "angle": 0
+                        },
+                        {
+                            "time": 1.5667,
+                            "angle": 75
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.5,
+                            "y": 0.5
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0
+                        },
+                        {
+                            "time": 1.0667,
+                            "curve": [
+                                0,
+                                0.7,
+                                0.571,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 1.5667
+                        }
+                    ]
+                },
+                "star_03": {
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "angle": 0
+                        },
+                        {
+                            "time": 1.3,
+                            "curve": [
+                                0,
+                                0.7,
+                                0.571,
+                                1
+                            ],
+                            "angle": 0
+                        },
+                        {
+                            "time": 1.8,
+                            "angle": 75
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "x": 0.5,
+                            "y": 0.5
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0
+                        },
+                        {
+                            "time": 1.3,
+                            "curve": [
+                                0,
+                                0.7,
+                                0.571,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 1.8
+                        }
+                    ]
+                },
+                "all": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.4667,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -1.96
+                        },
+                        {
+                            "time": 0.9334
+                        }
+                    ],
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "angle": 0
+                        },
+                        {
+                            "time": 0.4667,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "angle": 6
+                        },
+                        {
+                            "time": 0.9334,
+                            "angle": 0
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.4667,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1.05,
+                            "y": 1.05
+                        },
+                        {
+                            "time": 0.9334,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.4667,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.9334
+                        }
+                    ]
+                },
+                "jinbi_01": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 6.31,
+                            "y": -0.66
+                        },
+                        {
+                            "time": 1
+                        }
+                    ],
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "angle": 0
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "angle": -32
+                        },
+                        {
+                            "time": 1,
+                            "angle": 0
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 1,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 1
+                        }
+                    ]
+                },
+                "jinbi_02": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": -2.86,
+                            "y": 0.3
+                        },
+                        {
+                            "time": 1.0333
+                        }
+                    ],
+                    "rotate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "angle": 0
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "angle": 29
+                        },
+                        {
+                            "time": 1.0333,
+                            "angle": 0
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 0.95,
+                            "y": 0.95
+                        },
+                        {
+                            "time": 1.0333,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ],
+                    "shear": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 1.0333
+                        }
+                    ]
+                },
+                "hongbao_0": {
+                    "translate": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ]
+                        },
+                        {
+                            "time": 0.5,
+                            "x": 2.25
+                        },
+                        {
+                            "time": 1
+                        }
+                    ],
+                    "scale": [
+                        {
+                            "time": 0,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1,
+                            "y": 1
+                        },
+                        {
+                            "time": 0.5,
+                            "curve": [
+                                0.5,
+                                0,
+                                0.5,
+                                1
+                            ],
+                            "x": 1.05,
+                            "y": 1.05
+                        },
+                        {
+                            "time": 1,
+                            "x": 1,
+                            "y": 1
+                        }
+                    ]
+                }
+            },
+            "slots": {
+                "H3_jinbi_01": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.6667,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.8334,
+                            "color": "FFFFFF8A"
+                        },
+                        {
+                            "time": 1.0001,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "H3_jinbi_2": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.1333,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.3,
+                            "color": "FFFFFF78"
+                        },
+                        {
+                            "time": 1.4667,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "H3_jinbi_02": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.9,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.0667,
+                            "color": "FFFFFF7A"
+                        },
+                        {
+                            "time": 1.2334,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "H3_liang": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "H3_liang"
+                        }
+                    ],
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.3333,
+                            "curve": "stepped",
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.6666,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 0.9999,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "H3_star": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 0.8333,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.3333,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "H3_star2": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.0667,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.2334,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.5667,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "H3_star3": {
+                    "color": [
+                        {
+                            "time": 0,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.3,
+                            "color": "FFFFFF00"
+                        },
+                        {
+                            "time": 1.4667,
+                            "color": "FFFFFFFF"
+                        },
+                        {
+                            "time": 1.8,
+                            "color": "FFFFFF00"
+                        }
+                    ]
+                },
+                "hongbao_saoguang": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": ""
+                        },
+                        {
+                            "time": 0.3333,
+                            "name": "H3_00005"
+                        },
+                        {
+                            "time": 0.3666,
+                            "name": "H3_00006"
+                        },
+                        {
+                            "time": 0.3999,
+                            "name": "H3_00007"
+                        },
+                        {
+                            "time": 0.4332,
+                            "name": "H3_00008"
+                        },
+                        {
+                            "time": 0.4665,
+                            "name": "H3_00009"
+                        },
+                        {
+                            "time": 0.4998,
+                            "name": "H3_00010"
+                        },
+                        {
+                            "time": 0.5331,
+                            "name": "H3_00011"
+                        },
+                        {
+                            "time": 0.5664,
+                            "name": "H3_00012"
+                        },
+                        {
+                            "time": 0.5997,
+                            "name": "H3_00013"
+                        },
+                        {
+                            "time": 0.633,
+                            "name": "H3_00014"
+                        },
+                        {
+                            "time": 0.6663,
+                            "name": "H3_00015"
+                        },
+                        {
+                            "time": 0.6996,
+                            "name": "H3_00016"
+                        },
+                        {
+                            "time": 0.7329,
+                            "name": "H3_00017"
+                        },
+                        {
+                            "time": 0.7662,
+                            "name": "H3_00018"
+                        },
+                        {
+                            "time": 0.7995,
+                            "name": "H3_00019"
+                        },
+                        {
+                            "time": 0.8328,
+                            "name": "H3_00020"
+                        },
+                        {
+                            "time": 0.8661,
+                            "name": "H3_00021"
+                        },
+                        {
+                            "time": 0.8994,
+                            "name": ""
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

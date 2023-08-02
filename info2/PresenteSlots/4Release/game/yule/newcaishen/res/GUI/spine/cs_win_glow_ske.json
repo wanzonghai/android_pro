@@ -1,0 +1,153 @@
+{
+    "skeleton": {
+        "width": 150,
+        "height": 130,
+        "hash": " ",
+        "spine":"3.6.0",
+        "name": "armatureName"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "scaleX": 0.9,
+            "scaleY": 1.1,
+            "name": "all",
+            "parent": "root"
+        },
+        {
+            "scaleX": 1.42,
+            "scaleY": 1.42,
+            "name": "SDK",
+            "parent": "all"
+        }
+    ],
+    "slots": [
+        {
+            "name": "SDK",
+            "bone": "SDK",
+            "attachment": "images/SDK/LZ_000"
+        }
+    ],
+    "skins": {
+        "default": {
+            "SDK": {
+                "images/SDK/LZ_000": {
+                    "name": "images/SDK/LZ_000",
+                    "width": 141,
+                    "height": 118,
+                    "path": "LZ_000"
+                },
+                "images/SDK/LZ_002": {
+                    "name": "images/SDK/LZ_002",
+                    "width": 141,
+                    "height": 119,
+                    "path": "LZ_002"
+                },
+                "images/SDK/LZ_004": {
+                    "name": "images/SDK/LZ_004",
+                    "width": 141,
+                    "height": 119,
+                    "path": "LZ_004"
+                },
+                "images/SDK/LZ_006": {
+                    "name": "images/SDK/LZ_006",
+                    "width": 138,
+                    "height": 119,
+                    "path": "LZ_006"
+                },
+                "images/SDK/LZ_008": {
+                    "name": "images/SDK/LZ_008",
+                    "width": 145,
+                    "height": 118,
+                    "path": "LZ_008"
+                },
+                "images/SDK/LZ_010": {
+                    "name": "images/SDK/LZ_010",
+                    "width": 146,
+                    "height": 117,
+                    "path": "LZ_010"
+                },
+                "images/SDK/LZ_012": {
+                    "name": "images/SDK/LZ_012",
+                    "width": 145,
+                    "height": 121,
+                    "path": "LZ_012"
+                },
+                "images/SDK/LZ_014": {
+                    "name": "images/SDK/LZ_014",
+                    "width": 142,
+                    "height": 121,
+                    "path": "LZ_014"
+                },
+                "images/SDK/LZ_016": {
+                    "name": "images/SDK/LZ_016",
+                    "width": 142,
+                    "height": 121,
+                    "path": "LZ_016"
+                },
+                "images/SDK/LZ_018": {
+                    "name": "images/SDK/LZ_018",
+                    "width": 143,
+                    "height": 121,
+                    "path": "LZ_018"
+                }
+            }
+        }
+    },
+    "animations": {
+        "SuoDingkuang": {
+            "slots": {
+                "SDK": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "images/SDK/LZ_000"
+                        },
+                        {
+                            "time": 0.1,
+                            "name": "images/SDK/LZ_002"
+                        },
+                        {
+                            "time": 0.2,
+                            "name": "images/SDK/LZ_004"
+                        },
+                        {
+                            "time": 0.3,
+                            "name": "images/SDK/LZ_006"
+                        },
+                        {
+                            "time": 0.4,
+                            "name": "images/SDK/LZ_008"
+                        },
+                        {
+                            "time": 0.5,
+                            "name": "images/SDK/LZ_010"
+                        },
+                        {
+                            "time": 0.6,
+                            "name": "images/SDK/LZ_012"
+                        },
+                        {
+                            "time": 0.7,
+                            "name": "images/SDK/LZ_014"
+                        },
+                        {
+                            "time": 0.8,
+                            "name": "images/SDK/LZ_016"
+                        },
+                        {
+                            "time": 0.9,
+                            "name": "images/SDK/LZ_018"
+                        },
+                        {
+                            "time": 1,
+                            "name": "images/SDK/LZ_000"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

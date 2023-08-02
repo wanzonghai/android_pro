@@ -1,0 +1,20 @@
+
+datingchangjing_zuo_deng.png
+size: 433,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding2
+  rotate: false
+  xy: 2, 103
+  size: 429, 328
+  orig: 429, 328
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 45
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1

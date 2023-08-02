@@ -1,0 +1,76 @@
+
+mf_face08_ske.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face08_0008_9
+  rotate: false
+  xy: 206, 1
+  size: 94, 105
+  orig: 104, 112
+  offset: 5, 0
+  index: -1
+face08_0005_6
+  rotate: false
+  xy: 397, 108
+  size: 93, 103
+  orig: 104, 112
+  offset: 6, 0
+  index: -1
+face08_0006_7
+  rotate: false
+  xy: 107, 108
+  size: 97, 104
+  orig: 104, 112
+  offset: 4, 0
+  index: -1
+face08_0004_5
+  rotate: false
+  xy: 398, 1
+  size: 93, 105
+  orig: 104, 112
+  offset: 5, 0
+  index: -1
+face08_0000_1
+  rotate: false
+  xy: 1, 107
+  size: 104, 103
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+face08_0007_8
+  rotate: false
+  xy: 302, 107
+  size: 93, 104
+  orig: 104, 112
+  offset: 6, 0
+  index: -1
+face08_0003_4
+  rotate: false
+  xy: 107, 1
+  size: 97, 105
+  orig: 104, 112
+  offset: 5, 0
+  index: -1
+face08_0009_10
+  rotate: false
+  xy: 302, 1
+  size: 94, 104
+  orig: 104, 112
+  offset: 5, 0
+  index: -1
+face08_0001_2
+  rotate: false
+  xy: 1, 1
+  size: 103, 104
+  orig: 104, 112
+  offset: 1, 0
+  index: -1
+face08_0002_3
+  rotate: false
+  xy: 206, 108
+  size: 94, 104
+  orig: 104, 112
+  offset: 5, 0
+  index: -1

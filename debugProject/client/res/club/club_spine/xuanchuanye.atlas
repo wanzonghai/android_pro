@@ -1,0 +1,187 @@
+
+xuanchuanye.png
+size: 2048,2042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1297
+  size: 1680, 743
+  orig: 1680, 743
+  offset: 0, 0
+  index: -1
+biaoti1_1
+  rotate: false
+  xy: 2, 218
+  size: 1179, 158
+  orig: 1179, 158
+  offset: 0, 0
+  index: -1
+biaoti2
+  rotate: false
+  xy: 2, 378
+  size: 1174, 167
+  orig: 1174, 167
+  offset: 0, 0
+  index: -1
+bt1
+  rotate: false
+  xy: 218, 12
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+bt2_1
+  rotate: false
+  xy: 218, 39
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+bt4
+  rotate: false
+  xy: 1889, 1348
+  size: 157, 156
+  orig: 157, 156
+  offset: 0, 0
+  index: -1
+bt5
+  rotate: false
+  xy: 1684, 1299
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+bt6
+  rotate: false
+  xy: 397, 39
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+bt7
+  rotate: false
+  xy: 1684, 1774
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+fangpian1
+  rotate: false
+  xy: 1952, 1822
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+fangpian2
+  rotate: false
+  xy: 1178, 383
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+fangpian3
+  rotate: false
+  xy: 874, 76
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+fankuai
+  rotate: false
+  xy: 1925, 1749
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+kapian2
+  rotate: false
+  xy: 2, 2
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+kapian3
+  rotate: false
+  xy: 1570, 979
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+kapian5
+  rotate: false
+  xy: 576, 62
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+menpiao
+  rotate: false
+  xy: 2, 547
+  size: 1566, 748
+  orig: 1566, 748
+  offset: 0, 0
+  index: -1
+xinfeng2
+  rotate: false
+  xy: 1684, 1506
+  size: 239, 266
+  orig: 239, 266
+  offset: 0, 0
+  index: -1
+yinfu1
+  rotate: true
+  xy: 1952, 1919
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+yinfu2
+  rotate: false
+  xy: 1016, 116
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+zhipai1
+  rotate: false
+  xy: 1340, 395
+  size: 147, 150
+  orig: 147, 150
+  offset: 0, 0
+  index: -1
+zhuanpan1
+  rotate: false
+  xy: 1570, 1081
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+zhuanpan2
+  rotate: false
+  xy: 1570, 1185
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+zhuanpan3
+  rotate: false
+  xy: 732, 75
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+
+xuanchuanye2.png
+size: 654,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kapian1
+  rotate: false
+  xy: 2, 2
+  size: 650, 807
+  orig: 650, 807
+  offset: 0, 0
+  index: -1

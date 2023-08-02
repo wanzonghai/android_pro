@@ -1,0 +1,41 @@
+
+caijinchi_2.png
+size: 589,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 213
+  size: 374, 374
+  orig: 374, 374
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: true
+  xy: 501, 353
+  size: 234, 48
+  orig: 234, 48
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 378, 226
+  size: 361, 121
+  orig: 361, 121
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 335, 80
+  orig: 335, 80
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 2, 84
+  size: 391, 127
+  orig: 391, 127
+  offset: 0, 0
+  index: -1

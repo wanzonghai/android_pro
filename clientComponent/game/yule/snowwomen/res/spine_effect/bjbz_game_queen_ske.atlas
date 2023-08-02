@@ -1,0 +1,279 @@
+
+bjbz_game_queen_ske.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 299, 1149
+  size: 354, 433
+  orig: 354, 433
+  offset: 0, 0
+  index: -1
+H1_16
+  rotate: false
+  xy: 498, 636
+  size: 292, 369
+  orig: 292, 374
+  offset: 0, 5
+  index: -1
+images/H1_15
+  rotate: false
+  xy: 498, 1
+  size: 209, 633
+  orig: 209, 633
+  offset: 0, 0
+  index: -1
+images/H1_14
+  rotate: false
+  xy: 792, 440
+  size: 162, 412
+  orig: 162, 412
+  offset: 0, 0
+  index: -1
+images/H1_13
+  rotate: false
+  xy: 655, 1149
+  size: 287, 528
+  orig: 287, 528
+  offset: 0, 0
+  index: -1
+images/H1_12
+  rotate: false
+  xy: 645, 1881
+  size: 109, 162
+  orig: 109, 162
+  offset: 0, 0
+  index: -1
+images/H1_11
+  rotate: false
+  xy: 1, 1149
+  size: 296, 612
+  orig: 296, 612
+  offset: 0, 0
+  index: -1
+H1_10
+  rotate: false
+  xy: 299, 1584
+  size: 344, 420
+  orig: 344, 420
+  offset: 0, 0
+  index: -1
+images/H1_9
+  rotate: false
+  xy: 1, 1
+  size: 495, 1146
+  orig: 495, 1146
+  offset: 0, 0
+  index: -1
+images/H1_8
+  rotate: false
+  xy: 498, 1056
+  size: 195, 54
+  orig: 195, 54
+  offset: 0, 0
+  index: -1
+images/H1_7
+  rotate: false
+  xy: 1221, 1501
+  size: 153, 197
+  orig: 153, 197
+  offset: 0, 0
+  index: -1
+images/H1_4
+  rotate: false
+  xy: 1136, 1501
+  size: 48, 107
+  orig: 48, 107
+  offset: 0, 0
+  index: -1
+images/Star
+  rotate: false
+  xy: 1136, 1610
+  size: 43, 50
+  orig: 50, 50
+  offset: 7, 0
+  index: -1
+images/H1_6
+  rotate: false
+  xy: 918, 1
+  size: 147, 302
+  orig: 147, 302
+  offset: 0, 0
+  index: -1
+images/H1_5
+  rotate: false
+  xy: 1, 1763
+  size: 230, 272
+  orig: 230, 272
+  offset: 0, 0
+  index: -1
+images/H1_3
+  rotate: false
+  xy: 956, 709
+  size: 56, 109
+  orig: 56, 109
+  offset: 0, 0
+  index: -1
+images/H1_2
+  rotate: false
+  xy: 709, 1
+  size: 207, 437
+  orig: 212, 441
+  offset: 4, 0
+  index: -1
+images/Q_G2_000
+  rotate: false
+  xy: 1029, 1864
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/H1_1
+  rotate: false
+  xy: 1136, 1315
+  size: 183, 184
+  orig: 186, 185
+  offset: 1, 0
+  index: -1
+images/Q_G/Q_G_010
+  rotate: false
+  xy: 792, 854
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_014
+  rotate: false
+  xy: 1340, 203
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_001
+  rotate: false
+  xy: 956, 507
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_012
+  rotate: false
+  xy: 944, 1056
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_019
+  rotate: false
+  xy: 944, 1258
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_004
+  rotate: false
+  xy: 645, 1679
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_018
+  rotate: false
+  xy: 1136, 1113
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_011
+  rotate: false
+  xy: 1340, 405
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_007
+  rotate: false
+  xy: 1451, 1
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_013
+  rotate: false
+  xy: 1029, 1662
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_017
+  rotate: false
+  xy: 1067, 1
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_016
+  rotate: false
+  xy: 1221, 607
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_006
+  rotate: false
+  xy: 1148, 203
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_015
+  rotate: false
+  xy: 1148, 405
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_008
+  rotate: false
+  xy: 944, 1460
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_000
+  rotate: false
+  xy: 1259, 1
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_005
+  rotate: false
+  xy: 837, 1679
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_009
+  rotate: false
+  xy: 1136, 911
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_003
+  rotate: false
+  xy: 956, 305
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1
+images/Q_G/Q_G_002
+  rotate: false
+  xy: 1029, 709
+  size: 190, 200
+  orig: 190, 200
+  offset: 0, 0
+  index: -1

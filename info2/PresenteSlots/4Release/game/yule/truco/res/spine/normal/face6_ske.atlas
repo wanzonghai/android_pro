@@ -1,0 +1,76 @@
+
+face6_ske.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face6_0000_1
+  rotate: false
+  xy: 75, 153
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0004_5
+  rotate: false
+  xy: 75, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0001_2
+  rotate: false
+  xy: 1, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0008_9
+  rotate: false
+  xy: 149, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0007_8
+  rotate: false
+  xy: 223, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0005_6
+  rotate: false
+  xy: 75, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0009_10
+  rotate: false
+  xy: 1, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0006_7
+  rotate: false
+  xy: 1, 153
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0003_4
+  rotate: false
+  xy: 149, 153
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face6_0002_3
+  rotate: false
+  xy: 149, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1

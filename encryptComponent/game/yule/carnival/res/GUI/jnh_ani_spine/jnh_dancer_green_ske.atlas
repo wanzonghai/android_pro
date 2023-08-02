@@ -1,0 +1,251 @@
+
+jnh_dancer_green_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dancer_green_bg
+  rotate: false
+  xy: 1, 115
+  size: 151, 86
+  orig: 160, 112
+  offset: 4, 13
+  index: -1
+dancer_green_bg_light
+  rotate: false
+  xy: 307, 196
+  size: 141, 78
+  orig: 160, 112
+  offset: 10, 16
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_1
+  rotate: false
+  xy: 286, 253
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_2
+  rotate: false
+  xy: 279, 267
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_3
+  rotate: false
+  xy: 286, 265
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_4
+  rotate: false
+  xy: 296, 210
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_5
+  rotate: false
+  xy: 296, 216
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_6
+  rotate: false
+  xy: 270, 267
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_7
+  rotate: false
+  xy: 260, 351
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_8
+  rotate: false
+  xy: 296, 203
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_9
+  rotate: false
+  xy: 261, 267
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_10
+  rotate: false
+  xy: 296, 222
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_11
+  rotate: false
+  xy: 296, 228
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+dancer_green_particl-assets/dancer_green_particl_12
+  rotate: false
+  xy: 295, 265
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dancer_green_bg_frame_light
+  rotate: false
+  xy: 307, 115
+  size: 150, 79
+  orig: 160, 112
+  offset: 5, 16
+  index: -1
+dancer_green_hand2
+  rotate: false
+  xy: 261, 276
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+dancer_green_feather1
+  rotate: false
+  xy: 68, 411
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+dancer_green_feather1_light
+  rotate: false
+  xy: 1, 411
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+dancer_green_feather4
+  rotate: false
+  xy: 225, 316
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+dancer_green_feather4_light
+  rotate: false
+  xy: 261, 203
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+dancer_green_feather3
+  rotate: false
+  xy: 208, 426
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+dancer_green_feather3_light
+  rotate: false
+  xy: 135, 426
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+dancer_green_feather2
+  rotate: false
+  xy: 93, 203
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+dancer_green_feather2_light
+  rotate: false
+  xy: 1, 203
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+dancer_green_head_feather
+  rotate: false
+  xy: 77, 298
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+dancer_green_head
+  rotate: false
+  xy: 185, 203
+  size: 74, 111
+  orig: 74, 111
+  offset: 0, 0
+  index: -1
+dancer_green_head_light
+  rotate: false
+  xy: 1, 298
+  size: 74, 111
+  orig: 74, 111
+  offset: 0, 0
+  index: -1
+dancer_green_body
+  rotate: false
+  xy: 135, 367
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+dancer_green_hand1
+  rotate: false
+  xy: 450, 196
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+dancer_green_eye
+  rotate: false
+  xy: 261, 253
+  size: 23, 12
+  orig: 23, 14
+  offset: 0, 2
+  index: -1
+dancer_green_head_shane
+  rotate: false
+  xy: 281, 351
+  size: 54, 81
+  orig: 74, 111
+  offset: 17, 6
+  index: -1
+symbol_08
+  rotate: false
+  xy: 1, 1
+  size: 153, 112
+  orig: 176, 146
+  offset: 12, 17
+  index: -1
+symbol_08_kuang
+  rotate: false
+  xy: 154, 115
+  size: 151, 86
+  orig: 176, 146
+  offset: 12, 17
+  index: -1
+symbol_08_glow_01
+  rotate: false
+  xy: 311, 1
+  size: 153, 112
+  orig: 176, 146
+  offset: 12, 17
+  index: -1
+symbol_08_glow_02
+  rotate: false
+  xy: 156, 1
+  size: 153, 112
+  orig: 176, 146
+  offset: 11, 17
+  index: -1

@@ -1,0 +1,320 @@
+{
+    "skeleton": {
+        "width": 154,
+        "height": 146,
+        "hash": " ",
+        "spine":"3.6.0",
+        "name": "Armature"
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "root",
+            "bone": "root",
+            "attachment": "SWD-b01_00"
+        }
+    ],
+    "skins": {
+        "default": {
+            "root": {
+                "SWD-b01_35": {
+                    "name": "SWD-b01_35",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_34": {
+                    "name": "SWD-b01_34",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_33": {
+                    "name": "SWD-b01_33",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_32": {
+                    "name": "SWD-b01_32",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_31": {
+                    "name": "SWD-b01_31",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_29": {
+                    "name": "SWD-b01_29",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_28": {
+                    "name": "SWD-b01_28",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_27": {
+                    "name": "SWD-b01_27",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_26": {
+                    "name": "SWD-b01_26",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_25": {
+                    "name": "SWD-b01_25",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_23": {
+                    "name": "SWD-b01_23",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_22": {
+                    "name": "SWD-b01_22",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_21": {
+                    "name": "SWD-b01_21",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_20": {
+                    "name": "SWD-b01_20",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_19": {
+                    "name": "SWD-b01_19",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_17": {
+                    "name": "SWD-b01_17",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_16": {
+                    "name": "SWD-b01_16",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_15": {
+                    "name": "SWD-b01_15",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_14": {
+                    "name": "SWD-b01_14",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_13": {
+                    "name": "SWD-b01_13",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_11": {
+                    "name": "SWD-b01_11",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_10": {
+                    "name": "SWD-b01_10",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_09": {
+                    "name": "SWD-b01_09",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_08": {
+                    "name": "SWD-b01_08",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_07": {
+                    "name": "SWD-b01_07",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_05": {
+                    "name": "SWD-b01_05",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_04": {
+                    "name": "SWD-b01_04",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_03": {
+                    "name": "SWD-b01_03",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_02": {
+                    "name": "SWD-b01_02",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_01": {
+                    "name": "SWD-b01_01",
+                    "width": 154,
+                    "height": 146
+                },
+                "SWD-b01_00": {
+                    "name": "SWD-b01_00",
+                    "width": 154,
+                    "height": 146
+                }
+            }
+        }
+    },
+    "animations": {
+        "newAnimation": {
+            "slots": {
+                "root": {
+                    "attachment": [
+                        {
+                            "time": 0,
+                            "name": "SWD-b01_00"
+                        },
+                        {
+                            "time": 0.0333,
+                            "name": "SWD-b01_01"
+                        },
+                        {
+                            "time": 0.0666,
+                            "name": "SWD-b01_02"
+                        },
+                        {
+                            "time": 0.0999,
+                            "name": "SWD-b01_03"
+                        },
+                        {
+                            "time": 0.1332,
+                            "name": "SWD-b01_04"
+                        },
+                        {
+                            "time": 0.1665,
+                            "name": "SWD-b01_05"
+                        },
+                        {
+                            "time": 0.2332,
+                            "name": "SWD-b01_07"
+                        },
+                        {
+                            "time": 0.2665,
+                            "name": "SWD-b01_08"
+                        },
+                        {
+                            "time": 0.2998,
+                            "name": "SWD-b01_09"
+                        },
+                        {
+                            "time": 0.3331,
+                            "name": "SWD-b01_10"
+                        },
+                        {
+                            "time": 0.3664,
+                            "name": "SWD-b01_11"
+                        },
+                        {
+                            "time": 0.4331,
+                            "name": "SWD-b01_13"
+                        },
+                        {
+                            "time": 0.4664,
+                            "name": "SWD-b01_14"
+                        },
+                        {
+                            "time": 0.4997,
+                            "name": "SWD-b01_15"
+                        },
+                        {
+                            "time": 0.533,
+                            "name": "SWD-b01_16"
+                        },
+                        {
+                            "time": 0.5663,
+                            "name": "SWD-b01_17"
+                        },
+                        {
+                            "time": 0.633,
+                            "name": "SWD-b01_19"
+                        },
+                        {
+                            "time": 0.6663,
+                            "name": "SWD-b01_20"
+                        },
+                        {
+                            "time": 0.6996,
+                            "name": "SWD-b01_21"
+                        },
+                        {
+                            "time": 0.7329,
+                            "name": "SWD-b01_22"
+                        },
+                        {
+                            "time": 0.7662,
+                            "name": "SWD-b01_23"
+                        },
+                        {
+                            "time": 0.8329,
+                            "name": "SWD-b01_25"
+                        },
+                        {
+                            "time": 0.8662,
+                            "name": "SWD-b01_26"
+                        },
+                        {
+                            "time": 0.8995,
+                            "name": "SWD-b01_27"
+                        },
+                        {
+                            "time": 0.9328,
+                            "name": "SWD-b01_28"
+                        },
+                        {
+                            "time": 0.9661,
+                            "name": "SWD-b01_29"
+                        },
+                        {
+                            "time": 1.0328,
+                            "name": "SWD-b01_31"
+                        },
+                        {
+                            "time": 1.0661,
+                            "name": "SWD-b01_32"
+                        },
+                        {
+                            "time": 1.0994,
+                            "name": "SWD-b01_33"
+                        },
+                        {
+                            "time": 1.1327,
+                            "name": "SWD-b01_34"
+                        },
+                        {
+                            "time": 1.166,
+                            "name": "SWD-b01_35"
+                        },
+                        {
+                            "time": 1.1993,
+                            "name": "SWD-b01_00"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

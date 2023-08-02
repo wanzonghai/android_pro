@@ -1,0 +1,83 @@
+{
+	"skeleton": {
+		"width": 132,
+		"height": 114,
+		"fps": 8,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face11_0001_2"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face11_0000_1": {
+					"name": "face11_0000_1",
+					"width": 115,
+					"height": 107
+				},
+				"face11_0001_2": {
+					"name": "face11_0001_2",
+					"width": 119,
+					"height": 107
+				},
+				"face11_0002_3": {
+					"name": "face11_0002_3",
+					"width": 132,
+					"height": 106
+				},
+				"face11_0003_4": {
+					"name": "face11_0003_4",
+					"width": 107,
+					"height": 106
+				},
+				"face11_0004_5": {
+					"name": "face11_0004_5",
+					"width": 123,
+					"height": 112
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face11_0000_1"
+						},
+						{
+							"time": 0.125,
+							"name": "face11_0001_2"
+						},
+						{
+							"time": 0.25,
+							"name": "face11_0002_3"
+						},
+						{
+							"time": 0.375,
+							"name": "face11_0003_4"
+						},
+						{
+							"time": 0.5,
+							"name": "face11_0004_5"
+						}
+					]
+				}
+			}
+		}
+	}
+}

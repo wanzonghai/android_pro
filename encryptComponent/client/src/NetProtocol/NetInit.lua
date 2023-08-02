@@ -1,0 +1,12 @@
+--网络事件处理
+G_eventDef     = require(appdf.CLIENT_SRC.."NetProtocol.eventDefine")  
+G_NetCmd       = require(appdf.CLIENT_SRC.."NetProtocol.NetCmdDefine")  
+G_NetLength    = require(appdf.CLIENT_SRC.."NetProtocol.NetLength")  
+G_NetData      = require(appdf.CLIENT_SRC.."NetProtocol.NetData")
+G_event        = require(appdf.CLIENT_SRC.."NetProtocol.eventMgr").new()
+G_ServerMgr    = require(appdf.CLIENT_SRC.."NetProtocol.ServerFrameMgr").new()
+G_GameFrame    = require(appdf.CLIENT_SRC.."NetProtocol.GameFrameEngine").new()
+g_redPoint     = appdf.req(appdf.CLIENT_SRC.."Tools.redPointMgr").new()
+g_MarqueeMgr    = appdf.req(appdf.CLIENT_SRC.."Tools.MarqueeMgr").new()
+g_onlineCount  = appdf.req(appdf.CLIENT_SRC.."Tools.onlineCountMgr").new()
+g_testServer  = appdf.req(appdf.CLIENT_SRC.."NetProtocol.testServerEventBind").new()

@@ -1,0 +1,174 @@
+
+hudie.png
+size: 775, 775
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dachiby
+  rotate: false
+  xy: 2, 398
+  size: 311, 375
+  orig: 313, 377
+  offset: 1, 1
+  index: -1
+dachibz
+  rotate: true
+  xy: 2, 85
+  size: 311, 375
+  orig: 313, 377
+  offset: 1, 1
+  index: -1
+lian
+  rotate: false
+  xy: 547, 592
+  size: 195, 181
+  orig: 195, 181
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 379, 64
+  size: 121, 124
+  orig: 121, 124
+  offset: 0, 0
+  index: -1
+shangz
+  rotate: false
+  xy: 704, 566
+  size: 62, 24
+  orig: 64, 26
+  offset: 1, 1
+  index: -1
+shet
+  rotate: false
+  xy: 336, 405
+  size: 28, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+shoushangz
+  rotate: true
+  xy: 505, 94
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+shoushnay
+  rotate: true
+  xy: 616, 94
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+shouxiay
+  rotate: false
+  xy: 690, 265
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+shouxiaz
+  rotate: false
+  xy: 659, 449
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+xiaochiby
+  rotate: true
+  xy: 315, 553
+  size: 220, 230
+  orig: 222, 232
+  offset: 1, 1
+  index: -1
+xiaochibz
+  rotate: false
+  xy: 379, 187
+  size: 220, 230
+  orig: 222, 232
+  offset: 1, 1
+  index: -1
+xiaz
+  rotate: false
+  xy: 606, 560
+  size: 62, 30
+  orig: 64, 32
+  offset: 1, 1
+  index: -1
+xiong
+  rotate: true
+  xy: 453, 430
+  size: 121, 204
+  orig: 121, 204
+  offset: 0, 0
+  index: -1
+yanbaiy
+  rotate: false
+  xy: 601, 193
+  size: 63, 61
+  orig: 66, 63
+  offset: 1, 1
+  index: -1
+yanbaiz
+  rotate: true
+  xy: 690, 361
+  size: 86, 83
+  orig: 88, 85
+  offset: 1, 1
+  index: -1
+yanpiy1
+  rotate: false
+  xy: 547, 554
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+yanpiz
+  rotate: false
+  xy: 690, 223
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+yanqiuy2
+  rotate: false
+  xy: 670, 561
+  size: 32, 29
+  orig: 34, 31
+  offset: 1, 1
+  index: -1
+yanqiuz
+  rotate: true
+  xy: 706, 181
+  size: 40, 38
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 315, 419
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+youm
+  rotate: false
+  xy: 315, 404
+  size: 19, 13
+  orig: 21, 15
+  offset: 1, 1
+  index: -1
+zuojiao
+  rotate: false
+  xy: 601, 256
+  size: 87, 172
+  orig: 87, 172
+  offset: 0, 0
+  index: -1
+zuom
+  rotate: true
+  xy: 744, 748
+  size: 25, 21
+  orig: 27, 23
+  offset: 1, 1
+  index: -1

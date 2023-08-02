@@ -1,0 +1,20 @@
+
+datingchangjing_you_deng.png
+size: 425,425
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding1
+  rotate: false
+  xy: 2, 2
+  size: 287, 421
+  orig: 287, 421
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 291, 367
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1

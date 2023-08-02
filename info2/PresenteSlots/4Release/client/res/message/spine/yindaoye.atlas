@@ -1,0 +1,97 @@
+
+yindaoye.png
+size: 1925,1414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd1
+  rotate: false
+  xy: 1441, 114
+  size: 240, 272
+  orig: 240, 272
+  offset: 0, 0
+  index: -1
+hd121
+  rotate: true
+  xy: 1086, 388
+  size: 1024, 385
+  orig: 1024, 385
+  offset: 0, 0
+  index: -1
+hd122
+  rotate: false
+  xy: 1473, 1226
+  size: 175, 186
+  orig: 175, 186
+  offset: 0, 0
+  index: -1
+hd123
+  rotate: true
+  xy: 2, 3
+  size: 1409, 1082
+  orig: 1409, 1082
+  offset: 0, 0
+  index: -1
+hd124
+  rotate: false
+  xy: 1473, 761
+  size: 446, 445
+  orig: 446, 445
+  offset: 0, 0
+  index: -1
+hd125
+  rotate: false
+  xy: 1086, 33
+  size: 353, 353
+  orig: 353, 353
+  offset: 0, 0
+  index: -1
+hd13
+  rotate: true
+  xy: 1734, 1208
+  size: 204, 189
+  orig: 204, 189
+  offset: 0, 0
+  index: -1
+hd14
+  rotate: false
+  xy: 1441, 7
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+hd15
+  rotate: false
+  xy: 1734, 668
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+hd16
+  rotate: true
+  xy: 1837, 659
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+hd17
+  rotate: true
+  xy: 1650, 1304
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+hd18
+  rotate: true
+  xy: 1542, 2
+  size: 110, 93
+  orig: 110, 93
+  offset: 0, 0
+  index: -1
+hd19
+  rotate: true
+  xy: 1637, 15
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1

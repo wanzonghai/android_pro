@@ -1,0 +1,76 @@
+
+fenxiang.png
+size: 205,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+compartilhe
+  rotate: false
+  xy: 2, 157
+  size: 174, 46
+  orig: 174, 46
+  offset: 0, 0
+  index: -1
+diandiandian
+  rotate: false
+  xy: 2, 5
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 79, 103
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+renwu
+  rotate: false
+  xy: 2, 60
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 79, 27
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+xingxing_1
+  rotate: true
+  xy: 62, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+xingxing_2
+  rotate: false
+  xy: 88, 19
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+xingxing_3
+  rotate: false
+  xy: 178, 195
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+xingxing_4
+  rotate: false
+  xy: 155, 44
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+zhehao
+  rotate: true
+  xy: 155, 54
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1

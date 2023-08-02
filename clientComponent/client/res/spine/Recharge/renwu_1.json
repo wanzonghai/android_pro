@@ -1,0 +1,43 @@
+{
+"skeleton": { "hash": "NfCAK7ie3zcFfD51KOIqcDo4wE0", "spine": "3.6.34", "width": 646, "height": 1563, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ren", "parent": "root", "length": 179.78, "x": -23.88, "y": -546.14 }
+],
+"slots": [
+	{ "name": "ren", "bone": "ren", "attachment": "ren" }
+],
+"skins": {
+	"default": {
+		"ren": {
+			"ren": { "x": 13.1, "y": 310.93, "width": 646, "height": 1563 }
+		}
+	}
+},
+"animations": {
+	"daiji": {},
+	"ruchang": {
+		"slots": {
+			"ren": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2, "color": "fffffffe" }
+				]
+			}
+		},
+		"bones": {
+			"ren": {
+				"translate": [
+					{
+						"time": 0,
+						"x": -1725.85,
+						"y": 0,
+						"curve": [ 0, 0, 0, 1 ]
+					},
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

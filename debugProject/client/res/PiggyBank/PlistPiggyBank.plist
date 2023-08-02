@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/PiggyBank/GUI/cqg_an.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,665},{553,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{553,250}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_an1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{556,809},{314,75}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{314,75}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_jj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,995},{137,3}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{137,3}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_cs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,917},{372,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{372,76}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_szbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{481,1},{624,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{624,156}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_tamkuang1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{556,627},{362,180}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{362,180}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_vipbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{375,917},{266,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{266,104}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_vipbg2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{920,1},{495,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{495,42}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_vipbg3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{872,809},{112,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{112,117}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_vipbg4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{478,662}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{478,662}</string>
+			</dict>
+			<key>client/res/PiggyBank/GUI/cqg_sm1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{643,886},{67,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{67,79}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistPiggyBank.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistPiggyBank.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

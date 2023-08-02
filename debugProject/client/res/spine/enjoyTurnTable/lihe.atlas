@@ -1,0 +1,90 @@
+
+lihe.png
+size: 489,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box01
+  rotate: true
+  xy: 313, 60
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+libaorukou_3
+  rotate: true
+  xy: 313, 60
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+box02
+  rotate: false
+  xy: 319, 262
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+box03
+  rotate: true
+  xy: 313, 158
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+box04
+  rotate: true
+  xy: 205, 40
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+box05
+  rotate: true
+  xy: 206, 259
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: -1
+box06
+  rotate: false
+  xy: 318, 373
+  size: 110, 114
+  orig: 110, 114
+  offset: 0, 0
+  index: -1
+box07
+  rotate: false
+  xy: 205, 141
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+box08
+  rotate: false
+  xy: 206, 359
+  size: 110, 128
+  orig: 110, 128
+  offset: 0, 0
+  index: -1
+clrclelight
+  rotate: false
+  xy: 2, 279
+  size: 202, 208
+  orig: 202, 208
+  offset: 0, 0
+  index: -1
+clrclelight01
+  rotate: false
+  xy: 2, 76
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 413, 186
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

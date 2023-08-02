@@ -1,0 +1,20 @@
+
+xiangzi2.png
+size: 275, 275
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bng1
+  rotate: false
+  xy: 2, 175
+  size: 240, 98
+  orig: 242, 100
+  offset: 1, 1
+  index: -1
+ty1
+  rotate: true
+  xy: 244, 183
+  size: 90, 29
+  orig: 96, 32
+  offset: 2, 0
+  index: -1

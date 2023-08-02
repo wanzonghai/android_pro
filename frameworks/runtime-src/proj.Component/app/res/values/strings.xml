@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FourtuneTigerLuckySlots</string>
+    <string name="facebook_app_id">792882179293596</string>
+    <string name="fb_login_protocol_scheme">fb792882179293596</string>
+    <string name="facebook_client_token">5c20023040342e2a3dcbfe311600e9d9</string>
+    <string name="adjust_key">m6d84e3j73eo</string>
+    <string name="channel_id">20160</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="default_notification_channel_name">Truco King Channel</string>
+    <string name="default_notification_channel_desc">Truco King Channel</string>
+    <string name="channel_name">Test Channel 1</string>
+    <string name="channel_description">This is a test channel at level a high level, where lights, sound, and vibration are active.</string>
+</resources>

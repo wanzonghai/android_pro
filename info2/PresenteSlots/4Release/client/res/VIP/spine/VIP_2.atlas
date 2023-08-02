@@ -1,0 +1,160 @@
+
+VIP_2.png
+size: 1493,1493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangpian1
+  rotate: false
+  xy: 1350, 739
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+fangpian2
+  rotate: false
+  xy: 1029, 199
+  size: 124, 119
+  orig: 124, 119
+  offset: 0, 0
+  index: -1
+huangdeng1
+  rotate: false
+  xy: 1155, 204
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+huangdeng2
+  rotate: false
+  xy: 1269, 282
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+huangguang1
+  rotate: false
+  xy: 1269, 209
+  size: 79, 71
+  orig: 79, 71
+  offset: 0, 0
+  index: -1
+huangguang2
+  rotate: false
+  xy: 1276, 1029
+  size: 166, 169
+  orig: 166, 169
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 1055, 320
+  size: 164, 78
+  orig: 164, 78
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 1350, 823
+  size: 204, 116
+  orig: 204, 116
+  offset: 0, 0
+  index: -1
+jindutiaobeijing
+  rotate: true
+  xy: 557, 112
+  size: 837, 269
+  orig: 837, 269
+  offset: 0, 0
+  index: -1
+qipaia
+  rotate: false
+  xy: 1055, 725
+  size: 293, 296
+  orig: 293, 296
+  offset: 0, 0
+  index: -1
+shedeng2
+  rotate: false
+  xy: 951, 1023
+  size: 323, 175
+  orig: 323, 175
+  offset: 0, 0
+  index: -1
+shedeng3
+  rotate: false
+  xy: 951, 951
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+shedeng6
+  rotate: true
+  xy: 1055, 400
+  size: 323, 175
+  orig: 323, 175
+  offset: 0, 0
+  index: -1
+shedeng7
+  rotate: false
+  xy: 1029, 127
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+taizi
+  rotate: false
+  xy: 2, 951
+  size: 947, 540
+  orig: 947, 540
+  offset: 0, 0
+  index: -1
+vip
+  rotate: false
+  xy: 951, 1200
+  size: 494, 291
+  orig: 494, 291
+  offset: 0, 0
+  index: -1
+vip_dz
+  rotate: false
+  xy: 1232, 396
+  size: 165, 68
+  orig: 165, 68
+  offset: 0, 0
+  index: -1
+vip_dzg
+  rotate: true
+  xy: 1232, 466
+  size: 257, 179
+  orig: 257, 179
+  offset: 0, 0
+  index: -1
+wenzi.png12
+  rotate: true
+  xy: 828, 344
+  size: 605, 225
+  orig: 605, 225
+  offset: 0, 0
+  index: -1
+xiaocao
+  rotate: false
+  xy: 828, 118
+  size: 199, 224
+  orig: 199, 224
+  offset: 0, 0
+  index: -1
+xiaodian
+  rotate: false
+  xy: 2, 2
+  size: 1271, 99
+  orig: 1271, 99
+  offset: 0, 0
+  index: -1
+yeshu
+  rotate: false
+  xy: 2, 103
+  size: 553, 846
+  orig: 553, 846
+  offset: 0, 0
+  index: -1

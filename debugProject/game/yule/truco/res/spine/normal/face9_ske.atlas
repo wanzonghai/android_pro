@@ -1,0 +1,76 @@
+
+face9_ske.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face9_0003_4
+  rotate: false
+  xy: 1, 79
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+face9_0006_7
+  rotate: false
+  xy: 1, 157
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+face9_0002_3
+  rotate: false
+  xy: 226, 1
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face9_0000_1
+  rotate: false
+  xy: 76, 1
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+face9_0007_8
+  rotate: false
+  xy: 1, 1
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+face9_0008_9
+  rotate: false
+  xy: 151, 77
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face9_0004_5
+  rotate: false
+  xy: 76, 155
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face9_0001_2
+  rotate: false
+  xy: 151, 1
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face9_0009_10
+  rotate: false
+  xy: 151, 153
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face9_0005_6
+  rotate: false
+  xy: 76, 79
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1

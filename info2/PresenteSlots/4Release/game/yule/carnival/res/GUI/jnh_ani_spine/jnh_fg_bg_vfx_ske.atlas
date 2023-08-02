@@ -1,0 +1,790 @@
+
+jnh_fg_bg_vfx_ske.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freegame_firework01_08
+  rotate: false
+  xy: 1632, 1
+  size: 269, 216
+  orig: 279, 227
+  offset: 6, 3
+  index: -1
+freegame_firework01_02
+  rotate: false
+  xy: 1086, 1
+  size: 271, 215
+  orig: 279, 227
+  offset: 4, 4
+  index: -1
+freegame_firework01_07
+  rotate: false
+  xy: 815, 1
+  size: 269, 217
+  orig: 279, 227
+  offset: 6, 2
+  index: -1
+freegame_firework01_01
+  rotate: false
+  xy: 1357, 218
+  size: 266, 216
+  orig: 279, 227
+  offset: 9, 4
+  index: -1
+freegame_firework01_06
+  rotate: false
+  xy: 544, 1
+  size: 269, 217
+  orig: 279, 227
+  offset: 6, 3
+  index: -1
+freegame_firework01_00
+  rotate: false
+  xy: 1359, 1
+  size: 271, 215
+  orig: 279, 227
+  offset: 6, 3
+  index: -1
+freegame_firework01_05
+  rotate: false
+  xy: 1, 1
+  size: 269, 218
+  orig: 279, 227
+  offset: 6, 2
+  index: -1
+freegame_firework01_04
+  rotate: false
+  xy: 1086, 218
+  size: 269, 215
+  orig: 279, 227
+  offset: 5, 3
+  index: -1
+freegame_firework01_03
+  rotate: false
+  xy: 272, 1
+  size: 270, 217
+  orig: 279, 227
+  offset: 5, 2
+  index: -1
+freegame_firework08_02
+  rotate: false
+  xy: 636, 947
+  size: 67, 68
+  orig: 85, 83
+  offset: 8, 7
+  index: -1
+freegame_firework08_15
+  rotate: false
+  xy: 1237, 942
+  size: 77, 76
+  orig: 85, 83
+  offset: 4, 3
+  index: -1
+freegame_firework08_08
+  rotate: false
+  xy: 567, 1353
+  size: 67, 66
+  orig: 85, 83
+  offset: 9, 10
+  index: -1
+freegame_firework08_01
+  rotate: false
+  xy: 1966, 582
+  size: 64, 66
+  orig: 85, 83
+  offset: 11, 9
+  index: -1
+freegame_firework08_07
+  rotate: false
+  xy: 722, 1271
+  size: 65, 68
+  orig: 85, 83
+  offset: 10, 7
+  index: -1
+freegame_firework08_00
+  rotate: false
+  xy: 1966, 650
+  size: 63, 63
+  orig: 85, 83
+  offset: 11, 7
+  index: -1
+freegame_firework08_03
+  rotate: false
+  xy: 1978, 145
+  size: 68, 72
+  orig: 85, 83
+  offset: 9, 5
+  index: -1
+freegame_firework08_14
+  rotate: false
+  xy: 556, 1084
+  size: 77, 74
+  orig: 85, 83
+  offset: 4, 5
+  index: -1
+freegame_firework08_13
+  rotate: false
+  xy: 1079, 855
+  size: 75, 73
+  orig: 85, 83
+  offset: 5, 5
+  index: -1
+freegame_firework08_06
+  rotate: false
+  xy: 565, 1428
+  size: 65, 70
+  orig: 85, 83
+  offset: 10, 5
+  index: -1
+freegame_firework08_19
+  rotate: false
+  xy: 1206, 1039
+  size: 83, 82
+  orig: 85, 83
+  offset: 1, 0
+  index: -1
+freegame_firework08_12
+  rotate: false
+  xy: 1903, 145
+  size: 73, 72
+  orig: 85, 83
+  offset: 6, 6
+  index: -1
+freegame_firework08_05
+  rotate: false
+  xy: 482, 1278
+  size: 71, 72
+  orig: 85, 83
+  offset: 9, 4
+  index: -1
+freegame_firework08_11
+  rotate: false
+  xy: 429, 527
+  size: 71, 70
+  orig: 85, 83
+  offset: 7, 7
+  index: -1
+freegame_firework08_04
+  rotate: false
+  xy: 429, 454
+  size: 70, 71
+  orig: 85, 83
+  offset: 7, 4
+  index: -1
+freegame_firework08_18
+  rotate: false
+  xy: 556, 1271
+  size: 82, 80
+  orig: 85, 83
+  offset: 2, 1
+  index: -1
+freegame_firework08_17
+  rotate: false
+  xy: 640, 1351
+  size: 80, 78
+  orig: 85, 83
+  offset: 3, 2
+  index: -1
+freegame_firework08_10
+  rotate: false
+  xy: 636, 876
+  size: 70, 69
+  orig: 85, 83
+  offset: 7, 8
+  index: -1
+freegame_firework08_16
+  rotate: false
+  xy: 640, 1271
+  size: 80, 78
+  orig: 85, 83
+  offset: 3, 2
+  index: -1
+freegame_firework08_09
+  rotate: false
+  xy: 967, 366
+  size: 68, 67
+  orig: 85, 83
+  offset: 8, 9
+  index: -1
+freegame_firework02_06
+  rotate: false
+  xy: 502, 220
+  size: 228, 216
+  orig: 241, 258
+  offset: 6, 25
+  index: -1
+freegame_firework02_09
+  rotate: false
+  xy: 502, 438
+  size: 207, 226
+  orig: 241, 258
+  offset: 7, 31
+  index: -1
+freegame_firework02_05
+  rotate: false
+  xy: 1, 221
+  size: 232, 212
+  orig: 241, 258
+  offset: 5, 24
+  index: -1
+freegame_firework02_08
+  rotate: false
+  xy: 234, 656
+  size: 210, 219
+  orig: 241, 258
+  offset: 10, 29
+  index: -1
+freegame_firework02_01
+  rotate: false
+  xy: 1, 436
+  size: 231, 221
+  orig: 241, 258
+  offset: 4, 4
+  index: -1
+freegame_firework02_04
+  rotate: false
+  xy: 732, 220
+  size: 233, 211
+  orig: 241, 258
+  offset: 5, 21
+  index: -1
+freegame_firework02_07
+  rotate: false
+  xy: 732, 433
+  size: 215, 221
+  orig: 241, 258
+  offset: 11, 27
+  index: -1
+freegame_firework02_00
+  rotate: false
+  xy: 272, 220
+  size: 228, 232
+  orig: 241, 258
+  offset: 6, 9
+  index: -1
+freegame_firework02_03
+  rotate: false
+  xy: 949, 435
+  size: 230, 206
+  orig: 241, 258
+  offset: 4, 22
+  index: -1
+freegame_firework02_02
+  rotate: false
+  xy: 1625, 219
+  size: 235, 234
+  orig: 241, 258
+  offset: 2, 7
+  index: -1
+freegame_firework07_08
+  rotate: false
+  xy: 556, 1160
+  size: 76, 74
+  orig: 93, 87
+  offset: 7, 9
+  index: -1
+freegame_firework07_02
+  rotate: false
+  xy: 1037, 366
+  size: 47, 48
+  orig: 93, 87
+  offset: 27, 26
+  index: -1
+freegame_firework07_12
+  rotate: false
+  xy: 482, 1353
+  size: 83, 73
+  orig: 93, 87
+  offset: 5, 5
+  index: -1
+freegame_firework07_00
+  rotate: false
+  xy: 401, 968
+  size: 36, 40
+  orig: 93, 87
+  offset: 33, 29
+  index: -1
+freegame_firework07_10
+  rotate: false
+  xy: 482, 1428
+  size: 81, 74
+  orig: 93, 87
+  offset: 6, 7
+  index: -1
+freegame_firework07_14
+  rotate: false
+  xy: 397, 1278
+  size: 83, 74
+  orig: 93, 87
+  offset: 3, 4
+  index: -1
+freegame_firework07_06
+  rotate: false
+  xy: 722, 1341
+  size: 65, 66
+  orig: 93, 87
+  offset: 15, 15
+  index: -1
+freegame_firework07_04
+  rotate: false
+  xy: 648, 730
+  size: 55, 60
+  orig: 93, 87
+  offset: 21, 19
+  index: -1
+freegame_firework06_05
+  rotate: false
+  xy: 648, 666
+  size: 59, 62
+  orig: 71, 69
+  offset: 6, 1
+  index: -1
+freegame_firework06_10
+  rotate: false
+  xy: 1806, 455
+  size: 46, 47
+  orig: 71, 69
+  offset: 13, 11
+  index: -1
+freegame_firework06_11
+  rotate: false
+  xy: 1569, 592
+  size: 48, 48
+  orig: 71, 69
+  offset: 12, 11
+  index: -1
+freegame_firework06_06
+  rotate: false
+  xy: 1316, 649
+  size: 51, 52
+  orig: 71, 69
+  offset: 11, 5
+  index: -1
+freegame_firework06_01
+  rotate: false
+  xy: 401, 877
+  size: 43, 44
+  orig: 71, 69
+  offset: 15, 11
+  index: -1
+freegame_firework06_08
+  rotate: false
+  xy: 311, 1283
+  size: 44, 45
+  orig: 71, 69
+  offset: 14, 12
+  index: -1
+freegame_firework06_02
+  rotate: false
+  xy: 446, 599
+  size: 53, 51
+  orig: 71, 69
+  offset: 9, 9
+  index: -1
+freegame_firework06_03
+  rotate: false
+  xy: 636, 1017
+  size: 55, 56
+  orig: 71, 69
+  offset: 8, 5
+  index: -1
+freegame_firework06_07
+  rotate: false
+  xy: 401, 923
+  size: 42, 43
+  orig: 71, 69
+  offset: 15, 14
+  index: -1
+freegame_firework06_12
+  rotate: false
+  xy: 1518, 592
+  size: 49, 49
+  orig: 71, 69
+  offset: 11, 10
+  index: -1
+freegame_firework06_13
+  rotate: false
+  xy: 648, 792
+  size: 50, 50
+  orig: 71, 69
+  offset: 11, 10
+  index: -1
+freegame_firework06_04
+  rotate: false
+  xy: 181, 1283
+  size: 62, 62
+  orig: 71, 69
+  offset: 4, 1
+  index: -1
+freegame_firework06_00
+  rotate: false
+  xy: 1619, 592
+  size: 23, 28
+  orig: 71, 69
+  offset: 27, 15
+  index: -1
+freegame_firework06_09
+  rotate: false
+  xy: 1806, 504
+  size: 45, 45
+  orig: 71, 69
+  offset: 13, 12
+  index: -1
+freegame_firework05_04
+  rotate: false
+  xy: 919, 952
+  size: 158, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_03
+  rotate: false
+  xy: 1316, 906
+  size: 157, 95
+  orig: 161, 96
+  offset: 1, 0
+  index: -1
+freegame_firework05_18
+  rotate: false
+  xy: 919, 855
+  size: 158, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_17
+  rotate: false
+  xy: 1646, 553
+  size: 158, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_10
+  rotate: false
+  xy: 636, 1077
+  size: 158, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_23
+  rotate: false
+  xy: 1475, 846
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_16
+  rotate: false
+  xy: 1156, 649
+  size: 158, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_09
+  rotate: false
+  xy: 1156, 845
+  size: 158, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_02
+  rotate: false
+  xy: 1079, 942
+  size: 156, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_15
+  rotate: false
+  xy: 1806, 592
+  size: 158, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_08
+  rotate: false
+  xy: 1316, 808
+  size: 157, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_01
+  rotate: false
+  xy: 918, 1261
+  size: 139, 95
+  orig: 161, 96
+  offset: 8, 0
+  index: -1
+freegame_firework05_07
+  rotate: false
+  xy: 1156, 747
+  size: 158, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_22
+  rotate: false
+  xy: 1677, 690
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_21
+  rotate: false
+  xy: 919, 1049
+  size: 158, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_14
+  rotate: false
+  xy: 1518, 651
+  size: 157, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_13
+  rotate: false
+  xy: 1316, 710
+  size: 157, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_20
+  rotate: false
+  xy: 397, 1181
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_06
+  rotate: false
+  xy: 1646, 455
+  size: 158, 96
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_19
+  rotate: false
+  xy: 1316, 1003
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_12
+  rotate: false
+  xy: 636, 1174
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_05
+  rotate: false
+  xy: 1475, 749
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+freegame_firework05_00
+  rotate: false
+  xy: 1041, 1157
+  size: 137, 95
+  orig: 161, 96
+  offset: 10, 0
+  index: -1
+freegame_firework05_11
+  rotate: false
+  xy: 397, 1084
+  size: 157, 95
+  orig: 161, 96
+  offset: 2, 0
+  index: -1
+yanhua_01_022
+  rotate: false
+  xy: 1, 1279
+  size: 178, 192
+  orig: 214, 233
+  offset: 15, 16
+  index: -1
+yanhua_01_017
+  rotate: false
+  xy: 711, 656
+  size: 206, 208
+  orig: 214, 233
+  offset: 2, 18
+  index: -1
+yanhua_01_007
+  rotate: false
+  xy: 967, 220
+  size: 100, 144
+  orig: 214, 233
+  offset: 57, 42
+  index: -1
+yanhua_01_015
+  rotate: false
+  xy: 1, 873
+  size: 209, 212
+  orig: 214, 233
+  offset: 3, 17
+  index: -1
+yanhua_01_023
+  rotate: false
+  xy: 1862, 219
+  size: 177, 184
+  orig: 214, 233
+  offset: 16, 14
+  index: -1
+yanhua_01_016
+  rotate: false
+  xy: 1, 659
+  size: 210, 212
+  orig: 214, 233
+  offset: 3, 15
+  index: -1
+yanhua_01_018
+  rotate: false
+  xy: 446, 666
+  size: 200, 208
+  orig: 214, 233
+  offset: 1, 17
+  index: -1
+yanhua_01_013
+  rotate: false
+  xy: 949, 643
+  size: 205, 210
+  orig: 214, 233
+  offset: 4, 21
+  index: -1
+yanhua_01_011
+  rotate: false
+  xy: 234, 454
+  size: 193, 200
+  orig: 214, 233
+  offset: 10, 30
+  index: -1
+yanhua_01_008
+  rotate: false
+  xy: 1903, 1
+  size: 138, 142
+  orig: 214, 233
+  offset: 38, 63
+  index: -1
+yanhua_01_009
+  rotate: false
+  xy: 1862, 405
+  size: 168, 175
+  orig: 214, 233
+  offset: 23, 44
+  index: -1
+yanhua_01_012
+  rotate: false
+  xy: 711, 866
+  size: 202, 209
+  orig: 214, 233
+  offset: 5, 24
+  index: -1
+yanhua_01_010
+  rotate: false
+  xy: 1, 1087
+  size: 182, 190
+  orig: 214, 233
+  offset: 15, 36
+  index: -1
+yanhua_01_014
+  rotate: false
+  xy: 1181, 436
+  size: 208, 211
+  orig: 214, 233
+  offset: 2, 20
+  index: -1
+yanhua_01_019
+  rotate: false
+  xy: 446, 876
+  size: 188, 206
+  orig: 214, 233
+  offset: 11, 14
+  index: -1
+yanhua_01_021
+  rotate: false
+  xy: 212, 1081
+  size: 183, 200
+  orig: 214, 233
+  offset: 12, 17
+  index: -1
+yanhua_01_020
+  rotate: false
+  xy: 212, 877
+  size: 187, 202
+  orig: 214, 233
+  offset: 12, 17
+  index: -1
+freegame_firework04_14
+  rotate: false
+  xy: 1391, 575
+  size: 125, 133
+  orig: 137, 142
+  offset: 6, 1
+  index: -1
+freegame_firework04_04
+  rotate: false
+  xy: 795, 1315
+  size: 94, 88
+  orig: 137, 142
+  offset: 27, 33
+  index: -1
+freegame_firework04_02
+  rotate: false
+  xy: 245, 1283
+  size: 64, 60
+  orig: 137, 142
+  offset: 46, 47
+  index: -1
+freegame_firework04_06
+  rotate: false
+  xy: 795, 1204
+  size: 113, 109
+  orig: 137, 142
+  offset: 15, 17
+  index: -1
+freegame_firework04_00
+  rotate: false
+  xy: 1475, 710
+  size: 31, 33
+  orig: 137, 142
+  offset: 61, 60
+  index: -1
+freegame_firework04_12
+  rotate: false
+  xy: 796, 1077
+  size: 120, 125
+  orig: 137, 142
+  offset: 11, 4
+  index: -1
+freegame_firework04_08
+  rotate: false
+  xy: 1079, 1039
+  size: 125, 116
+  orig: 137, 142
+  offset: 6, 15
+  index: -1
+freegame_firework04_16
+  rotate: false
+  xy: 1391, 436
+  size: 125, 137
+  orig: 137, 142
+  offset: 5, 3
+  index: -1
+freegame_firework04_18
+  rotate: false
+  xy: 1518, 455
+  size: 126, 135
+  orig: 137, 142
+  offset: 3, 6
+  index: -1
+freegame_firework04_10
+  rotate: false
+  xy: 918, 1146
+  size: 121, 113
+  orig: 137, 142
+  offset: 15, 10
+  index: -1

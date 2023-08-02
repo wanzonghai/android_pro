@@ -1,0 +1,13 @@
+
+choujiangquan.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/zhuanquan2
+  rotate: false
+  xy: 2, 2
+  size: 506, 506
+  orig: 506, 506
+  offset: 0, 0
+  index: -1
