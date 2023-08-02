@@ -1,0 +1,153 @@
+
+jnh_dancer_blue_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dancer_blue_bg
+  rotate: false
+  xy: 298, 115
+  size: 151, 90
+  orig: 160, 112
+  offset: 4, 10
+  index: -1
+dancer_blue_frame_glow
+  rotate: false
+  xy: 1, 128
+  size: 151, 90
+  orig: 160, 112
+  offset: 4, 10
+  index: -1
+dancer_blue_bg_glow
+  rotate: false
+  xy: 1, 1
+  size: 170, 125
+  orig: 190, 134
+  offset: 16, 7
+  index: -1
+dancer_blue_feather
+  rotate: false
+  xy: 298, 207
+  size: 135, 98
+  orig: 135, 98
+  offset: 0, 0
+  index: -1
+dancer_blue_body
+  rotate: false
+  xy: 173, 115
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+dancer_blue_head1
+  rotate: false
+  xy: 451, 115
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+dancer_blue_head2
+  rotate: false
+  xy: 435, 277
+  size: 39, 58
+  orig: 41, 60
+  offset: 1, 0
+  index: -1
+dancer_blue_star_2
+  rotate: false
+  xy: 154, 233
+  size: 108, 109
+  orig: 123, 124
+  offset: 6, 5
+  index: -1
+dancer_blue_earing_L
+  rotate: false
+  xy: 484, 177
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+dancer_blue_earing_R
+  rotate: false
+  xy: 496, 177
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+dancer_blue_hand1
+  rotate: false
+  xy: 476, 277
+  size: 30, 35
+  orig: 33, 36
+  offset: 1, 0
+  index: -1
+dancer_blue_hand3
+  rotate: false
+  xy: 264, 233
+  size: 25, 31
+  orig: 28, 34
+  offset: 1, 2
+  index: -1
+dancer_blue_hand2
+  rotate: false
+  xy: 476, 314
+  size: 26, 37
+  orig: 29, 40
+  offset: 2, 1
+  index: -1
+dancer_blue_arm
+  rotate: false
+  xy: 435, 207
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+dancer_blue_eye
+  rotate: false
+  xy: 264, 266
+  size: 27, 8
+  orig: 31, 12
+  offset: 2, 2
+  index: -1
+symbol_07
+  rotate: false
+  xy: 334, 1
+  size: 158, 112
+  orig: 176, 146
+  offset: 10, 17
+  index: -1
+symbol_07_kuang
+  rotate: false
+  xy: 1, 220
+  size: 151, 90
+  orig: 176, 146
+  offset: 12, 19
+  index: -1
+dancer_blue_hand4
+  rotate: false
+  xy: 451, 177
+  size: 31, 26
+  orig: 34, 29
+  offset: 2, 1
+  index: -1
+symbol_07_glow_01
+  rotate: false
+  xy: 173, 1
+  size: 159, 112
+  orig: 176, 146
+  offset: 10, 17
+  index: -1
+dancer_blue_star_1
+  rotate: false
+  xy: 154, 344
+  size: 107, 109
+  orig: 123, 124
+  offset: 6, 6
+  index: -1
+dancer_blue_particl_1
+  rotate: false
+  xy: 495, 207
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

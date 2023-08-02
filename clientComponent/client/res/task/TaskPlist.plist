@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/task/GUI/mrrw_dh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,394},{79,79}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{79,79}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_icon_xiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{337,433},{49,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{49,61}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_jdt_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,189},{60,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,25}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_jdt_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,218},{60,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,24}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_jdt_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{290,407},{73,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{73,22}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_jdt_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,407},{95,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,21}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_ks.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,455},{153,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,31}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_lq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,302},{153,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,31}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_nlk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,189},{109,109}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{109,109}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_qp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{85,394},{102,57}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{102,57}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_rwk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,302},{98,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,88}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_szk.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,372},{100,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,31}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_tx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{183,183}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,183}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_wz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,477},{174,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{174,32}</string>
+			</dict>
+			<key>client/res/task/GUI/mrrw_ylq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{104,337},{153,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,31}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TaskPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>TaskPlist.png</string>
+			<key>size</key>
+			<string>{388,511}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>388</integer>
+			<key>height</key>
+			<integer>511</integer>
+		</dict>
+	</dict>
+</plist>

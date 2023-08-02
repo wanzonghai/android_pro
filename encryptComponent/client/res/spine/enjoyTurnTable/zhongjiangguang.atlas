@@ -1,0 +1,48 @@
+
+zhongjiangguang.png
+size: 991,1365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/00041
+  rotate: false
+  xy: 2, 2
+  size: 560, 333
+  orig: 560, 333
+  offset: 0, 0
+  index: -1
+tx/Fsdghrdh
+  rotate: false
+  xy: 2, 851
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tx/guangqiu
+  rotate: false
+  xy: 564, 190
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tx/lanquan
+  rotate: false
+  xy: 2, 337
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tx/sancai
+  rotate: true
+  xy: 516, 879
+  size: 484, 467
+  orig: 484, 467
+  offset: 0, 0
+  index: -1
+tx/yinbo
+  rotate: false
+  xy: 516, 404
+  size: 473, 473
+  orig: 473, 473
+  offset: 0, 0
+  index: -1

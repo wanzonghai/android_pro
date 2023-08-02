@@ -1,0 +1,62 @@
+
+VIP.png
+size: 195,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VIP_dabing
+  rotate: false
+  xy: 67, 34
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+VIP_hetiao
+  rotate: false
+  xy: 2, 96
+  size: 191, 12
+  orig: 191, 12
+  offset: 0, 0
+  index: -1
+VIP_huanguang
+  rotate: false
+  xy: 2, 110
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+VIP_kuan
+  rotate: true
+  xy: 125, 110
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+VIP_rili
+  rotate: false
+  xy: 2, 33
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+VIP_wenzi
+  rotate: true
+  xy: 158, 114
+  size: 79, 26
+  orig: 79, 26
+  offset: 0, 0
+  index: -1
+dating_zi_vip
+  rotate: false
+  xy: 2, 4
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 128, 44
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

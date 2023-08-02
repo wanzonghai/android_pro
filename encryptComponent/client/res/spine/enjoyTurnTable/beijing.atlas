@@ -1,0 +1,153 @@
+
+beijing.png
+size: 484,1059
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+golds01
+  rotate: false
+  xy: 2, 884
+  size: 370, 173
+  orig: 370, 173
+  offset: 0, 0
+  index: -1
+golds02
+  rotate: true
+  xy: 191, 2
+  size: 215, 214
+  orig: 215, 214
+  offset: 0, 0
+  index: -1
+golds03
+  rotate: true
+  xy: 191, 426
+  size: 242, 162
+  orig: 242, 162
+  offset: 0, 0
+  index: -1
+golds04
+  rotate: true
+  xy: 191, 670
+  size: 212, 168
+  orig: 212, 168
+  offset: 0, 0
+  index: -1
+golds05
+  rotate: false
+  xy: 191, 219
+  size: 264, 205
+  orig: 264, 205
+  offset: 0, 0
+  index: -1
+jb_1
+  rotate: false
+  xy: 355, 529
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+xjb09
+  rotate: false
+  xy: 355, 529
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+jb_2
+  rotate: true
+  xy: 374, 961
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb02
+  rotate: true
+  xy: 374, 961
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb06
+  rotate: true
+  xy: 374, 961
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+jb_3
+  rotate: true
+  xy: 361, 696
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xjb01
+  rotate: true
+  xy: 361, 696
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+jb_4
+  rotate: false
+  xy: 355, 427
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jb_5
+  rotate: true
+  xy: 361, 636
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xjb04
+  rotate: true
+  xy: 361, 636
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+jb_6
+  rotate: true
+  xy: 374, 863
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb03
+  rotate: true
+  xy: 374, 863
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb05
+  rotate: true
+  xy: 374, 863
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+title1
+  rotate: true
+  xy: 2, 22
+  size: 839, 187
+  orig: 839, 187
+  offset: 0, 0
+  index: -1
+tx/lanshan
+  rotate: false
+  xy: 361, 756
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+tx/xingxing
+  rotate: false
+  xy: 407, 143
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

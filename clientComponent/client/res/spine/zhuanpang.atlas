@@ -1,0 +1,104 @@
+
+zhuanpang.png
+size: 604,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZP_amazing
+  rotate: false
+  xy: 2, 68
+  size: 79, 26
+  orig: 79, 26
+  offset: 0, 0
+  index: -1
+ZP_heitiao
+  rotate: false
+  xy: 2, 96
+  size: 191, 12
+  orig: 191, 12
+  offset: 0, 0
+  index: -1
+ZP_kuan
+  rotate: false
+  xy: 484, 466
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+ZP_pangkuan
+  rotate: false
+  xy: 294, 279
+  size: 190, 123
+  orig: 190, 123
+  offset: 0, 0
+  index: -1
+ZP_yuandian
+  rotate: false
+  xy: 2, 25
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ZP_zhizhen
+  rotate: true
+  xy: 234, 284
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ZP_zhuanpang
+  rotate: false
+  xy: 410, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dating_zi_spin
+  rotate: false
+  xy: 484, 437
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+tx/baokailizi_00026
+  rotate: false
+  xy: 2, 110
+  size: 230, 202
+  orig: 230, 202
+  offset: 0, 0
+  index: -1
+tx/caishan
+  rotate: false
+  xy: 2, 314
+  size: 290, 288
+  orig: 290, 288
+  offset: 0, 0
+  index: -1
+tx/glow_5_00022
+  rotate: false
+  xy: 294, 404
+  size: 188, 198
+  orig: 188, 198
+  offset: 0, 0
+  index: -1
+tx/guangqiu
+  rotate: true
+  xy: 410, 132
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+tx/xhd
+  rotate: false
+  xy: 234, 103
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+tx/zhuanquan2
+  rotate: false
+  xy: 484, 499
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1

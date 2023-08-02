@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/logon/GUI/btn_account.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{508,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{508,117}</string>
+			</dict>
+			<key>client/res/logon/GUI/btn_google.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,123},{508,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{508,117}</string>
+			</dict>
+			<key>client/res/logon/GUI/public_blank.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{278,365},{60,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,60}</string>
+			</dict>
+			<key>client/res/logon/GUI/public_tile_25.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{278,429},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>client/res/logon/GUI/public_tile_26.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{338,429},{56,56}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,56}</string>
+			</dict>
+			<key>client/res/logon/GUI/btn_phone_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,244},{508,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{508,117}</string>
+			</dict>
+			<key>client/res/logon/GUI/btn_service.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,365},{134,134}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,134}</string>
+			</dict>
+			<key>client/res/logon/GUI/button_rest.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{140,365},{134,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,128}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>LogonPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>LogonPlist.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

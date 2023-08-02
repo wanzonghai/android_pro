@@ -1,0 +1,160 @@
+
+xianshilibao.png
+size: 552,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Limitado
+  rotate: true
+  xy: 487, 423
+  size: 127, 38
+  orig: 127, 38
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 416
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+coin_1
+  rotate: false
+  xy: 2, 42
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+coin_2
+  rotate: true
+  xy: 450, 200
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+qd_jb6
+  rotate: false
+  xy: 140, 450
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00000
+  rotate: false
+  xy: 263, 440
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00002
+  rotate: false
+  xy: 140, 338
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00004
+  rotate: false
+  xy: 2, 304
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00006
+  rotate: false
+  xy: 375, 440
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00008
+  rotate: false
+  xy: 252, 328
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00010
+  rotate: false
+  xy: 114, 226
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00012
+  rotate: false
+  xy: 2, 192
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00014
+  rotate: false
+  xy: 364, 328
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00016
+  rotate: false
+  xy: 226, 216
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00018
+  rotate: false
+  xy: 114, 114
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00020
+  rotate: false
+  xy: 2, 80
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00022
+  rotate: false
+  xy: 338, 216
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00024
+  rotate: false
+  xy: 226, 104
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00026
+  rotate: false
+  xy: 114, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/baoxiangguang_00028
+  rotate: false
+  xy: 338, 104
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+tx/xingxing
+  rotate: false
+  xy: 476, 347
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 476, 289
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1

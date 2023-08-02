@@ -1,0 +1,55 @@
+
+VIP_1.png
+size: 654,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/guang1_00000
+  rotate: false
+  xy: 2, 342
+  size: 517, 310
+  orig: 517, 310
+  offset: 0, 0
+  index: -1
+tx/guangdian
+  rotate: false
+  xy: 2, 38
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+tx/guanshui3
+  rotate: false
+  xy: 505, 193
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+tx/lansan
+  rotate: false
+  xy: 521, 547
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+tx/liiziguang
+  rotate: false
+  xy: 521, 525
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+tx/saoguang_00000
+  rotate: false
+  xy: 2, 70
+  size: 501, 270
+  orig: 501, 270
+  offset: 0, 0
+  index: -1
+tx/xingxing
+  rotate: false
+  xy: 505, 117
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1

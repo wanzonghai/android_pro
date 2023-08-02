@@ -1,0 +1,59 @@
+   //将加密后的java代码进行解密并合并到classloader
+   private void load_plugin_class(Context base){
+        try {
+            String cachePath = base.getFilesDir().getAbsolutePath() + "/classes/";
+            File file = new File(cachePath);
+            if (!file.exists()) {
+                file.mkdirs();
+            }
+            artist_aes(base, "test_plugin_class.bat", cachePath + "/classdex.jar");
+
+            Class obj_class1 = Class.forName("android.app.ActivityThread");
+            Method method1 = obj_class1.getMethod("currentActivityThread",new Class[] {});
+            Object currentActivityThread = method1.invoke(null, new Object[] {});
+
+            Class obj_class2 = Class.forName("android.app.ActivityThread");
+            Field field2 = obj_class2.getDeclaredField("mPackages");
+            field2.setAccessible(true);
+            ArrayMap mPackages = (ArrayMap) field2.get(currentActivityThread);
+
+            WeakReference wr = (WeakReference) mPackages.get(base.getPackageName());
+            dLoader = new DexClassLoader(cachePath + "/classdex.jar", cachePath, cachePath, base.getClassLoader());
+
+            Class obj_class3 = Class.forName("android.app.LoadedApk");
+            Field field3 = obj_class3.getDeclaredField("mClassLoader");
+            field3.setAccessible(true);
+            field3.set(wr.get(), dLoader);
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+
+    }
+
+    //解密
+    private void artist_aes(Context context, String inFile, String outFile) {
+        String pwd = "veoi9rkjie0seirv";
+        try {
+            String iv = "1234567812345678";
+            Cipher cp = Cipher.getInstance("AES/CBC/PKCS5Padding");
+            SecretKeySpec skc = new SecretKeySpec(pwd.getBytes(), "AES");
+            IvParameterSpec ipc = new IvParameterSpec(iv.getBytes());
+            cp.init(Cipher.DECRYPT_MODE, skc, ipc);
+
+            InputStream is = context.getAssets().open(inFile);
+            OutputStream out = new FileOutputStream(outFile);
+            CipherOutputStream cos = new CipherOutputStream(out, cp);
+            byte[] buffer = new byte[1024];
+            int r;
+            while ((r = is.read(buffer)) >= 0) {
+                System.out.println();
+                cos.write(buffer, 0, r);
+            }
+            cos.close();
+            out.close();
+            is.close();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }

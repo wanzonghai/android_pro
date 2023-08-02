@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect_bg_water/effect_bg_water_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,606},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1210},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{554,2},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1106,2},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{554,606},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{554,1210},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1106,606},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+			<key>effect_bg_water/effect_bg_water_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1106,1210},{548,600}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{548,600}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>effect_bg_water_01.png</string>
+			<key>realTextureFileName</key>
+			<string>effect_bg_water_01.png</string>
+			<key>size</key>
+			<string>{1656,1812}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1656</integer>
+			<key>height</key>
+			<integer>1812</integer>
+		</dict>
+	</dict>
+</plist>

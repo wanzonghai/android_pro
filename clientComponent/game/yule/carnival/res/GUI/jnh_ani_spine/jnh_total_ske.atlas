@@ -1,0 +1,174 @@
+
+jnh_total_ske.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CarnivalCash_0030_green_01
+  rotate: false
+  xy: 545, 893
+  size: 184, 126
+  orig: 184, 126
+  offset: 0, 0
+  index: -1
+CarnivalCash_0029_green_02
+  rotate: false
+  xy: 1, 242
+  size: 267, 242
+  orig: 267, 242
+  offset: 0, 0
+  index: -1
+CarnivalCash_0028_green_03
+  rotate: false
+  xy: 670, 435
+  size: 291, 213
+  orig: 291, 213
+  offset: 0, 0
+  index: -1
+CarnivalCash_0027_green_04
+  rotate: false
+  xy: 1, 921
+  size: 264, 153
+  orig: 264, 153
+  offset: 0, 0
+  index: -1
+CarnivalCash_0026_green_05
+  rotate: false
+  xy: 270, 242
+  size: 215, 125
+  orig: 215, 125
+  offset: 0, 0
+  index: -1
+CarnivalCash_0025_green_06
+  rotate: false
+  xy: 492, 200
+  size: 301, 233
+  orig: 301, 233
+  offset: 0, 0
+  index: -1
+CarnivalCash_0024_green_07
+  rotate: false
+  xy: 377, 597
+  size: 226, 245
+  orig: 226, 245
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 605, 650
+  size: 172, 75
+  orig: 172, 75
+  offset: 0, 0
+  index: -1
+CarnivalCash_0022_purple_01
+  rotate: false
+  xy: 795, 200
+  size: 217, 210
+  orig: 217, 210
+  offset: 0, 0
+  index: -1
+CarnivalCash_0015_purple_08
+  rotate: false
+  xy: 1, 755
+  size: 307, 164
+  orig: 307, 164
+  offset: 0, 0
+  index: -1
+CarnivalCash_0013_red_02
+  rotate: false
+  xy: 310, 1039
+  size: 212, 208
+  orig: 212, 208
+  offset: 0, 0
+  index: -1
+CarnivalCash_0012_red_03
+  rotate: false
+  xy: 1, 1076
+  size: 224, 167
+  orig: 224, 167
+  offset: 0, 0
+  index: -1
+CarnivalCash_0010_red_05
+  rotate: false
+  xy: 310, 844
+  size: 233, 193
+  orig: 233, 193
+  offset: 0, 0
+  index: -1
+CarnivalCash_0009_red_06
+  rotate: false
+  xy: 1, 1
+  size: 489, 239
+  orig: 489, 239
+  offset: 0, 0
+  index: -1
+CarnivalCash_0008_red_07
+  rotate: false
+  xy: 492, 1
+  size: 429, 197
+  orig: 429, 197
+  offset: 0, 0
+  index: -1
+CarnivalCash_0007_red_08
+  rotate: false
+  xy: 1, 597
+  size: 374, 156
+  orig: 374, 156
+  offset: 0, 0
+  index: -1
+CarnivalCash_0004_red_11
+  rotate: false
+  xy: 524, 1039
+  size: 225, 150
+  orig: 225, 150
+  offset: 0, 0
+  index: -1
+CarnivalCash_0003_red_12
+  rotate: false
+  xy: 270, 435
+  size: 398, 160
+  orig: 398, 160
+  offset: 0, 0
+  index: -1
+CarnivalCash_0001_red_14
+  rotate: false
+  xy: 751, 977
+  size: 101, 135
+  orig: 101, 135
+  offset: 0, 0
+  index: -1
+CarnivalCash_0000_red_15
+  rotate: false
+  xy: 1, 1245
+  size: 234, 147
+  orig: 234, 147
+  offset: 0, 0
+  index: -1
+Carnival_0003_border3
+  rotate: false
+  xy: 605, 755
+  size: 386, 136
+  orig: 386, 136
+  offset: 0, 0
+  index: -1
+Carnival_0002_frame_chips
+  rotate: false
+  xy: 731, 893
+  size: 277, 82
+  orig: 278, 83
+  offset: 1, 0
+  index: -1
+Carnival_0001_txt_chips
+  rotate: false
+  xy: 270, 369
+  size: 160, 53
+  orig: 160, 53
+  offset: 0, 0
+  index: -1
+Carnival_0000_txt_youwin
+  rotate: false
+  xy: 1, 486
+  size: 266, 61
+  orig: 266, 61
+  offset: 0, 0
+  index: -1

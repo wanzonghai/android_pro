@@ -1,0 +1,62 @@
+
+datingchangjing_zuo_cao.png
+size: 768,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caocong1
+  rotate: false
+  xy: 650, 323
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+caocong2
+  rotate: false
+  xy: 2, 25
+  size: 204, 76
+  orig: 204, 76
+  offset: 0, 0
+  index: -1
+caocong3
+  rotate: false
+  xy: 2, 103
+  size: 366, 349
+  orig: 366, 349
+  offset: 0, 0
+  index: -1
+caocong4
+  rotate: false
+  xy: 494, 572
+  size: 203, 194
+  orig: 203, 194
+  offset: 0, 0
+  index: -1
+caocong5
+  rotate: false
+  xy: 494, 467
+  size: 170, 103
+  orig: 170, 103
+  offset: 0, 0
+  index: -1
+caocong6
+  rotate: false
+  xy: 370, 279
+  size: 278, 173
+  orig: 278, 173
+  offset: 0, 0
+  index: -1
+caocong7
+  rotate: false
+  xy: 370, 107
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+caocong8
+  rotate: false
+  xy: 2, 454
+  size: 490, 312
+  orig: 490, 312
+  offset: 0, 0
+  index: -1

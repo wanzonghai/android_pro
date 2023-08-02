@@ -1,0 +1,139 @@
+
+xingxing.png
+size: 901, 901
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+lian
+  rotate: false
+  xy: 598, 47
+  size: 195, 203
+  orig: 197, 205
+  offset: 1, 1
+  index: -1
+meiy
+  rotate: true
+  xy: 853, 102
+  size: 56, 24
+  orig: 58, 26
+  offset: 1, 1
+  index: -1
+meiz
+  rotate: false
+  xy: 795, 63
+  size: 63, 37
+  orig: 65, 39
+  offset: 1, 1
+  index: -1
+shenzi
+  rotate: false
+  xy: 2, 408
+  size: 564, 491
+  orig: 564, 491
+  offset: 0, 0
+  index: -1
+xiazui
+  rotate: false
+  xy: 2, 10
+  size: 220, 145
+  orig: 222, 147
+  offset: 1, 1
+  index: -1
+yandiy
+  rotate: false
+  xy: 819, 532
+  size: 71, 71
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+yandiz
+  rotate: true
+  xy: 795, 160
+  size: 101, 97
+  orig: 105, 101
+  offset: 2, 2
+  index: -1
+yanpiy
+  rotate: false
+  xy: 819, 497
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+yanpiz
+  rotate: false
+  xy: 764, 263
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+yanqiuy
+  rotate: false
+  xy: 860, 61
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+yanqiuz
+  rotate: false
+  xy: 795, 102
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+youhoudabi
+  rotate: true
+  xy: 2, 157
+  size: 249, 428
+  orig: 249, 428
+  offset: 0, 0
+  index: -1
+youhoushou
+  rotate: false
+  xy: 224, 34
+  size: 183, 121
+  orig: 185, 123
+  offset: 1, 1
+  index: -1
+youqiandabi
+  rotate: false
+  xy: 568, 497
+  size: 249, 402
+  orig: 249, 402
+  offset: 0, 0
+  index: -1
+youqianshou
+  rotate: true
+  xy: 764, 312
+  size: 183, 121
+  orig: 185, 123
+  offset: 1, 1
+  index: -1
+zuihoudatuii
+  rotate: false
+  xy: 432, 163
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+zuohoujiao
+  rotate: true
+  xy: 819, 753
+  size: 146, 72
+  orig: 148, 74
+  offset: 1, 1
+  index: -1
+zuoqiandatui
+  rotate: false
+  xy: 598, 252
+  size: 164, 243
+  orig: 164, 243
+  offset: 0, 0
+  index: -1
+zuoqianjiao
+  rotate: true
+  xy: 819, 605
+  size: 146, 72
+  orig: 148, 74
+  offset: 1, 1
+  index: -1

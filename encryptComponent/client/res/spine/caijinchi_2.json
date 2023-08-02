@@ -1,0 +1,70 @@
+{
+"skeleton": { "hash": "p/05LHAFFjcW2f5zaZImyJfoXSw", "spine": "3.6.34", "width": 2562, "height": 1082, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 100.95, "x": -6.69, "y": -114.91 },
+	{ "name": "guang", "parent": "bone", "length": 149.66, "rotation": 81.83, "x": 1.91, "y": 124.31 },
+	{ "name": "kuang", "parent": "bone", "x": -0.94, "y": 95.75 },
+	{ "name": "jackpot", "parent": "kuang", "length": 24.64, "rotation": 179.35, "x": 2.52, "y": 36.96 },
+	{ "name": "jinbi1", "parent": "bone", "length": 54.88, "rotation": 0.58, "x": 4.94, "y": 109.75 },
+	{ "name": "piaodai", "parent": "bone", "x": 2.87, "y": 65.45 }
+],
+"slots": [
+	{ "name": "dating", "bone": "root" },
+	{ "name": "guang", "bone": "guang", "attachment": "guang" },
+	{ "name": "jinbi1", "bone": "jinbi1", "attachment": "jinbi1" },
+	{ "name": "kuang", "bone": "kuang", "attachment": "kuang" },
+	{ "name": "piaodai", "bone": "piaodai", "attachment": "piaodai" },
+	{ "name": "jinbi", "bone": "piaodai" },
+	{ "name": "jackpot", "bone": "jackpot", "attachment": "jackpot" }
+],
+"skins": {
+	"default": {
+		"guang": {
+			"guang": { "x": -0.02, "rotation": -81.83, "width": 374, "height": 374 }
+		},
+		"jackpot": {
+			"jackpot": { "x": -0.37, "y": 1.42, "rotation": -179.35, "width": 234, "height": 48 }
+		},
+		"jinbi1": {
+			"jinbi1": { "x": -2.91, "y": 58.07, "rotation": -0.58, "width": 361, "height": 121 }
+		},
+		"kuang": {
+			"kuang": { "x": 4.37, "y": 36.54, "width": 335, "height": 80 }
+		},
+		"piaodai": {
+			"piaodai": { "x": -1.44, "y": -12.67, "width": 391, "height": 127 }
+		}
+	}
+},
+"animations": {
+	"daiji": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 1.2, "angle": 0, "curve": "stepped" },
+					{ "time": 3.1, "angle": 0, "curve": "stepped" },
+					{ "time": 4.8667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 1.2, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.8667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 1.2, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 3.1, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.8667, "x": 1, "y": 1 }
+				]
+			},
+			"guang": {
+				"rotate": [
+					{ "time": 0, "angle": -81.83 },
+					{ "time": 2.6667, "angle": 98.17 },
+					{ "time": 5.3333, "angle": -81.83 }
+				]
+			}
+		}
+	}
+}
+}

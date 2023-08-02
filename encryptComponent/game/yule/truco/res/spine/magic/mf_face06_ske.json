@@ -1,0 +1,146 @@
+{
+	"skeleton": {
+		"width": 113,
+		"height": 118,
+		"fps": 8,
+		"hash": " ",
+		"spine": "3.6.34",
+		"name": "Sprite"
+	},
+	"bones": [
+		{
+			"name": "root"
+		}
+	],
+	"slots": [
+		{
+			"name": "sheetSlot",
+			"bone": "root",
+			"attachment": "face06_0006_7"
+		}
+	],
+	"skins": {
+		"default": {
+			"sheetSlot": {
+				"face06_0000_1": {
+					"name": "face06_0000_1",
+					"width": 95,
+					"height": 109
+				},
+				"face06_0001_2": {
+					"name": "face06_0001_2",
+					"width": 93,
+					"height": 109
+				},
+				"face06_0002_3": {
+					"name": "face06_0002_3",
+					"width": 92,
+					"height": 109
+				},
+				"face06_0003_4": {
+					"name": "face06_0003_4",
+					"width": 93,
+					"height": 118
+				},
+				"face06_0004_5": {
+					"name": "face06_0004_5",
+					"width": 92,
+					"height": 109
+				},
+				"face06_0005_6": {
+					"name": "face06_0005_6",
+					"width": 93,
+					"height": 109
+				},
+				"face06_0006_7": {
+					"name": "face06_0006_7",
+					"width": 91,
+					"height": 109
+				},
+				"face06_0007_8": {
+					"name": "face06_0007_8",
+					"width": 93,
+					"height": 109
+				},
+				"face06_0008_9": {
+					"name": "face06_0008_9",
+					"width": 92,
+					"height": 109
+				},
+				"face06_0009_10": {
+					"name": "face06_0009_10",
+					"width": 93,
+					"height": 109
+				},
+				"face06_0010_11": {
+					"name": "face06_0010_11",
+					"width": 93,
+					"height": 109
+				},
+				"face06_0011_12": {
+					"name": "face06_0011_12",
+					"width": 92,
+					"height": 109
+				}
+			}
+		}
+	},
+	"animations": {
+		"Sprite": {
+			"slots": {
+				"sheetSlot": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "face06_0000_1"
+						},
+						{
+							"time": 0.125,
+							"name": "face06_0001_2"
+						},
+						{
+							"time": 0.25,
+							"name": "face06_0002_3"
+						},
+						{
+							"time": 0.375,
+							"name": "face06_0003_4"
+						},
+						{
+							"time": 0.5,
+							"name": "face06_0004_5"
+						},
+						{
+							"time": 0.625,
+							"name": "face06_0005_6"
+						},
+						{
+							"time": 0.75,
+							"name": "face06_0006_7"
+						},
+						{
+							"time": 0.875,
+							"name": "face06_0007_8"
+						},
+						{
+							"time": 1,
+							"name": "face06_0008_9"
+						},
+						{
+							"time": 1.125,
+							"name": "face06_0009_10"
+						},
+						{
+							"time": 1.25,
+							"name": "face06_0010_11"
+						},
+						{
+							"time": 1.375,
+							"name": "face06_0011_12"
+						}
+					]
+				}
+			}
+		}
+	}
+}

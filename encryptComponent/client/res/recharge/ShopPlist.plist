@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/recharge/GUI/shangdian_biaoti_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{576,212}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{576,212}</string>
+			</dict>
+			<key>client/res/recharge/GUI/shangdian_guanbi_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{377,218},{168,188}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{168,188}</string>
+			</dict>
+			<key>client/res/recharge/GUI/shangdian_lvbu_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{519,876},{337,145}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{337,145}</string>
+			</dict>
+			<key>client/res/recharge/GUI/shangdian_tishi_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{271,920},{244,70}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{244,70}</string>
+			</dict>
+			<key>client/res/recharge/GUI/shangdian_xueding_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{377,704},{446,168}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{446,168}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_coin1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{582,2},{371,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{371,230}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_coin2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,218},{371,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{371,230}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_coin3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{549,236},{371,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{371,230}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_coin4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,452},{371,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{371,230}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_coin5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{511,470},{371,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{371,230}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_coin6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,686},{371,230}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{371,230}</string>
+			</dict>
+			<key>client/res/recharge/GUI/sp_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,920},{265,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{265,68}</string>
+			</dict>
+			<key>client/res/recharge/GUI/xuanzejiemiandi_fanhui_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{377,410},{130,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,151}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ShopPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>ShopPlist.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

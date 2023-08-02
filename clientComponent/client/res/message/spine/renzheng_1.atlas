@@ -1,0 +1,69 @@
+
+renzheng_1.png
+size: 281,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai13
+  rotate: false
+  xy: 69, 65
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+caidai14
+  rotate: false
+  xy: 146, 28
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+caidai15
+  rotate: false
+  xy: 69, 2
+  size: 75, 61
+  orig: 75, 61
+  offset: 0, 0
+  index: -1
+caidai16
+  rotate: false
+  xy: 187, 197
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+caidai17
+  rotate: false
+  xy: 139, 78
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+caidai18
+  rotate: false
+  xy: 2, 147
+  size: 183, 132
+  orig: 183, 132
+  offset: 0, 0
+  index: -1
+caidai19
+  rotate: false
+  xy: 211, 80
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+caidai20
+  rotate: false
+  xy: 2, 40
+  size: 65, 105
+  orig: 65, 105
+  offset: 0, 0
+  index: -1
+caidai21
+  rotate: false
+  xy: 187, 146
+  size: 90, 49
+  orig: 90, 49
+  offset: 0, 0
+  index: -1

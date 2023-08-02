@@ -1,0 +1,82 @@
+Cocos2dxActivity修改
+1：onLoadNativeLibraries方法修改如下：
+    protected void onLoadNativeLibraries() {
+        try {
+//            ApplicationInfo ai = getPackageManager().getApplicationInfo(getPackageName(), PackageManager.GET_META_DATA);
+//            Bundle bundle = ai.metaData;
+//            String libName = bundle.getString("android.app.lib_name");
+//            System.loadLibrary(libName);
+
+            String abiStr = getSystemProperty("ro.product.cpu.abi", "arm");
+            String soName = "lib/arm64-v8a/libcocos2djs.so";
+            if(abiStr.equals("armeabi-v7a") || abiStr.equals("armeabi")){
+                soName = "lib/armeabi-v7a/libcocos2djs.so";
+            }
+            String soDir = new File(getCacheDir(getContext()).getAbsolutePath() + File.separator + "plugin").getAbsolutePath();
+//            decrypt_so(getContext(), soName, filePath + "cocos2djs.so");//如果是插件，这里不用解密so，插件的so没有加密，因为插件apk本身就已经是加密过的
+            Log.d("plugin_test", "soDir:" + soDir);
+            System.load(soDir + File.separator + soName);
+
+            //设置js端搜索路径，解决音效无法正常播放问题
+            Cocos2dxLocalStorage.init("jsb.sqlite", "data");
+            String hotupdatePaths = "[\"" + (soDir + "/assets/") +"\"]";
+            Cocos2dxLocalStorage.setItem("HotUpdateSearchPaths", hotupdatePaths);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private File getCacheDir(Context context) {
+        File cache = context.getFilesDir();
+        if (!cache.exists())
+            cache.mkdirs();
+        return cache;
+    }
+
+
+2：添加判断cpu类型代码
+    private String getSystemProperty(String key, String defaultValue) {
+        String value = defaultValue;
+        try {
+            Class<?> clazz= Class.forName("android.os.SystemProperties");
+            Method get = clazz.getMethod("get", String.class, String.class);
+            value = (String)(get.invoke(clazz, key, ""));
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return value;
+    }
+
+
+3：解密so代码
+    private void decrypt_so(Context context,String inFile) {
+        String filePath = getContext().getFilesDir().getAbsolutePath() + "/native_so/";
+        File file = new File(filePath);
+        if (!file.exists()) {
+            file.mkdirs();
+        }
+        String outFile = filePath + "cocos2djs.so";
+        String aes_pwd = "ohkjy8fd5t1hn69b";
+        try {
+            String aes_iv = "1234567812345678";
+            Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
+            SecretKeySpec keyspec = new SecretKeySpec(aes_pwd.getBytes(), "AES");
+            IvParameterSpec ivspec = new IvParameterSpec(aes_iv.getBytes());
+            cipher.init(Cipher.DECRYPT_MODE, keyspec, ivspec);
+
+            InputStream is = context.getAssets().open(inFile);
+            OutputStream out = new FileOutputStream(outFile);
+            CipherOutputStream cos = new CipherOutputStream(out, cipher);
+            byte[] buffer = new byte[1024];
+            int r;
+            while ((r = is.read(buffer)) >= 0) {
+                System.out.println();
+                cos.write(buffer, 0, r);
+            }
+            cos.close();
+            out.close();
+            is.close();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }

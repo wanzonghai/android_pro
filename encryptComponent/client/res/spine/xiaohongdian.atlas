@@ -1,0 +1,27 @@
+
+xiaohongdian.png
+size: 234,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongdian1
+  rotate: false
+  xy: 2, 2
+  size: 131, 133
+  orig: 131, 133
+  offset: 0, 0
+  index: -1
+hongdian2
+  rotate: false
+  xy: 135, 36
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+hongdian3
+  rotate: true
+  xy: 135, 14
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+jiesuantanchuang1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanxing
+  rotate: false
+  xy: 248, 498
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+tx/caihongguan_00040
+  rotate: false
+  xy: 2, 404
+  size: 244, 208
+  orig: 244, 208
+  offset: 0, 0
+  index: -1
+tx/guangqiu
+  rotate: false
+  xy: 661, 662
+  size: 213, 212
+  orig: 213, 212
+  offset: 0, 0
+  index: -1
+tx/kuoquan2
+  rotate: false
+  xy: 2, 202
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tx/lanhengshan2
+  rotate: false
+  xy: 2, 614
+  size: 657, 260
+  orig: 657, 260
+  offset: 0, 0
+  index: -1

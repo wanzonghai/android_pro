@@ -1,0 +1,125 @@
+
+qinwen.png
+size: 546,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixian_00000
+  rotate: false
+  xy: 2, 309
+  size: 265, 235
+  orig: 265, 235
+  offset: 0, 0
+  index: -1
+qinwen_0001
+  rotate: false
+  xy: 2, 212
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0002
+  rotate: false
+  xy: 269, 449
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0003
+  rotate: false
+  xy: 2, 115
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0004
+  rotate: true
+  xy: 139, 172
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0005
+  rotate: false
+  xy: 269, 352
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0006
+  rotate: false
+  xy: 406, 449
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0007
+  rotate: false
+  xy: 2, 18
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0008
+  rotate: true
+  xy: 139, 35
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0009
+  rotate: false
+  xy: 406, 352
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0010
+  rotate: false
+  xy: 269, 255
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0011
+  rotate: false
+  xy: 406, 255
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0012
+  rotate: false
+  xy: 236, 158
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0013
+  rotate: false
+  xy: 236, 61
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0014
+  rotate: false
+  xy: 373, 158
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+qinwen_0015
+  rotate: false
+  xy: 373, 61
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+xiaoxin
+  rotate: false
+  xy: 2, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

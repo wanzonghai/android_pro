@@ -1,0 +1,48 @@
+
+youjian.png
+size: 1926,1746
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chouma2
+  rotate: false
+  xy: 1024, 22
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+chouma3
+  rotate: false
+  xy: 1300, 92
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+chouma4
+  rotate: true
+  xy: 1190, 23
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+guanbi
+  rotate: false
+  xy: 1190, 79
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+xinzhi1_1
+  rotate: true
+  xy: 2, 2
+  size: 1742, 1020
+  orig: 1742, 1020
+  offset: 0, 0
+  index: -1
+xinzhi4
+  rotate: true
+  xy: 1024, 189
+  size: 1555, 900
+  orig: 1555, 900
+  offset: 0, 0
+  index: -1

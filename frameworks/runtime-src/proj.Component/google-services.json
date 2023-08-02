@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "405472439793",
+    "project_id": "strong-slots",
+    "storage_bucket": "strong-slots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405472439793:android:b20fbbf617e7e6c5112850",
+        "android_client_info": {
+          "package_name": "aefca.fts.tytnss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405472439793-p0a95a7k7gcobqi9s6665e94c1mc2pa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aefca.fts.tytnss",
+            "certificate_hash": "f998ad0c644e39fd5f949f5752a9658c912ad202"
+          }
+        },
+        {
+          "client_id": "405472439793-0l15t2j5c6l5ol3s2o6v0cgq9f533bg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWhot1A_SaBRjQAdAtHjPPosP6g7_NX-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405472439793-0l15t2j5c6l5ol3s2o6v0cgq9f533bg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

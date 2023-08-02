@@ -1,0 +1,27 @@
+
+lianxudengru.png
+size: 188,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus
+  rotate: false
+  xy: 2, 145
+  size: 184, 41
+  orig: 184, 41
+  offset: 0, 0
+  index: -1
+lvgou
+  rotate: false
+  xy: 116, 84
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+rili
+  rotate: false
+  xy: 2, 39
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1

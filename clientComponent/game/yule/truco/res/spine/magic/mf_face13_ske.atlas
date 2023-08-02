@@ -1,0 +1,146 @@
+
+mf_face13_ske.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face13_0005_6
+  rotate: false
+  xy: 209, 324
+  size: 96, 109
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0000_1
+  rotate: false
+  xy: 110, 117
+  size: 105, 110
+  orig: 124, 114
+  offset: 10, 0
+  index: -1
+face13_0016_17
+  rotate: false
+  xy: 233, 1
+  size: 118, 108
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+face13_0013_14
+  rotate: false
+  xy: 117, 1
+  size: 114, 114
+  orig: 124, 114
+  offset: 5, 0
+  index: -1
+face13_0019_20
+  rotate: false
+  xy: 307, 328
+  size: 99, 104
+  orig: 124, 114
+  offset: 10, 0
+  index: -1
+face13_0004_5
+  rotate: false
+  xy: 209, 435
+  size: 96, 109
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0007_8
+  rotate: false
+  xy: 307, 434
+  size: 96, 106
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0015_16
+  rotate: false
+  xy: 1, 1
+  size: 114, 114
+  orig: 124, 114
+  offset: 2, 0
+  index: -1
+face13_0017_18
+  rotate: false
+  xy: 353, 110
+  size: 118, 106
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+face13_0011_12
+  rotate: false
+  xy: 1, 117
+  size: 107, 114
+  orig: 124, 114
+  offset: 9, 0
+  index: -1
+face13_0014_15
+  rotate: false
+  xy: 233, 111
+  size: 118, 105
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+face13_0018_19
+  rotate: false
+  xy: 353, 1
+  size: 118, 107
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+face13_0009_10
+  rotate: false
+  xy: 96, 563
+  size: 96, 109
+  orig: 124, 114
+  offset: 15, 0
+  index: -1
+face13_0003_4
+  rotate: false
+  xy: 1, 233
+  size: 93, 114
+  orig: 124, 114
+  offset: 17, 0
+  index: -1
+face13_0008_9
+  rotate: false
+  xy: 96, 341
+  size: 96, 109
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0006_7
+  rotate: false
+  xy: 408, 328
+  size: 96, 107
+  orig: 124, 114
+  offset: 15, 0
+  index: -1
+face13_0002_3
+  rotate: false
+  xy: 96, 452
+  size: 96, 109
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0001_2
+  rotate: false
+  xy: 324, 218
+  size: 97, 108
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0010_11
+  rotate: false
+  xy: 110, 229
+  size: 97, 110
+  orig: 124, 114
+  offset: 14, 0
+  index: -1
+face13_0012_13
+  rotate: false
+  xy: 217, 218
+  size: 105, 104
+  orig: 124, 114
+  offset: 10, 0
+  index: -1

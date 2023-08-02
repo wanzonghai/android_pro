@@ -1,0 +1,76 @@
+
+face2_ske.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face2_0006_7
+  rotate: false
+  xy: 1, 1
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0000_1
+  rotate: false
+  xy: 143, 1
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0005_6
+  rotate: false
+  xy: 72, 149
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0004_5
+  rotate: false
+  xy: 1, 75
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0009_10
+  rotate: false
+  xy: 214, 1
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0003_4
+  rotate: false
+  xy: 72, 75
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0008_9
+  rotate: false
+  xy: 72, 1
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0002_3
+  rotate: false
+  xy: 1, 149
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0007_8
+  rotate: false
+  xy: 143, 149
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+face2_0001_2
+  rotate: false
+  xy: 143, 75
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1

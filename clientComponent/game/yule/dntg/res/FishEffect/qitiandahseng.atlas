@@ -1,0 +1,83 @@
+
+qitiandahseng.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 777, 229
+  size: 379, 126
+  orig: 379, 126
+  offset: 0, 0
+  index: -1
+beishu
+  rotate: false
+  xy: 777, 165
+  size: 236, 63
+  orig: 236, 63
+  offset: 0, 0
+  index: -1
+dinceng
+  rotate: false
+  xy: 1, 356
+  size: 1278, 126
+  orig: 1278, 126
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 345, 78
+  size: 148, 49
+  orig: 148, 49
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1280, 462
+  size: 688, 20
+  orig: 688, 20
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 1, 128
+  size: 489, 35
+  orig: 489, 35
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: false
+  xy: 1, 164
+  size: 775, 191
+  orig: 775, 191
+  offset: 0, 0
+  index: -1
+qitiandasheng
+  rotate: false
+  xy: 1, 1
+  size: 343, 126
+  orig: 343, 126
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: false
+  xy: 1280, 335
+  size: 331, 126
+  orig: 331, 126
+  offset: 0, 0
+  index: -1
+saoguang2
+  rotate: false
+  xy: 491, 145
+  size: 177, 18
+  orig: 177, 18
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1612, 347
+  size: 263, 114
+  orig: 263, 114
+  offset: 0, 0
+  index: -1

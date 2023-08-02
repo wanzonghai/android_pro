@@ -1,0 +1,216 @@
+
+jnh_spin_vfx_ske.png
+size: 629,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_vfx_00
+  rotate: false
+  xy: 2, 548
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_02
+  rotate: false
+  xy: 143, 548
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_04
+  rotate: false
+  xy: 284, 548
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_06
+  rotate: false
+  xy: 425, 548
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_08
+  rotate: true
+  xy: 2, 407
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_10
+  rotate: true
+  xy: 2, 266
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_12
+  rotate: true
+  xy: 2, 125
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_14
+  rotate: false
+  xy: 2, 44
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_16
+  rotate: true
+  xy: 83, 407
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_18
+  rotate: true
+  xy: 83, 266
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_20
+  rotate: true
+  xy: 83, 125
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_22
+  rotate: false
+  xy: 143, 44
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_24
+  rotate: false
+  xy: 284, 467
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_26
+  rotate: true
+  xy: 164, 407
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_28
+  rotate: false
+  xy: 425, 467
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_30
+  rotate: true
+  xy: 164, 266
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_32
+  rotate: true
+  xy: 164, 125
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_34
+  rotate: true
+  xy: 245, 326
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_36
+  rotate: true
+  xy: 245, 185
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_38
+  rotate: true
+  xy: 284, 44
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_40
+  rotate: true
+  xy: 326, 326
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_42
+  rotate: true
+  xy: 326, 185
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_44
+  rotate: true
+  xy: 365, 44
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_46
+  rotate: false
+  xy: 407, 386
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_48
+  rotate: true
+  xy: 548, 326
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_50
+  rotate: false
+  xy: 407, 305
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_52
+  rotate: false
+  xy: 407, 224
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_54
+  rotate: true
+  xy: 548, 185
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_56
+  rotate: true
+  xy: 446, 83
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+spin_vfx_58
+  rotate: false
+  xy: 446, 2
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1

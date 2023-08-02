@@ -1,0 +1,181 @@
+
+bjbz_freegame_guochang_ske.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/JP_B_G_000
+  rotate: false
+  xy: 1, 1
+  size: 560, 500
+  orig: 575, 500
+  offset: 7, 0
+  index: -1
+JP_XH_B_001
+  rotate: false
+  xy: 844, 247
+  size: 115, 79
+  orig: 281, 206
+  offset: 91, 125
+  index: -1
+JP_XH_B_018
+  rotate: false
+  xy: 557, 607
+  size: 261, 200
+  orig: 281, 206
+  offset: 7, 6
+  index: -1
+JP_XH_B_007
+  rotate: false
+  xy: 250, 1109
+  size: 247, 199
+  orig: 281, 206
+  offset: 13, 6
+  index: -1
+JP_XH_B_008
+  rotate: false
+  xy: 499, 1213
+  size: 247, 199
+  orig: 281, 206
+  offset: 12, 6
+  index: -1
+JP_XH_B_014
+  rotate: false
+  xy: 1, 705
+  size: 250, 200
+  orig: 281, 206
+  offset: 9, 6
+  index: -1
+JP_XH_B_019
+  rotate: false
+  xy: 280, 503
+  size: 275, 200
+  orig: 281, 206
+  offset: 3, 6
+  index: -1
+JP_XH_B_022
+  rotate: false
+  xy: 563, 405
+  size: 278, 200
+  orig: 281, 206
+  offset: 3, 6
+  index: -1
+JP_XH_B_006
+  rotate: false
+  xy: 748, 1405
+  size: 226, 200
+  orig: 281, 206
+  offset: 33, 6
+  index: -1
+JP_XH_B_009
+  rotate: false
+  xy: 751, 1011
+  size: 247, 200
+  orig: 281, 206
+  offset: 11, 6
+  index: -1
+JP_XH_B_002
+  rotate: false
+  xy: 844, 145
+  size: 145, 100
+  orig: 281, 206
+  offset: 92, 105
+  index: -1
+JP_XH_B_020
+  rotate: false
+  xy: 563, 1
+  size: 279, 200
+  orig: 281, 206
+  offset: 1, 6
+  index: -1
+JP_XH_B_017
+  rotate: false
+  xy: 253, 705
+  size: 250, 200
+  orig: 281, 206
+  offset: 8, 6
+  index: -1
+JP_XH_B_024
+  rotate: false
+  xy: 748, 1213
+  size: 249, 190
+  orig: 281, 206
+  offset: 21, 9
+  index: -1
+JP_XH_B_013
+  rotate: false
+  xy: 251, 907
+  size: 248, 200
+  orig: 281, 206
+  offset: 9, 6
+  index: -1
+JP_XH_B_011
+  rotate: false
+  xy: 501, 1011
+  size: 248, 200
+  orig: 281, 206
+  offset: 11, 6
+  index: -1
+JP_XH_B_004
+  rotate: false
+  xy: 843, 405
+  size: 166, 196
+  orig: 281, 206
+  offset: 94, 10
+  index: -1
+JP_XH_B_003
+  rotate: false
+  xy: 844, 1
+  size: 166, 142
+  orig: 281, 206
+  offset: 93, 64
+  index: -1
+JP_XH_B_021
+  rotate: false
+  xy: 563, 203
+  size: 279, 200
+  orig: 281, 206
+  offset: 2, 6
+  index: -1
+JP_XH_B_016
+  rotate: false
+  xy: 756, 809
+  size: 249, 200
+  orig: 281, 206
+  offset: 8, 6
+  index: -1
+JP_XH_B_015
+  rotate: false
+  xy: 505, 809
+  size: 249, 200
+  orig: 281, 206
+  offset: 8, 6
+  index: -1
+JP_XH_B_005
+  rotate: false
+  xy: 820, 607
+  size: 176, 200
+  orig: 281, 206
+  offset: 84, 6
+  index: -1
+JP_XH_B_023
+  rotate: false
+  xy: 1, 503
+  size: 277, 200
+  orig: 281, 206
+  offset: 2, 6
+  index: -1
+JP_XH_B_010
+  rotate: false
+  xy: 1, 1109
+  size: 247, 200
+  orig: 281, 206
+  offset: 12, 6
+  index: -1
+JP_XH_B_012
+  rotate: false
+  xy: 1, 907
+  size: 248, 200
+  orig: 281, 206
+  offset: 10, 6
+  index: -1

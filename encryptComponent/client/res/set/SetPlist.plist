@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/set/GUI/anniu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,2},{299,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{299,95}</string>
+			</dict>
+			<key>client/res/set/GUI/fuzhi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{370,101},{65,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,67}</string>
+			</dict>
+			<key>client/res/set/GUI/guanbi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{252,101},{114,114}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,114}</string>
+			</dict>
+			<key>client/res/set/GUI/renzhengrukou2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,485},{377,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{377,91}</string>
+			</dict>
+			<key>client/res/set/GUI/renzhengrukou3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,256},{377,91}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{377,91}</string>
+			</dict>
+			<key>client/res/set/GUI/sz_fzID.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{439,101},{60,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,64}</string>
+			</dict>
+			<key>client/res/set/GUI/touxiang1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,256},{226,225}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{226,225}</string>
+			</dict>
+			<key>client/res/set/GUI/touxiang2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{246,250}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{246,250}</string>
+			</dict>
+			<key>client/res/set/GUI/yinxiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{555,2},{162,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,80}</string>
+			</dict>
+			<key>client/res/set/GUI/yinxiao1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{232,351},{338,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{338,96}</string>
+			</dict>
+			<key>client/res/set/GUI/yinyue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{555,86},{162,80}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{162,80}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SetPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>SetPlist.png</string>
+			<key>size</key>
+			<string>{719,578}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>719</integer>
+			<key>height</key>
+			<integer>578</integer>
+		</dict>
+	</dict>
+</plist>

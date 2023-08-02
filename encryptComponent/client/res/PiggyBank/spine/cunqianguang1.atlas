@@ -1,0 +1,90 @@
+
+cunqianguang1.png
+size: 770,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/ciguang0002
+  rotate: true
+  xy: 516, 767
+  size: 300, 252
+  orig: 300, 252
+  offset: 0, 0
+  index: -1
+tx/diyun
+  rotate: false
+  xy: 366, 95
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tx/fangshe
+  rotate: false
+  xy: 366, 297
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/guangyun
+  rotate: false
+  xy: 2, 555
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tx/jb_1
+  rotate: false
+  xy: 516, 665
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_2
+  rotate: false
+  xy: 516, 563
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_3
+  rotate: false
+  xy: 618, 665
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_4
+  rotate: false
+  xy: 618, 563
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_5
+  rotate: false
+  xy: 624, 461
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/jb_6
+  rotate: false
+  xy: 624, 359
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/kuoquan2
+  rotate: false
+  xy: 568, 95
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+xiaozhu6
+  rotate: true
+  xy: 2, 2
+  size: 551, 362
+  orig: 551, 362
+  offset: 0, 0
+  index: -1

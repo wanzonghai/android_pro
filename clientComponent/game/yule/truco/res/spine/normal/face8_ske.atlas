@@ -1,0 +1,174 @@
+
+face8_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face8_0009_10
+  rotate: false
+  xy: 150, 305
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0011_12
+  rotate: false
+  xy: 150, 153
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0000_1
+  rotate: false
+  xy: 76, 153
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0012_13
+  rotate: false
+  xy: 372, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0013_14
+  rotate: false
+  xy: 150, 381
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0019_20
+  rotate: false
+  xy: 1, 305
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face8_0018_19
+  rotate: false
+  xy: 1, 1
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face8_0021_22
+  rotate: false
+  xy: 1, 153
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face8_0023_24
+  rotate: false
+  xy: 1, 77
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face8_0010_11
+  rotate: false
+  xy: 76, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0014_15
+  rotate: false
+  xy: 150, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0002_3
+  rotate: false
+  xy: 76, 381
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0005_6
+  rotate: false
+  xy: 298, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0020_21
+  rotate: false
+  xy: 1, 229
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face8_0016_17
+  rotate: false
+  xy: 76, 305
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0001_2
+  rotate: false
+  xy: 76, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0004_5
+  rotate: false
+  xy: 372, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0003_4
+  rotate: false
+  xy: 224, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0022_23
+  rotate: false
+  xy: 1, 381
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+face8_0017_18
+  rotate: false
+  xy: 76, 229
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0007_8
+  rotate: false
+  xy: 150, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0008_9
+  rotate: false
+  xy: 298, 77
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0006_7
+  rotate: false
+  xy: 150, 229
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+face8_0015_16
+  rotate: false
+  xy: 224, 1
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1

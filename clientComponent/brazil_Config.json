@@ -1,0 +1,273 @@
+{																																														
+    "ServerStatus":0,		
+	"apk_name":"Truco King",																																														
+	"NoticeConfig":{																																														
+        "timeStart":"2023-03-23 06:50",
+        "timeEnd":"2023-03-23 07:50",
+		"times":1,																																														
+		"title":"Caros jogadores:",	    																																														
+		"msg1":"    Para lhe proporcionar uma melhor experiência de jogo, começaremos a atualizar nossos servidores às %s. Tempo estimado de conclusão: %s. Por favor, entenda o inconveniente causado a você.",																																														
+		"msg2":"    Para lhe proporcionar uma melhor experiência de jogo, estamos atualizando nossos servidores. Tempo estimado de conclusão: %s. Por favor, entenda o inconveniente causado a você.",																																																
+		"signature":"Equipa de I&D do %s"																																															
+	},																																														
+    "update_open":true,																																															
+	"update_url": "https://down2.upooldafs.com/brazil_res",																																														
+	"update_url_ios": "http://down2.upooldafs.com/brazil_res",
+	"update_url_easy_game": "http://upgrade_game.easygamehome.com/",
+	"easy_game_threshold":1000,																																	
+	"apk_version":1,
+	"application_version":"2023021301",	
+	"application_version_ios":"2023011401",
+	"new_version_path_ios":"https://dl.wydownload.xyz/v2/Nm3-AQyHC?l=pt_BR",																																														
+	"base_zip": 0,																																														
+	"client_zip": 2,						
+	"egyptSlots_zip":0,																																														
+	"97quanhuang_zip":0,																																															
+	"baccarat_zip":0,																																														
+	"crash_zip":0,																																														
+    "dntg_zip":0,																																														
+	"double_zip":0,																																														
+	"jxlw_zip":0,																																														
+	"mllegend_zip":0,																																															
+	"watermargin_zip":0,																																														
+	"xlkpy_zip":0,																																														
+	"bonanza_zip":0,																																														
+	"truco_zip":0,																																														
+	"Plinko_zip":0,																								
+	"snowwomen_zip":0,
+	"newcaishen_zip":0,
+	"carnival_zip":0,
+    "base_version":1,																																														
+	"client_version":65,																																																
+	"gamecount":19,																																														
+	"game_update_config":{																																														
+		"1":[																																														
+		    {																																														
+				"wKindID": 407,																																														
+				"wTypeID": 5,																																														
+				"wSortID": 56,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":5,																																														
+				"szKindName":"Li Kui Divide o peixe",																																														
+				"szModuleName":"yule.xlkpy"																																														
+			}																																														
+		],																																														
+		"2":[																																														
+		    {																																														
+				"wKindID": 520,																																														
+				"wTypeID": 5,																																														
+				"wSortID": 60,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":3,																																														
+				"szKindName":"Estragos No Céu 2",																																														
+				"szModuleName":"yule.dntg"																																														
+			}																																														
+		],																																														
+		"3":[																																														
+		    {																																														
+				"wKindID": 502,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 60,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":3,																																														
+				"szKindName":"King of fighters",																																														
+				"szModuleName":"yule.97quanhuang"																																														
+			}																																														
+		],																																														
+		"4":[																																														
+		    {																																														
+				"wKindID": 516,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 52,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":3,																																														
+				"szKindName":"Margem da Água",																																														
+				"szModuleName":"yule.watermargin"																																														
+			}																																														
+		],																																															
+		"5":[																																														
+		    {																																														
+				"wKindID": 525,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 73,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":4,																																														
+				"szKindName":"Classico 777",																																														
+				"szModuleName":"yule.jxlw"																																														
+			}																																														
+		],																																														
+		"6":[																																														
+		    {																																														
+				"wKindID": 527,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":4,																																														
+				"szKindName":"Gonzo's quest",																																														
+				"szModuleName":"yule.mllegend"																																														
+			}																																														
+		],																																														
+		"7":[																																														
+		    {																																														
+				"wKindID": 122,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":7,																																														
+				"szKindName":"Baccarat",																																														
+				"szModuleName":"yule.baccarat"																																														
+			}																																														
+		],																																															
+		"8":[																																														
+		    {																																														
+				"wKindID": 703,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":12,																																														
+				"szKindName":"Crash",																																														
+				"szModuleName":"yule.crash"																																														
+			}																																														
+		],																																															
+		"9":[																																														
+		    {																																														
+				"wKindID": 702,																																														
+				"wTypeID": 6,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":9,																																														
+				"szKindName":"Double",																																														
+				"szModuleName":"yule.double"																																														
+			}																																														
+		],																																														
+		"10":[																																														
+			{																																														
+				"wKindID": 802,																																														
+				"wTypeID": 1,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":1,																																														
+				"szKindName":"Dumme",																																														
+				"szModuleName":"yule.dumme"																																														
+			}																																														
+		],																																														
+		"11":[																																														
+			{																																														
+				"wKindID": 704,																																														
+				"wTypeID": 3,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":4,																																														
+				"szKindName":"Frutas",																																														
+				"szModuleName":"yule.bonanza"																																														
+			}																																														
+		],																																														
+		"12":[																																														
+			{																																														
+				"wKindID": 803,																																														
+				"wTypeID": 3,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":9,																																														
+				"szKindName":"Truco",																																														
+				"szModuleName":"yule.truco"																																														
+			}																																														
+		],																								
+		"13":[																																														
+			{																																														
+				"wKindID": 901,																																														
+				"wTypeID": 3,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":9,																																														
+				"szKindName":"Pinko",																																														
+				"szModuleName":"yule.Plinko"																																														
+			}																																														
+		],																	
+		"14":[																																														
+			{																																														
+				"wKindID": 528,																																														
+				"wTypeID": 3,																																														
+				"wSortID": 75,																																														
+				"wKindMark": 3,																																														
+				"dwClientVersion":101122049,																																														
+				"wResVersion":5,																																														
+				"szKindName":"Egito slots",																																														
+				"szModuleName":"yule.egyptSlots"																																														
+			}																																														
+		],
+		"15":[																																																												
+			{																																																												
+				"wKindID": 532,																																																												
+				"wTypeID": 3,																																																												
+				"wSortID": 75,																																																												
+				"wKindMark": 3,																																																												
+				"dwClientVersion":101122049,																																																												
+				"wResVersion":7,																																																												
+				"szKindName":"Donzela da Neve",																																																												
+				"szModuleName":"yule.snowwomen"																																																												
+			}																																																												
+		],
+		"16":[																																																												
+			{																																																												
+				"wKindID": 529,																																																												
+				"wTypeID": 3,																																																												
+				"wSortID": 75,																																																												
+				"wKindMark": 3,																																																												
+				"dwClientVersion":101122049,																																																												
+				"wResVersion":3,																																																												
+				"szKindName":"Deus da Fortuna",																																																												
+				"szModuleName":"yule.newcaishen"																																																												
+			}																																																												
+		],
+		"17":[																																																												
+			{																																																												
+				"wKindID": 531,																																																												
+				"wTypeID": 3,																																																												
+				"wSortID": 75,																																																												
+				"wKindMark": 3,																																																												
+				"dwClientVersion":101122049,																																																												
+				"wResVersion":3,																																																												
+				"szKindName":"Carnava",																																																												
+				"szModuleName":"yule.carnival"																																																												
+			}																																																												
+		],
+		"18":[																																																														
+		    {																																																														
+				"wKindID": 602,																																																														
+				"wTypeID": 6,																																																														
+				"wSortID": 75,																																																														
+				"wKindMark": 3,																																																														
+				"dwClientVersion":101122049,																																																														
+				"wResVersion":5,																																																														
+				"szKindName":"Bicho",																																																														
+				"szModuleName":"yule.jdob"																																																														
+			}																																																														
+		],
+		"19":[																																																														
+		    {																																																														
+				"wKindID": 903,																																																														
+				"wTypeID": 6,																																																														
+				"wSortID": 75,																																																														
+				"wKindMark": 3,																																																														
+				"dwClientVersion":101122049,																																																														
+				"wResVersion":7,																																																														
+				"szKindName":"miniRoulette",																																																														
+				"szModuleName":"yule.miniRoulette"																																																														
+			}																																																														
+		]																																													
+	}																																														
+}																																														

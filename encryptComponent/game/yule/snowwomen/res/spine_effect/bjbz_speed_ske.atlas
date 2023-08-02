@@ -1,0 +1,153 @@
+
+bjbz_speed_ske.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rise_frame
+  rotate: false
+  xy: 1, 1
+  size: 148, 435
+  orig: 150, 437
+  offset: 1, 0
+  index: -1
+images/Bonus_L1/Bonus_L1_013
+  rotate: false
+  xy: 151, 187
+  size: 58, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_006
+  rotate: false
+  xy: 448, 187
+  size: 57, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_003
+  rotate: false
+  xy: 271, 1
+  size: 58, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_000
+  rotate: false
+  xy: 449, 1
+  size: 56, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_011
+  rotate: false
+  xy: 565, 1
+  size: 56, 184
+  orig: 59, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_017
+  rotate: false
+  xy: 211, 1
+  size: 58, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_002
+  rotate: false
+  xy: 390, 1
+  size: 57, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_007
+  rotate: false
+  xy: 271, 187
+  size: 57, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_005
+  rotate: false
+  xy: 623, 1
+  size: 56, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_009
+  rotate: false
+  xy: 681, 1
+  size: 55, 184
+  orig: 59, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_004
+  rotate: false
+  xy: 681, 187
+  size: 55, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_016
+  rotate: false
+  xy: 330, 187
+  size: 57, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_019
+  rotate: false
+  xy: 389, 187
+  size: 57, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_015
+  rotate: false
+  xy: 623, 187
+  size: 56, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_001
+  rotate: false
+  xy: 211, 187
+  size: 58, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_012
+  rotate: false
+  xy: 151, 1
+  size: 58, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_010
+  rotate: false
+  xy: 565, 187
+  size: 56, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_008
+  rotate: false
+  xy: 507, 1
+  size: 56, 184
+  orig: 59, 187
+  offset: 1, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_014
+  rotate: false
+  xy: 331, 1
+  size: 57, 184
+  orig: 60, 187
+  offset: 2, 1
+  index: -1
+images/Bonus_L1/Bonus_L1_018
+  rotate: false
+  xy: 507, 187
+  size: 56, 184
+  orig: 60, 187
+  offset: 3, 1
+  index: -1

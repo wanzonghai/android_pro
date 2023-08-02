@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/service/GUI/kefu_biaoti.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{704,158}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{704,158}</string>
+			</dict>
+			<key>client/res/service/GUI/kf_FB.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,2},{308,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,96}</string>
+			</dict>
+			<key>client/res/service/GUI/kf_wapp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{380,164},{282,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{282,96}</string>
+			</dict>
+			<key>client/res/service/GUI/yh_sran4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{666,202},{264,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{264,95}</string>
+			</dict>
+			<key>client/res/service/GUI/yh_sran5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{710,102},{308,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{308,96}</string>
+			</dict>
+			<key>client/res/service/GUI/yh_gb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,264},{150,150}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,150}</string>
+			</dict>
+			<key>client/res/service/GUI/kf_lc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,164},{374,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{374,96}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ServiePlist.png</string>
+			<key>realTextureFileName</key>
+			<string>ServiePlist.png</string>
+			<key>size</key>
+			<string>{1020,416}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1020</integer>
+			<key>height</key>
+			<integer>416</integer>
+		</dict>
+	</dict>
+</plist>

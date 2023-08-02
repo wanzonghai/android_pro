@@ -1,0 +1,69 @@
+
+jinbi_zhizhen.png
+size: 798,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb_4
+  rotate: false
+  xy: 690, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+tx/guangqiu
+  rotate: false
+  xy: 494, 255
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+tx/quedingguang
+  rotate: true
+  xy: 2, 2
+  size: 465, 490
+  orig: 465, 490
+  offset: 0, 0
+  index: -1
+tx/sdhfgk
+  rotate: false
+  xy: 494, 125
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xjb01
+  rotate: false
+  xy: 708, 359
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xjb02
+  rotate: false
+  xy: 494, 15
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb03
+  rotate: false
+  xy: 592, 15
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+xjb04
+  rotate: false
+  xy: 708, 249
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xjb09
+  rotate: false
+  xy: 690, 142
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1

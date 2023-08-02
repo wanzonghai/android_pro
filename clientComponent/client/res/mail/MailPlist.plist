@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/mail/GUI/anniu12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,484},{153,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,62}</string>
+			</dict>
+			<key>client/res/mail/GUI/anniu13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{527,2},{396,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{396,156}</string>
+			</dict>
+			<key>client/res/mail/GUI/anniu21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{527,162},{396,156}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{396,156}</string>
+			</dict>
+			<key>client/res/mail/GUI/guanbi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,421},{106,106}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{106,106}</string>
+			</dict>
+			<key>client/res/mail/GUI/lingqu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{696,389},{241,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{241,54}</string>
+			</dict>
+			<key>client/res/mail/GUI/shanchu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{696,322},{222,63}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{222,63}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_fujian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{927,2},{95,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,88}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_fujian1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{927,94},{95,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,88}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_jaingli1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,293},{181,187}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{181,187}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_jaingli2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,550},{179,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,44}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_jaingli3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{187,293},{207,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{207,124}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_jaingli4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{297,513},{446,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{446,40}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_jiangli5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{527,451},{163,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{163,31}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_jljb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{527,322},{165,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{165,125}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_shijian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{927,186},{38,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,39}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_shijian1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{969,186},{38,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,39}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_youjiantubiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{398,408},{125,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,101}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_youjiantubiao2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{398,293},{125,111}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,111}</string>
+			</dict>
+			<key>client/res/mail/GUI/yj_youjiantubiaomeineirong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{521,287}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{521,287}</string>
+			</dict>
+			<key>client/res/mail/GUI/zhidaola.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{696,447},{153,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{153,62}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>MailPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>MailPlist.png</string>
+			<key>size</key>
+			<string>{1024,596}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>596</integer>
+		</dict>
+	</dict>
+</plist>

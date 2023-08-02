@@ -1,0 +1,2 @@
+E:\bx_game\bx_mjb_zz_strongslots\game\frameworks\runtime-src\proj.android-studio\app\jni\Android.mk
+E:\bx_game\bx_mjb_zz_strongslots\game\frameworks\runtime-src\proj.android-studio\app\jni\Application.mk

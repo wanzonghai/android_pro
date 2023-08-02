@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>client/res/Lobby/GameIcon/GameDouble.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,2},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game97QH.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,2},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game4100.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,2},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game4600.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1349,2},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game4400.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,378},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game5400.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,754},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game5900.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1130},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game7700.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{2,1506},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game8700.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,378},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game8600.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,378},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game4700.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1349,378},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/GameSHZ.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,754},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game6400.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,1130},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game27100.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{451,1506},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game27200.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,754},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game27300.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1349,754},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+			<key>client/res/Lobby/GameIcon/Game27400.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,1130},{445,372}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{445,372}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>GameIconPlist2.png</string>
+			<key>realTextureFileName</key>
+			<string>GameIconPlist2.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

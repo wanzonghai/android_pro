@@ -1,0 +1,139 @@
+
+huodong_1.png
+size: 1006,587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti1
+  rotate: false
+  xy: 2, 258
+  size: 572, 139
+  orig: 572, 139
+  offset: 0, 0
+  index: -1
+biaoti2
+  rotate: false
+  xy: 2, 399
+  size: 719, 186
+  orig: 719, 186
+  offset: 0, 0
+  index: -1
+biaoti3
+  rotate: false
+  xy: 368, 108
+  size: 141, 148
+  orig: 141, 148
+  offset: 0, 0
+  index: -1
+biaoti4
+  rotate: false
+  xy: 851, 43
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+biaoti5
+  rotate: false
+  xy: 511, 2
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+chouma1
+  rotate: false
+  xy: 206, 96
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+chouma2
+  rotate: false
+  xy: 576, 256
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+chouma3
+  rotate: false
+  xy: 2, 18
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+chouma4
+  rotate: false
+  xy: 926, 50
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+chouma5
+  rotate: false
+  xy: 725, 2
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+chouma6
+  rotate: false
+  xy: 2, 63
+  size: 202, 193
+  orig: 202, 193
+  offset: 0, 0
+  index: -1
+dengpao
+  rotate: false
+  xy: 640, 127
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+dengpaoguang
+  rotate: false
+  xy: 626, 2
+  size: 97, 122
+  orig: 97, 122
+  offset: 0, 0
+  index: -1
+kefu1
+  rotate: false
+  xy: 891, 204
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+kefu2
+  rotate: false
+  xy: 368, 2
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+kefu3
+  rotate: false
+  xy: 511, 126
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+kefu4
+  rotate: false
+  xy: 768, 166
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+shedeng
+  rotate: false
+  xy: 723, 289
+  size: 281, 296
+  orig: 281, 296
+  offset: 0, 0
+  index: -1
+shedengguang
+  rotate: false
+  xy: 891, 124
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1

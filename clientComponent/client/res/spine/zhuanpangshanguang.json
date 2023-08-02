@@ -1,0 +1,39 @@
+{
+"skeleton": { "hash": "yf/zYDLXB6TbkFIaKygH7XkQqAQ", "spine": "3.6.34", "width": 0, "height": 0, "images": "./结算/images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 2.56, "y": 39.91 },
+	{ "name": "cheng3222", "parent": "bone", "length": 469.85, "rotation": -90.7, "x": 3.56, "y": -88.5 }
+],
+"slots": [
+	{ "name": "cheng3222", "bone": "cheng3222", "attachment": "cheng3222" }
+],
+"skins": {
+	"default": {
+		"cheng3222": {
+			"cheng3222": { "x": 41.76, "y": -4.67, "scaleX": 1.89, "scaleY": 1.89, "rotation": 90.7, "width": 378, "height": 593 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"cheng3222": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.2667, "color": "fffffffe" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "cheng3222" },
+					{ "time": 0.2667, "name": "cheng3222" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.4667, "name": "cheng3222" },
+					{ "time": 0.5667, "name": null },
+					{ "time": 0.6667, "name": "cheng3222" },
+					{ "time": 0.8333, "name": "cheng3222" }
+				]
+			}
+		}
+	}
+}
+}

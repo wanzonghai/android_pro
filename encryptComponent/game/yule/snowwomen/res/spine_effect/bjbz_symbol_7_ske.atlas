@@ -1,0 +1,48 @@
+
+bjbz_symbol_7_ske.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fox_bg
+  rotate: false
+  xy: 179, 180
+  size: 171, 169
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+fox_body
+  rotate: false
+  xy: 179, 1
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+fox_head
+  rotate: false
+  xy: 1, 1
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+fox_kuang
+  rotate: false
+  xy: 1, 180
+  size: 176, 177
+  orig: 176, 177
+  offset: 0, 0
+  index: -1
+fox_eye
+  rotate: false
+  xy: 352, 180
+  size: 62, 19
+  orig: 176, 177
+  offset: 58, 86
+  index: -1
+fox_eye_glow
+  rotate: false
+  xy: 357, 1
+  size: 44, 9
+  orig: 176, 177
+  offset: 66, 90
+  index: -1

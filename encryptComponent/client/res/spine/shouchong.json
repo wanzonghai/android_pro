@@ -1,0 +1,58 @@
+{
+"skeleton": { "hash": "fnt+/IRLSGwcIZgDTGej0pjKjaY", "spine": "3.6.34", "width": 2560, "height": 1080, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone2", "parent": "root", "length": 100, "rotation": 90 }
+],
+"slots": [
+	{ "name": "bj", "bone": "root" },
+	{ "name": "tx/huanguang_00000", "bone": "bone2", "attachment": "tx/huanguang_00028" }
+],
+"skins": {
+	"default": {
+		"tx/huanguang_00000": {
+			"tx/huanguang_00000": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00002": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00004": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00006": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00008": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00010": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00012": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00014": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00016": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00018": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00020": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00022": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00024": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00026": { "rotation": -90, "width": 287, "height": 132 },
+			"tx/huanguang_00028": { "rotation": -90, "width": 287, "height": 132 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"tx/huanguang_00000": {
+				"attachment": [
+					{ "time": 0, "name": "tx/huanguang_00000" },
+					{ "time": 0.0667, "name": "tx/huanguang_00002" },
+					{ "time": 0.1333, "name": "tx/huanguang_00004" },
+					{ "time": 0.2, "name": "tx/huanguang_00006" },
+					{ "time": 0.2667, "name": "tx/huanguang_00008" },
+					{ "time": 0.3333, "name": "tx/huanguang_00010" },
+					{ "time": 0.4, "name": "tx/huanguang_00012" },
+					{ "time": 0.4667, "name": "tx/huanguang_00014" },
+					{ "time": 0.5333, "name": "tx/huanguang_00016" },
+					{ "time": 0.6, "name": "tx/huanguang_00018" },
+					{ "time": 0.6667, "name": "tx/huanguang_00020" },
+					{ "time": 0.7333, "name": "tx/huanguang_00022" },
+					{ "time": 0.8, "name": "tx/huanguang_00024" },
+					{ "time": 0.8667, "name": "tx/huanguang_00026" },
+					{ "time": 0.9333, "name": "tx/huanguang_00028" },
+					{ "time": 1, "name": "tx/huanguang_00000" }
+				]
+			}
+		}
+	}
+}
+}

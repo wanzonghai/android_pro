@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>effect_transition_water/effect_transition_water_00000.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,362},{588,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{588,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{592,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{592,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{590,1542},{572,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{572,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{718,362},{564,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{564,348}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1074,720},{564,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{564,348}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,1556},{578,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{578,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1430,720},{556,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{556,348}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1170,362},{566,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{566,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,958},{576,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{576,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{604,4},{592,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{592,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,958},{590,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{590,348}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1204,4},{590,350}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{590,350}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{362,362},{572,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{572,348}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{718,934},{564,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{564,348}</string>
+			</dict>
+			<key>effect_transition_water/effect_transition_water_00014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1170,1292},{564,348}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{564,348}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>effect_transition_water_01.png</string>
+			<key>realTextureFileName</key>
+			<string>effect_transition_water_01.png</string>
+			<key>size</key>
+			<string>{1798,1910}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1798</integer>
+			<key>height</key>
+			<integer>1910</integer>
+		</dict>
+	</dict>
+</plist>
