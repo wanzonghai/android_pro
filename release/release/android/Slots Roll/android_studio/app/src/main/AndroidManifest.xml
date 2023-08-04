@@ -1,0 +1,199 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="mxjfhue.wiaufg.roll">
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+
+
+
+    <application
+        android:name="xkjfie.fksiwefjisug"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/naanana"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:allowBackup="false"
+        android:usesCleartextTraffic="true"
+        android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true"
+        tools:replace="android:allowBackup">
+        <!--xiaomi-->
+        <meta-data android:name="notch.config" android:value="portrait" />
+
+<!--        <meta-data android:name="com.wp.ev.alto" android:value="com.wp.ev.alto" />-->
+<!--        <meta-data android:name="com.rwzs.bxh.xfn.xvre.mncy" android:value="com.rwzs.bxh.xfn.xvre.mncy" />-->
+<!--        <meta-data android:name="com.yn.lwgv.pq.jdva" android:value="com.yn.lwgv.pq.jdva" />-->
+<!--        <meta-data android:name="com.elr.qn.yky.bm.sgnu" android:value="com.elr.qn.yky.bm.sgnu" />-->
+<!--        <meta-data android:name="com.mgu.cid.hfp.fe.ausch" android:value="com.mgu.cid.hfp.fe.ausch" />-->
+<!--        <meta-data android:name="com.dbi.iuqi.drjm.bqasg" android:value="com.dbi.iuqi.drjm.bqasg" />-->
+<!--        <meta-data android:name="com.gkn.el.jh.jm.cdw" android:value="com.gkn.el.jh.jm.cdw" />-->
+<!--        <meta-data android:name="com.uuum.ykaa.zta.em.wzf" android:value="com.uuum.ykaa.zta.em.wzf" />-->
+<!--        <meta-data android:name="com.gnvm.rqzb.cd.fupb" android:value="com.gnvm.rqzb.cd.fupb" />-->
+<!--        <meta-data android:name="com.zja.ryx.yz.bllm" android:value="com.zja.ryx.yz.bllm" />-->
+<!--        <meta-data android:name="com.ftpv.nv.zvu" android:value="com.ftpv.nv.zvu" />-->
+<!--        <meta-data android:name="com.qkb.qwwa.utol" android:value="com.qkb.qwwa.utol" />-->
+<!--        <meta-data android:name="com.rr.cea.qn.qrvms" android:value="com.rr.cea.qn.qrvms" />-->
+<!--        <meta-data android:name="com.evrf.oogd.zfop.nbbv" android:value="com.evrf.oogd.zfop.nbbv" />-->
+<!--        <meta-data android:name="com.ef.si.wlsa.vet.lyubi" android:value="com.ef.si.wlsa.vet.lyubi" />-->
+<!--        <meta-data android:name="com.pt.kh.pyzml" android:value="com.pt.kh.pyzml" />-->
+
+<!--        <meta-data android:name="com.muke.qvc.jpks.sy.lecq" android:value="com.muke.qvc.jpks.sy.lecq" />-->
+<!--        <meta-data android:name="com.ja.ap.xkfx.mwuf.einnv" android:value="com.ja.ap.xkfx.mwuf.einnv" />-->
+<!--        <meta-data android:name="com.pz.oc.isaz.hhm.usdnb" android:value="com.pz.oc.isaz.hhm.usdnb" />-->
+<!--        <meta-data android:name="com.sz.qle.fzf" android:value="com.sz.qle.fzf" />-->
+<!--        <meta-data android:name="com.rds.rcz.wkw" android:value="com.rds.rcz.wkw" />-->
+<!--        <meta-data android:name="com.xj.ji.ahm" android:value="com.xj.ji.ahm" />-->
+<!--        <meta-data android:name="com.ed.xr.cp.zg.ezin" android:value="com.ed.xr.cp.zg.ezin" />-->
+<!--        <meta-data android:name="com.fbtq.azc.kfjgf" android:value="com.fbtq.azc.kfjgf" />-->
+<!--        <meta-data android:name="com.if.piy.paxl.snk.ucmix" android:value="com.if.piy.paxl.snk.ucmix" />-->
+<!--        <meta-data android:name="com.vzr.daom.eyakm" android:value="com.vzr.daom.eyakm" />-->
+<!--        <meta-data android:name="com.hx.tnjj.oa.wzdyg" android:value="com.hx.tnjj.oa.wzdyg" />-->
+<!--        <meta-data android:name="com.rqg.vzry.mqxv.rd.zpzeq" android:value="com.rqg.vzry.mqxv.rd.zpzeq" />-->
+<!--        <meta-data android:name="com.ju.zrdo.oub" android:value="com.ju.zrdo.oub" />-->
+        <!--huawei-->
+        <meta-data android:name="android.notch_support" android:value="true" />
+        <provider
+            android:name="xkjfie.qwajsudhuw"
+            android:authorities="${applicationId}.laya.fileprovider"
+            android:grantUriPermissions="true"
+            android:exported="false">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/laya_file_paths" />
+        </provider>
+
+<!--        <meta-data android:name="com.bvli.cpyk.ijo.pigp" android:value="com.bvli.cpyk.ijo.pigp" />-->
+<!--        <meta-data android:name="com.ypc.hmsf.vod.jmp.pyxd" android:value="com.ypc.hmsf.vod.jmp.pyxd" />-->
+<!--        <meta-data android:name="com.ssuj.oxz.xn.nzvl.kjk" android:value="com.ssuj.oxz.xn.nzvl.kjk" />-->
+<!--        <meta-data android:name="com.gvo.mrub.iz.sma.lftg" android:value="com.gvo.mrub.iz.sma.lftg" />-->
+<!--        <meta-data android:name="com.jhyy.hu.ljyj" android:value="com.jhyy.hu.ljyj" />-->
+<!--        <meta-data android:name="com.dz.bq.iqcl.rsf.tyf" android:value="com.dz.bq.iqcl.rsf.tyf" />-->
+<!--        <meta-data android:name="com.lluq.wwfa.mjui.zop.bpash" android:value="com.lluq.wwfa.mjui.zop.bpash" />-->
+<!--        <meta-data android:name="com.suf.it.mcm" android:value="com.suf.it.mcm" />-->
+<!--        <meta-data android:name="com.tl.bjo.amer.ryw" android:value="com.tl.bjo.amer.ryw" />-->
+<!--        <meta-data android:name="com.kfao.cymp.hpp.gemi.cwvsy" android:value="com.kfao.cymp.hpp.gemi.cwvsy" />-->
+<!--        <meta-data android:name="com.ojms.nkew.hbqt" android:value="com.ojms.nkew.hbqt" />-->
+<!--        <meta-data android:name="com.ce.xtpk.pqum.nha" android:value="com.ce.xtpk.pqum.nha" />-->
+<!--        <meta-data android:name="com.bql.qq.anuak" android:value="com.bql.qq.anuak" />-->
+<!--        <meta-data android:name="com.gktp.sf.nm.vq.jsx" android:value="com.gktp.sf.nm.vq.jsx" />-->
+<!--        <meta-data android:name="com.yiqj.ss.rhd.gg.acxap" android:value="com.yiqj.ss.rhd.gg.acxap" />-->
+<!--        <meta-data android:name="com.sfq.leug.ods.ithd.jeo" android:value="com.sfq.leug.ods.ithd.jeo" />-->
+<!--        <meta-data android:name="com.vi.iql.ga.sxgl.cbu" android:value="com.vi.iql.ga.sxgl.cbu" />-->
+
+
+
+        <activity
+            android:name="xkjfie.RollActtttt"
+            android:exported="true"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize"
+            android:launchMode="singleTop"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@style/xkfjifthem"
+            android:label="@string/naanana" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+<!--        <meta-data android:name="com.phbv.ie.xtfr.ifkdn" android:value="com.phbv.ie.xtfr.ifkdn" />-->
+<!--        <meta-data android:name="com.ju.lc.qj.dkn.cbft" android:value="com.ju.lc.qj.dkn.cbft" />-->
+<!--        <meta-data android:name="com.kzt.ajx.ywu.qe.nrt" android:value="com.kzt.ajx.ywu.qe.nrt" />-->
+<!--        <meta-data android:name="com.pe.oxg.rq.vq.hjmwx" android:value="com.pe.oxg.rq.vq.hjmwx" />-->
+<!--        <meta-data android:name="com.bxw.qbeb.mhwi" android:value="com.bxw.qbeb.mhwi" />-->
+<!--        <meta-data android:name="com.le.mfgc.tiq.yetf.wwxud" android:value="com.le.mfgc.tiq.yetf.wwxud" />-->
+<!--        <meta-data android:name="com.eiq.fh.tgds.tt.hlrb" android:value="com.eiq.fh.tgds.tt.hlrb" />-->
+<!--        <meta-data android:name="com.pj.za.rj.dfsw.iswhl" android:value="com.pj.za.rj.dfsw.iswhl" />-->
+<!--        <meta-data android:name="com.vkj.zkm.odd.mm.lkpo" android:value="com.vkj.zkm.odd.mm.lkpo" />-->
+<!--        <meta-data android:name="com.utar.xy.tade.lj.wlpo" android:value="com.utar.xy.tade.lj.wlpo" />-->
+<!--        <meta-data android:name="com.wqf.ntd.cloh.ofs" android:value="com.wqf.ntd.cloh.ofs" />-->
+<!--        <meta-data android:name="com.qo.pci.al.ucxbx" android:value="com.qo.pci.al.ucxbx" />-->
+<!--        <meta-data android:name="com.civi.ipq.avk.ld.wcxz" android:value="com.civi.ipq.avk.ld.wcxz" />-->
+<!--        <meta-data android:name="com.cct.zwa.jeeh.ufqy.vkhtf" android:value="com.cct.zwa.jeeh.ufqy.vkhtf" />-->
+<!--        <meta-data android:name="com.jay.viqm.dcn.pjrc" android:value="com.jay.viqm.dcn.pjrc" />-->
+<!--        <meta-data android:name="com.uvfo.jom.yh.hba.gselv" android:value="com.uvfo.jom.yh.hba.gselv" />-->
+
+        <activity
+            android:name="xkjfie.Mifjsuef"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize"
+            android:launchMode="singleTop"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/naanana" >
+
+        </activity>
+
+<!--        <meta-data android:name="com.mmk.xbdr.hog.gjq" android:value="com.mmk.xbdr.hog.gjq" />-->
+<!--        <meta-data android:name="com.iegq.dssj.bgwe.ujukf" android:value="com.iegq.dssj.bgwe.ujukf" />-->
+<!--        <meta-data android:name="com.pq.ln.czbx" android:value="com.pq.ln.czbx" />-->
+<!--        <meta-data android:name="com.inqd.wzi.riay" android:value="com.inqd.wzi.riay" />-->
+<!--        <meta-data android:name="com.au.pxd.oormm" android:value="com.au.pxd.oormm" />-->
+<!--        <meta-data android:name="com.vtwt.xfm.vkkk.cha" android:value="com.vtwt.xfm.vkkk.cha" />-->
+<!--        <meta-data android:name="com.scm.yqa.mzk.fye" android:value="com.scm.yqa.mzk.fye" />-->
+<!--        <meta-data android:name="com.fk.kb.ov.ypwp" android:value="com.fk.kb.ov.ypwp" />-->
+<!--        <meta-data android:name="com.xx.mnu.sved" android:value="com.xx.mnu.sved" />-->
+<!--        <meta-data android:name="com.wm.ua.jpkrs" android:value="com.wm.ua.jpkrs" />-->
+<!--        <meta-data android:name="com.cw.xo.atxj.ji.lcsld" android:value="com.cw.xo.atxj.ji.lcsld" />-->
+<!--        <meta-data android:name="com.ytf.vco.kntv.vdme.abhao" android:value="com.ytf.vco.kntv.vdme.abhao" />-->
+<!--        <meta-data android:name="com.cp.pfc.gpy" android:value="com.cp.pfc.gpy" />-->
+<!--        <meta-data android:name="com.htg.yw.recz.peh.ien" android:value="com.htg.yw.recz.peh.ien" />-->
+<!--        <meta-data android:name="com.mqwz.vkzg.clxc.ksg.ymmis" android:value="com.mqwz.vkzg.clxc.ksg.ymmis" />-->
+<!--        <meta-data android:name="com.ale.pt.awjh.lufwa" android:value="com.ale.pt.awjh.lufwa" />-->
+<!--        <meta-data android:name="com.xtg.amrs.abx.tx.opz" android:value="com.xtg.amrs.abx.tx.opz" />-->
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/kdfuefhsudfef" />
+        <activity
+            android:exported="true"
+            android:name="com.facebook.FacebookActivity"
+            android:screenOrientation="sensorLandscape"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/naanana" />
+<!--        <meta-data android:name="com.gi.xsxx.ezva.ofb" android:value="com.gi.xsxx.ezva.ofb" />-->
+<!--        <meta-data android:name="com.su.apzk.rmm" android:value="com.su.apzk.rmm" />-->
+<!--        <meta-data android:name="com.fju.mx.bzrw.lb.yoi" android:value="com.fju.mx.bzrw.lb.yoi" />-->
+<!--        <meta-data android:name="com.gva.kmz.ivuh.bxfu" android:value="com.gva.kmz.ivuh.bxfu" />-->
+<!--        <meta-data android:name="com.aa.wf.xm.sln.ifgd" android:value="com.aa.wf.xm.sln.ifgd" />-->
+<!--        <meta-data android:name="com.pri.dkh.rum.cf.xpet" android:value="com.pri.dkh.rum.cf.xpet" />-->
+<!--        <meta-data android:name="com.in.xmoc.ey.dbsv" android:value="com.in.xmoc.ey.dbsv" />-->
+<!--        <meta-data android:name="com.ahbm.us.lzt.adot" android:value="com.ahbm.us.lzt.adot" />-->
+<!--        <meta-data android:name="com.ajk.uz.lfz" android:value="com.ajk.uz.lfz" />-->
+<!--        <meta-data android:name="com.yzuu.lgmu.chl" android:value="com.yzuu.lgmu.chl" />-->
+<!--        <meta-data android:name="com.fkgm.op.seo.ndovw" android:value="com.fkgm.op.seo.ndovw" />-->
+<!--        <meta-data android:name="com.tl.ui.xsp" android:value="com.tl.ui.xsp" />-->
+<!--        <meta-data android:name="com.zjpn.dc.ahkx" android:value="com.zjpn.dc.ahkx" />-->
+<!--        <meta-data android:name="com.bu.gpmi.wja" android:value="com.bu.gpmi.wja" />-->
+<!--        <uses-library android:name="org.apache.http.legacy" android:required="false" />-->
+
+<!--        <meta-data android:name="com.dvx.sqnd.yq.cyh" android:value="com.dvx.sqnd.yq.cyh" />-->
+<!--        <meta-data android:name="com.pjiy.dg.cl.dqptb" android:value="com.pjiy.dg.cl.dqptb" />-->
+<!--        <meta-data android:name="com.qckr.afm.lfa" android:value="com.qckr.afm.lfa" />-->
+<!--        <meta-data android:name="com.bu.ljrb.nw.rieg" android:value="com.bu.ljrb.nw.rieg" />-->
+<!--        <meta-data android:name="com.qag.fkk.deysa" android:value="com.qag.fkk.deysa" />-->
+<!--        <meta-data android:name="com.qljl.pxl.twlz.dzjmd" android:value="com.qljl.pxl.twlz.dzjmd" />-->
+<!--        <meta-data android:name="com.xr.txs.me.nxgo" android:value="com.xr.txs.me.nxgo" />-->
+<!--        <meta-data android:name="com.lfw.niva.ccq" android:value="com.lfw.niva.ccq" />-->
+<!--        <meta-data android:name="com.avwf.dmcf.iiho.kok" android:value="com.avwf.dmcf.iiho.kok" />-->
+<!--        <meta-data android:name="com.tda.vqm.em.kgrm.wvcey" android:value="com.tda.vqm.em.kgrm.wvcey" />-->
+<!--        <meta-data android:name="com.dqe.ui.gluj.nm.hjn" android:value="com.dqe.ui.gluj.nm.hjn" />-->
+<!--        <meta-data android:name="com.aosw.hzom.frxu.kcw" android:value="com.aosw.hzom.frxu.kcw" />-->
+<!--        <meta-data android:name="com.amo.bjbn.ljtpz" android:value="com.amo.bjbn.ljtpz" />-->
+<!--        <meta-data android:name="com.fixp.gj.avf.oflhk" android:value="com.fixp.gj.avf.oflhk" />-->
+<!--        <meta-data android:name="com.mjta.ck.rpsu.zro.dbnc" android:value="com.mjta.ck.rpsu.zro.dbnc" />-->
+<!--        <meta-data android:name="com.jdbj.uj.pq.vctcx" android:value="com.jdbj.uj.pq.vctcx" />-->
+    </application>
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="https" />
+        </intent>
+    </queries>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+</manifest>

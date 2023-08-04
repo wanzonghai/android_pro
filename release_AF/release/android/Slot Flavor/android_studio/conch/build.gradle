@@ -1,0 +1,92 @@
+import proguard.gradle.ProGuardTask
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 14
+        versionName "release-2.6.1"
+        vectorDrawables.useSupportLibrary = true
+        externalNativeBuild {
+            cmake {
+                cppFlags "-fno-rtti -fexceptions -Wno-multichar"
+                arguments "-DANDROID_STL=c++_shared","-DANDROID_PLATFORM=android-21", "-DANDROID_ARM_NEON=TRUE", "-DANDROID_TOOLCHAIN=clang"
+                abiFilters  'armeabi-v7a', 'arm64-v8a'//,'x86','x86_64', 'armeabi'
+            }
+        }
+    }
+    sourceSets.main{
+        jniLibs.srcDir 'libs'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    android {
+        ndkVersion "21.0.6113669"//ndk r21e
+    }
+}
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.exifinterface:exifinterface:1.0.0'
+    implementation 'androidx.core:core:1.6.0'
+    //implementation 'org.jetbrains:annotations-java5:15.0'
+    testImplementation 'junit:junit:4.12'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'com.github.bumptech.glide:glide:3.8.0'
+    implementation 'com.google.code.gson:gson:2.8.5'
+    implementation 'com.danikula:videocache:2.7.1'
+    implementation project(':conch:flowcamera')
+    implementation("com.squareup.okhttp3:okhttp:3.14.9")
+}
+android {
+    lintOptions {
+        abortOnError false
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    ndkVersion '21.0.6113669'
+}
+
+
+def SDK_BASENAME = "conch5";
+def SDK_VERSION = "_1.0";
+def sdkDestinationPath = "outJar";
+def zipFile = file('build/intermediates/packaged-classes/release/classes.jar');
+
+def fromJar=sdkDestinationPath +"/"+ SDK_BASENAME + SDK_VERSION + ".jar";
+def toJar=sdkDestinationPath +"/"+ SDK_BASENAME + SDK_VERSION + "_min.jar";
+task deleteBuild(type: Delete) {
+    delete fromJar
+}
+
+
+task conchUglify(type: ProGuardTask, dependsOn: "build") {
+// 未混淆的jar
+    injars fromJar
+// 混淆后的jar路径
+    outjars toJar
+// 具体需要keep住的类
+    configuration 'proguard-rules.pro'
+}
+
+
+task conchMakeJar(type: Jar) {
+    from zipTree(zipFile)
+    //from fileTree(dir:'build/intermediates/classes/release',includes:['laya/**'])
+    from fileTree(dir: 'src/main',includes: ['assets/**'])
+    baseName = SDK_BASENAME + SDK_VERSION
+    destinationDir = file(sdkDestinationPath)
+}
+
+
+conchMakeJar.dependsOn(deleteBuild, build)

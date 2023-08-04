@@ -1,0 +1,77 @@
+apply plugin: 'com.android.application'
+
+android {
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    signingConfigs {
+        release {
+            keyAlias 'fla'
+            keyPassword '123456'
+            storeFile file("../key/fla.jks")
+            storePassword '123456'
+        }
+        debug {
+            keyAlias 'fla'
+            keyPassword '123456'
+            storeFile file("../key/fla.jks")
+            storePassword '123456'
+        }
+    }
+    compileSdkVersion 31
+    buildToolsVersion '31.0.0'
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+		applicationId "kfieji.qaudhw.flayw"
+        versionCode 1
+        versionName "1.0.3"
+        minSdkVersion 24
+        targetSdkVersion 31
+        multiDexEnabled true //方法数超过65536时，开启多dex的支持
+        ndk {
+            // 设置支持的SO库架构
+            abiFilters 'arm64-v8a', 'armeabi-v7a'//, 'x86' 'armeabi', 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+        }
+        flavorDimensions "default"
+    }
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+    }
+    buildTypes {
+        release {
+            zipAlignEnabled true
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            zipAlignEnabled true
+            signingConfig signingConfigs.debug
+        }
+    }
+    // java8配置
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+}
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs')
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation project(path: ':conch')
+    testImplementation 'junit:junit:4.12'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'com.facebook.android:facebook-android-sdk:[11,12)'
+    implementation 'com.appsflyer:af-android-sdk:6.2.3'
+    implementation 'com.alibaba:fastjson:1.2.76'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+}

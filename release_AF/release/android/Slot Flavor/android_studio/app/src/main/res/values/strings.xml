@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Slot Flavor</string>
+    <string name="on_back_pressed">Click the back button again to exit the app!</string>
+    <string name="alert_dialog_title">Tips</string>
+    <string name="todo">todo</string>
+    <string name="waring">Waring</string>
+    <string name="permission_waring">Failed to obtain permission, which may cause some functions to fail to work normally. Please go to the application permission setting page for manual authorization</string>
+    <string name="init_failed">Initialization failed, please exit and try again</string>
+    <string name="ok">OK</string>
+    <string name="network_error">The network is abnormal, please check your network or contact the developer</string>
+    <string name="parse_json_error">Parse json error, please exit and try again</string>
+    <string name="download_error">Download error, please exit and try again</string>
+    <string name="internal_error">Internal error, please contact the developer</string>
+    <string name="tip1">Welcome to the new world</string>
+    <string name="tip2">A funny and creative community is waiting</string>
+    <string name="tip3">Preparing tools for creation</string>
+    <string name="facebook_app_id">150455364665967</string>
+</resources>
